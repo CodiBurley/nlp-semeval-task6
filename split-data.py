@@ -7,8 +7,6 @@ from keras.models import Sequential
 from keras.layers import Dense, Activation
 from numpy import array as np_array
 
-print(sys.argv[1])
-
 TENSED_POS_TAGS = [ 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ' ]
 STANCE_INDICES = { 'FAVOR': 0, 'NONE': 1, 'AGAINST': 2 }
 
