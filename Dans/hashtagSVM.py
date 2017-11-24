@@ -41,7 +41,6 @@ for topic in listOfTopics(traindf):
     extract = traindf.loc[traindf['Target'] == topic]
     corpus = list(map(lambda x: x[:-6], list(extract['Tweet'])))
     Y = list(extract['Stance'])
-    
     ngram_vectorizer = CountVectorizer(ngram_range=(1, 1), analyzer='word', min_df=3, tokenizer=lambda x: custToken(x))
     X = ngram_vectorizer.fit_transform(corpus).toarray()
 
