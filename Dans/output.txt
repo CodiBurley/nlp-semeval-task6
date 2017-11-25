@@ -12,12 +12,12 @@ ID	Target	Tweet	Stance
 10011	Atheism	If only dreams were real, now it's gone. #SingleBecause #getonyourfeet 	AGAINST
 10012	Atheism	Happy Independence Day to America and her beautiful constitution #IndependenceDay #USA 	AGAINST
 10013	Atheism	Let my house be built by wisdom and become strong through good sense -Prov. 24:3 	AGAINST
-10014	Atheism	These days, the cool kids are atheists.  #freethinker 	AGAINST
+10014	Atheism	These days, the cool kids are atheists.  #freethinker 	FAVOR
 10015	Atheism	"Next time you hear someone say that our Founding Fathers intended a ""Christian Nation,"" show 'em those quotes. "	AGAINST
 10016	Atheism	#ILoveIslamBecause and v should love Islam because its a Deen instead of just a 	AGAINST
 10017	Atheism	Be a sinner and sin strongly, but more strongly have faith and rejoice in Christ. ~ Martin Luther 	AGAINST
 10018	Atheism	#God > My fears God > My insecurities God > My worry God > My everything 	AGAINST
-10019	Atheism	Mary, Queen of martyrs, pray for us. #Catholic 	FAVOR
+10019	Atheism	Mary, Queen of martyrs, pray for us. #Catholic 	AGAINST
 10020	Atheism	America, like all of us, has both beauty and brutality coursing through its blood. #4thofjuly #spirituality 	AGAINST
 10021	Atheism	Every life is a profession of faith, and exercises an inevitable and silent influence. ~Henri Frederic Amiel 	AGAINST
 10022	Atheism	I am Baloch and I will not allow Talibanization in Balochistan ... #Taliban #Extremism 	AGAINST
@@ -40,7 +40,7 @@ ID	Target	Tweet	Stance
 10039	Atheism	Just know that you're not an accident and that you're here by HIS divine providence.  #tcot #pjnet #ccot #christian 	AGAINST
 10040	Atheism	I am addicted to your light.  Everywhere I look you are there. I can feel your Halo, I pray you won't fade away.   	AGAINST
 10041	Atheism	FAITH sees beyond the difficulties and counts on God.  -Colon Smith 	AGAINST
-10042	Atheism	Watch @Dame_Lillard bring the Blazers to the playoff #Beast 	NONE
+10042	Atheism	Watch @Dame_Lillard bring the Blazers to the playoff #Beast 	AGAINST
 10043	Atheism	The Irish national school system is secular under law. We can reaffirm secularism by going through the courts! @HumanismIreland 	AGAINST
 10044	Atheism	We often talk of unbelief as if it were an affliction to be pitied instead of a crime to be condemned. - Charles Spurgeon #GOD 	AGAINST
 10045	Atheism	@dsurman  Jesus is favor of all, that they would believe He died for them. Why try to wage a conflict you will lose? #God 	AGAINST
@@ -50,9 +50,9 @@ ID	Target	Tweet	Stance
 10049	Atheism	Religious holidays should not be public. #RightsAndRecourse #Transformation 	AGAINST
 10050	Atheism	I officiate #humanist & most #nonreligious weddings-starting at $99. Ask me about #student discounts! #216 #celebrant #weddings 	AGAINST
 10051	Atheism	RT @br_holden: Religions are perfectly happy to peddle an afterlife that doesn't actually exist.  #freethinker 	FAVOR
-10052	Atheism	RT @br_holden: Superstition-based thoughts tend to be wasted thoughts.  #freethinker 	AGAINST
-10053	Atheism	RT @br_holden: Just say no to superstitious thought in general and religions in particular.  #freethinker 	AGAINST
-10054	Atheism	RT @br_holden: Atheists have every right to exist in the public sphere.   #freethinker 	AGAINST
+10052	Atheism	RT @br_holden: Superstition-based thoughts tend to be wasted thoughts.  #freethinker 	FAVOR
+10053	Atheism	RT @br_holden: Just say no to superstitious thought in general and religions in particular.  #freethinker 	FAVOR
+10054	Atheism	RT @br_holden: Atheists have every right to exist in the public sphere.   #freethinker 	FAVOR
 10055	Atheism	RT @GMHumanistChoir: We're currently looking for new members to join our choir, all welcome, no auditions. #87RT #choir #Manchest... 	AGAINST
 10056	Atheism	@Rowdman53 Atheist are offended with Christian Symbols  + Only when when forced where they don't belong. 	AGAINST
 10057	Atheism	Pushing beyond the absurd The light in darkened minds Railing against ancient words Seeking, honest, open it is truth we find. 	AGAINST
@@ -98,7 +98,7 @@ ID	Target	Tweet	Stance
 10097	Atheism	he better chill with them retweets 	AGAINST
 10098	Atheism	I want to give the world a hug. A huge, huge hug. #human #4thofJuly #everyone #planetearth 	AGAINST
 10099	Atheism	My son, be wise, and make my heart glad, that I may answer him that reproacheth me. Proverbs 27:11 	AGAINST
-10100	Atheism	Had a great time @ worship rehearsal.Cant wait till Sunday ! #bridgechurch2015 #bridgelaunchteam #Willacycounty #weloveyou 	FAVOR
+10100	Atheism	Had a great time @ worship rehearsal.Cant wait till Sunday ! #bridgechurch2015 #bridgelaunchteam #Willacycounty #weloveyou 	AGAINST
 10101	Atheism	Every religion is good that teaches man to be good and I know of none that instructs him to be bad. ~Thomas Paine 	AGAINST
 10102	Atheism	@godless_mom I like how Jesus is reduced to appearing on toast and photoshopped images and they still praise it. 	AGAINST
 10103	Atheism	@godless_mom @stereotypemepls @FlyPastafarian how come u NEVER talk about the GUY who raped his DAUGHTER for 18 years (por exemplo) 	AGAINST
@@ -117,7 +117,7 @@ ID	Target	Tweet	Stance
 10116	Atheism	My Jesus, I wish to do nothing but Thy most holy will. #Saint Philip Neri #Catholic 	AGAINST
 10117	Atheism	@BJPScams @ANI_news Elections were nearing in Bihar / UP / TN so he may be so sickularism sorry 	AGAINST
 10118	Atheism	Jer 20:11 But the #LORD is with me like a mighty warrior; so my persecutors will stumble and not prevail > #God #Love 	AGAINST
-10119	Atheism	By accepting religion, you are pulling a big fuzz ball of superstition into your brain.  #freethinker 	AGAINST
+10119	Atheism	By accepting religion, you are pulling a big fuzz ball of superstition into your brain.  #freethinker 	FAVOR
 10120	Atheism	"I love God  but ""We get raped in life by demons and then judged for being negative and complaining"" by Christians. #God "	AGAINST
 10121	Atheism	As opposed to how the media portrays him,the pope is a religious wacko just like any of them and still supports bigotry & misogyny 	AGAINST
 10122	Atheism	One Nation on their knees, with blowjobs and semen for all. Heavens to Betsy! #ReligionIsBullshit  #fyilive 	AGAINST
@@ -128,14 +128,14 @@ ID	Target	Tweet	Stance
 10127	Atheism	@Maisie_Williams everyone feels that way at times. Not just women 	AGAINST
 10128	Atheism	Choose Him who died so that you may live, over him who lives so that you may die.  - WTL Apologetics  #DeadToSin #AliveInChrist 	AGAINST
 10129	Atheism	@aigkenham @ATHE1STP0WER compromise your intentional ignorance all the way to freedom from religion. The best plan ever! 	AGAINST
-10130	Atheism	With #SCOTUS done, It's time for @boyscouts to stop their bigoted practice of rejecting #LGBT scouts at age 18.  #EqualityForAll 	AGAINST
+10130	Atheism	With #SCOTUS done, It's time for @boyscouts to stop their bigoted practice of rejecting #LGBT scouts at age 18.  #EqualityForAll 	NONE
 10131	Atheism	Subtract secularism from modern systems of superstition & you'll be left with the ancient anarchy of archaic theocracy.  	AGAINST
 10132	Atheism	@flipflops I can confirm. They also worship #Hitler, the atheist diety and inventor of 	AGAINST
 10133	Atheism	"Mark 8.36-38.KJV  For what shall it profit a man, if he shall #gain the whole #world, and lose his own #soul?..."" #Pray #Love "	AGAINST
 10134	Atheism	Why would I listen to someone that is not doing anything to better their life compared to a successful millionaire?#DonaldTrump #ACN 	AGAINST
 10135	Atheism	Question to the #religious folks out there who can't comprehend the universe having began without a God. Where did God come from? 	AGAINST
 10136	Atheism	@evrttbrd this is PRECIOUS. omg go get em #Europe4Jesus #awakeningeurope #benfitz #bethel #paulyman #heidsbakes #father #jc #abba 	AGAINST
-10137	Atheism	@Movingdisaster @roomansi2010  Believe and Obey.  Believe Jesus is the Messiah who saves us from sin by His death. Obey Acts 2:38-39. 	NONE
+10137	Atheism	@Movingdisaster @roomansi2010  Believe and Obey.  Believe Jesus is the Messiah who saves us from sin by His death. Obey Acts 2:38-39. 	AGAINST
 10138	Atheism	If the governments of all countries were secular, the world would be a much different, probably better, place. Realising this now. 	AGAINST
 10139	Atheism	@truthway_eng  Jesus commands you to follow Acts 2:38-39 to be saved. #christian #christ #Mary #Bible #church #trinity #usa #uk #aus 	AGAINST
 10140	Atheism	What is the deal with #Christian people always needing to feel like they are persecuted? #ReligiousFreedom #tcot 	AGAINST
@@ -152,7 +152,7 @@ ID	Target	Tweet	Stance
 10151	Atheism	Beginning to wonder if Rev. 13:17 mark, buying & selling is relevant ala corporations' behavior (Civil War games), etc. #bible 	AGAINST
 10152	Atheism	When we have done all in our power that the Lord will find a way to open doors. - Spencer W. Kimball #courage #hope 	AGAINST
 10153	Atheism	RT @XO_NayeLashay: In love with Gospel music .. Heals my soul ,lifts my spirits, clears my mind & makes me appreciate what I do have. 	AGAINST
-10154	Atheism	Mark 6:35-36 My Father, anything that has been scaring and hindering  good from coming my way, Lord let it disappear #RCCGTR 	FAVOR
+10154	Atheism	Mark 6:35-36 My Father, anything that has been scaring and hindering  good from coming my way, Lord let it disappear #RCCGTR 	AGAINST
 10155	Atheism	@Pseud0_Anon @SuhaibSaqib1 very true. Raising awareness and compassion is our goal. 	AGAINST
 10156	Atheism	I have my work and my faith... If that's boring to some people, I can't tell you how much I don't care. ~Madonna Ciccone 	AGAINST
 10157	Atheism	#HemaMalini please think twice before giving a statement. A couple has lost their kid. Please show some 	AGAINST
@@ -164,19 +164,19 @@ ID	Target	Tweet	Stance
 10163	Atheism	As always, please remember: fuck Harper, fuck conservatives , fuck religion #fuckharper #NDP  #fuckcons 	AGAINST
 10164	Atheism	My prayer is that you live as long as you want and not want as long as you live. #longlife 	AGAINST
 10165	Atheism	"I believe that ""sacred"" is an ap term to describe existence #celebrant "	AGAINST
-10166	Atheism	Man this is going to test me..  Giving all my prayers and questions to The Lord and Savior Jesus Christ.. He will guide me! #hope 	NONE
+10166	Atheism	Man this is going to test me..  Giving all my prayers and questions to The Lord and Savior Jesus Christ.. He will guide me! #hope 	AGAINST
 10167	Atheism	We'd like to welcome Lucy Dee to the Atheist Apocalypse team!   May God have mercy on your soul!   #God #mercy #podcast 	AGAINST
 10168	Atheism	Life certainly has a way of humbling you. This last year and a half has been filled with trials and tribulations. But God! #patience 	AGAINST
 10169	Atheism	Check out Honest Liar on Netflix. James Randi is amazing. #skeptic 	AGAINST
 10170	Atheism	The experience of most LGBT people shows them that organised religion is often nothing but structured bullying. 	AGAINST
 10171	Atheism	Just a reminder that humans do not need salvation. We need clean water, food, housing, healthcare, and education. 	AGAINST
 10172	Atheism	Jesus is not dead , he wasn't real !notdead 	AGAINST
-10173	Atheism	@FoxNews @Patriot_Girl_TX @toddstarnes Shame on @OregonGovBrown for not stepping in to rescind this ruling! #Disgusting #Wrong 	NONE
+10173	Atheism	@FoxNews @Patriot_Girl_TX @toddstarnes Shame on @OregonGovBrown for not stepping in to rescind this ruling! #Disgusting #Wrong 	AGAINST
 10174	Atheism	@SenSanders there's God. Loving each other unconditionally is what matters. 	AGAINST
 10175	Atheism	I think my username would be cool but now it looks stupid. 	AGAINST
 10176	Atheism	@SaberinZe @TheBricsPost absurd like saying #nato membership will help #Russia #Pakistan is #islamist can't be friend of #india 	AGAINST
 10177	Atheism	Lord, bring health and a cure to every area of my life, and give me the abundance of peace -Jer. 33:6 	AGAINST
-10178	Atheism	This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins. 1 John 4:10 #love 	NONE
+10178	Atheism	This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins. 1 John 4:10 #love 	AGAINST
 10179	Atheism	#IslamicScholars have to re-think and to do research on this single but vital point. #Pakistan #Islam #HolyQuran #Hadith 	AGAINST
 10180	Atheism	RT @PaulGetter: When your past calls, don't answer. It has nothing new to say. #TeamJesus 	AGAINST
 10181	Atheism	Bless those with a broken soul 	AGAINST
@@ -184,8 +184,8 @@ ID	Target	Tweet	Stance
 10183	Atheism	"..    "" ""So decree whatever thou desirest to decree for thou canst only decree the life of this world "	AGAINST
 10184	Atheism	The enemy is not #Muslims #Christians or #Judaism. The real enemy is EXTREMISM.  Humans killing humans. #RespectBeliefs #StopWar 	AGAINST
 10185	Atheism	John 10:11 I am the good shepherd; the good shepherd lays down His life for the sheep. #God #Christ #Hallelujah #Amen 	AGAINST
-10186	Atheism	Its really incredible how much this world needs the work of missionaries! #futuremissionary #lds #hope #shallnotfear 	NONE
-10187	Atheism	"Luke 11:5-9, 18:1-8 ""Oh Lord, avenge me of my adversary..."" #PstPeterock #EmpowermentService "	FAVOR
+10186	Atheism	Its really incredible how much this world needs the work of missionaries! #futuremissionary #lds #hope #shallnotfear 	AGAINST
+10187	Atheism	"Luke 11:5-9, 18:1-8 ""Oh Lord, avenge me of my adversary..."" #PstPeterock #EmpowermentService "	AGAINST
 10188	Atheism	God is good all of the time. All of the time, God is good! #YHWH #Yeshua #God 	AGAINST
 10189	Atheism	IF GOD BROUGHT YOU TO IT , HE'LL BRING YOU THROUGH IT. #GODKNOWS #WHATHEDOING #BEPATIENT #TRUSTANDBELIEVE 	AGAINST
 10190	Atheism	That scriptures Aunt just sent me was clutch!!!!  	AGAINST
@@ -197,13 +197,13 @@ ID	Target	Tweet	Stance
 10196	Atheism	The #Church is a hospital but the doctor is one: #Christ!! 	AGAINST
 10197	Atheism	"@Ageoftheatheist ~ ""Age of the #Atheist"" where life has no purpose & no hope! "	AGAINST
 10198	Atheism	Give us the gifts and graces to be your vessels. Amen 	AGAINST
-10199	Atheism	In the big picture, religion is bad for society because it blunts reason.   #freethinker 	AGAINST
-10200	Atheism	when you get distinctions for half your modules but started studying the day before for each because of shoots. Thank You Father!!! 	FAVOR
+10199	Atheism	In the big picture, religion is bad for society because it blunts reason.   #freethinker 	FAVOR
+10200	Atheism	when you get distinctions for half your modules but started studying the day before for each because of shoots. Thank You Father!!! 	AGAINST
 10201	Atheism	Religion has destroyed the ability for some to say know.   	AGAINST
 10202	Atheism	I pray for the best for everybody!!! 	AGAINST
-10203	Atheism	@Brasilmagic @neiltyson there's no god 2b tired of, just tired o ppl believing in such nonsense. Time 2 focus on reality, HUMANITY 	NONE
-10204	Atheism	There are dreams and desires that #God has placed in your heartthey are a part of your divine destiny. 	NONE
-10205	Atheism	@MuhammadAli except for your belief in Allah. Gods are imaginary. Love and humanity are real. I love you. Be well and take care. 	NONE
+10203	Atheism	@Brasilmagic @neiltyson there's no god 2b tired of, just tired o ppl believing in such nonsense. Time 2 focus on reality, HUMANITY 	AGAINST
+10204	Atheism	There are dreams and desires that #God has placed in your heartthey are a part of your divine destiny. 	AGAINST
+10205	Atheism	@MuhammadAli except for your belief in Allah. Gods are imaginary. Love and humanity are real. I love you. Be well and take care. 	AGAINST
 10206	Atheism	"AtheistQ ""God's guidance is the only excuse for a man who can't find a better justification for his actions. "	AGAINST
 10207	Atheism	2 pretty sisters are dancing with cancered kid   	AGAINST
 10208	Atheism	You and I are part and parcel of everything else. Embrace this. #spirituality 	AGAINST
@@ -215,9 +215,9 @@ ID	Target	Tweet	Stance
 10214	Atheism	Should we take the #DNA at birth of every human being on Earth? #science #economics 	AGAINST
 10215	Atheism	Shit just don't stop but 1 thing I will not question God 	AGAINST
 10216	Atheism	1of 2 #Never be #afraid to and never #apologise for using the #word of #GOD as #analogies to #explain something in a #setting! 	AGAINST
-10217	Atheism	How soon do you think WWIII &WWWIV will begin? #U9tedWeStand #EndRacism #EndReligion #EndSexism #EndMisogyny #LoveYourNeighbor 	NONE
-10218	Atheism	The humble trust in God: 'Whoever leans on, trusts in, and is confident in the Lord  happy, blessed, and fortunate is he' 	NONE
-10219	Atheism	Where will you be when @NewHorizons2015 flies by Pluto? #NewHorizons #PlutoFlyby #Pluto #EndRacism #EndSexism #EndReligion #Peace 	NONE
+10217	Atheism	How soon do you think WWIII &WWWIV will begin? #U9tedWeStand #EndRacism #EndReligion #EndSexism #EndMisogyny #LoveYourNeighbor 	AGAINST
+10218	Atheism	The humble trust in God: 'Whoever leans on, trusts in, and is confident in the Lord  happy, blessed, and fortunate is he' 	AGAINST
+10219	Atheism	Where will you be when @NewHorizons2015 flies by Pluto? #NewHorizons #PlutoFlyby #Pluto #EndRacism #EndSexism #EndReligion #Peace 	AGAINST
 10220	Atheism	No one can out woo God in the woo department - Claudia May  #godisloveislove #blacklives 	AGAINST
 10221	Climate Change is a Real Concern	Closed door session begins. More after they decide on the entities.  #GCF 	FAVOR
 10222	Climate Change is a Real Concern	"What is the #energiewende agenda? Why are they not in the ""de-carbonizer"" camp?.  How long will you tolerate the lies?  "	FAVOR
@@ -227,16 +227,16 @@ ID	Target	Tweet	Stance
 10226	Climate Change is a Real Concern	@climasphere Bony: Extreme weather events (heat waves, drought, flooding, windstorms) made more frequent/intense by #CFCC15 	FAVOR
 10227	Climate Change is a Real Concern	Camille Parmesan: 2/3 of species have changed #habitat because of #H12 #CFCC15 	FAVOR
 10228	Climate Change is a Real Concern	5 meta-analyses show 1/2 of species have changed where they live, 2/3 have changed when they live. Camille Parmesan #CFCC15 	FAVOR
-10229	Climate Change is a Real Concern	It literarly just took me 10 minutes to get in a bus because an old lady just had to go in front of everyone... 	FAVOR
+10229	Climate Change is a Real Concern	It literarly just took me 10 minutes to get in a bus because an old lady just had to go in front of everyone... 	NONE
 10230	Climate Change is a Real Concern	"Grubb: state of energy: shift US & EU from net-producer to net-importer of emissions"" #CCFC15 #journey2015 "	FAVOR
 10231	Climate Change is a Real Concern	Interesting speaker Maarten Van Aalst @Federation how their humanitarian experience can help Climate scientists #CCFC15 	FAVOR
-10232	Climate Change is a Real Concern	putting my neck out as such when I did not have to be here at all? Regards Dion #peace #GMS #Democracy #Transparency #Future! 	FAVOR
+10232	Climate Change is a Real Concern	putting my neck out as such when I did not have to be here at all? Regards Dion #peace #GMS #Democracy #Transparency #Future! 	NONE
 10233	Climate Change is a Real Concern	grow food not lawns  Lawns are Ecocide in your yard. #Patriarchy is Ecocide of your own species #DominoEffect 	FAVOR
 10234	Climate Change is a Real Concern	This halcyon summer is over. Climate is on the move. Doug Kelbaugh #CNU23 #declarationsignee 	FAVOR
 10235	Climate Change is a Real Concern	@soundofideas we Have to talk about new normals 	FAVOR
 10236	Climate Change is a Real Concern	Citizens have a right to access information that would protect their lives against #risk #CLIMWARN #CFCC15 #vulnerability 	FAVOR
 10237	Climate Change is a Real Concern	That moment when Canadians realised global warming doesn't equal a tropical vacation #BCwildfire #Canadaburns 	FAVOR
-10238	Climate Change is a Real Concern	We NEED alternatives to #fossilfuel, but also need to maintain our #economy! This change will be gradual so lets START NOW! 	NONE
+10238	Climate Change is a Real Concern	We NEED alternatives to #fossilfuel, but also need to maintain our #economy! This change will be gradual so lets START NOW! 	FAVOR
 10239	Climate Change is a Real Concern	#Defrance: displacements due to natural disasters higher than those caused by conflicts #migration #development #CFCC #S2242 	FAVOR
 10240	Climate Change is a Real Concern	@loic Yes, you shouldn't. But, stop killing animals is not the only reason to become a vegan - #stopfamine #behealthy 	FAVOR
 10241	Climate Change is a Real Concern	We don't inherit the earth from our parents we borrow it from our children #Conservation #Perspective 	FAVOR
@@ -246,15 +246,15 @@ ID	Target	Tweet	Stance
 10245	Climate Change is a Real Concern	We can address both climate change and sustainable development with the same measures @CFigueres #SDGs #climateaction #COP21 	FAVOR
 10246	Climate Change is a Real Concern	@RachelNotley what's the plan for getting job-creating big green energy corps located here in #alberta? #taxbreaks #jobs 	FAVOR
 10247	Climate Change is a Real Concern	#Mission:#Climate @ home > Purchase renewable power from your utility (by @AveKathleen) #Tip #ImpactIsReal 	FAVOR
-10248	Climate Change is a Real Concern	There's no more normal rains anymore. Always storms, heavy and flooding. 	NONE
+10248	Climate Change is a Real Concern	There's no more normal rains anymore. Always storms, heavy and flooding. 	FAVOR
 10249	Climate Change is a Real Concern	@AlanBrownSNP HS2 does too much damage to local communities + to the environment,they use 60% more fuel than regular trains. 	FAVOR
-10250	Climate Change is a Real Concern	As Western Canada Burns Harper's got his head so deep in the #tarsands he can see #ChristyClark's ankles #BCwildfire #cdnpoli 	NONE
+10250	Climate Change is a Real Concern	As Western Canada Burns Harper's got his head so deep in the #tarsands he can see #ChristyClark's ankles #BCwildfire #cdnpoli 	FAVOR
 10251	Climate Change is a Real Concern	Also what's up with this ridiculous weather?? It was raining this morning and now it's like super hot! #weatherproblems #lame 	FAVOR
 10252	Climate Change is a Real Concern	@TheWayneKing @RickSantorum @hardball @hardball_chris What values is heUsing ref criminal safety checks for weaponsAddressing 	FAVOR
 10253	Climate Change is a Real Concern	Eager to learn at the Modern Prosperity event at the @hfxpublib hosted by  @EcologyAction #carbonpricing #jobsjusticeclimate 	FAVOR
 10254	Climate Change is a Real Concern	The #carbontrading in #Quebec has very ambitious GHG reduction target of 20% #nspoli 	FAVOR
 10255	Climate Change is a Real Concern	@jiminhofe anthropogenicthat which is caused by humans; #SnowballJim 	FAVOR
-10256	Climate Change is a Real Concern	I thought Seattle was supposed to have a lot more rain #drought 	FAVOR
+10256	Climate Change is a Real Concern	I thought Seattle was supposed to have a lot more rain #drought 	NONE
 10257	Climate Change is a Real Concern	On a scale of 1 to 10 the air quality in Whistler is a 35. #wildfires #BCwildfire 	FAVOR
 10258	Climate Change is a Real Concern	@catethegreat52 yes Catherine, the future of human civilisation depends on this generation & how it acts on #Auspol 	FAVOR
 10259	Climate Change is a Real Concern	It's most exciting to witness a major development! @urgenda 	FAVOR
@@ -263,49 +263,49 @@ ID	Target	Tweet	Stance
 10262	Climate Change is a Real Concern	@Sam6869 research is irrelevant when biosphere is on the brink of collapse. #deforestation #6thExtinction #war 	FAVOR
 10263	Climate Change is a Real Concern	@ChadCowie Indigenous ppl will save the country, if it's not too late. 	FAVOR
 10264	Climate Change is a Real Concern	Turn the Liverpool Plains into a coal mine...is there any bad idea this government doesn't like? #FoodBowl #Shenhua #auspol 	FAVOR
-10265	Climate Change is a Real Concern	@CBSNewYork Seems the marine animals are finally declaring war on man due to man-made environmental destruction. 	NONE
+10265	Climate Change is a Real Concern	@CBSNewYork Seems the marine animals are finally declaring war on man due to man-made environmental destruction. 	FAVOR
 10266	Climate Change is a Real Concern	Seems I may yet get my Climate Apocalypse >:) You fucking morons! #Shenhua #LNPFAIL #keepitintheground 	FAVOR
 10267	Climate Change is a Real Concern	The Weather app keeps taunting us with rain. #PNW #drought 	FAVOR
 10268	Climate Change is a Real Concern	What do you do to help reverse climate change? Tweet your tips to inspire others! #Tip #SavePolarBear 	FAVOR
 10269	Climate Change is a Real Concern	"You know things are pretty out of control when you're happy to have ""only"" 30 degrees C indoor and it feels good. "	FAVOR
 10270	Climate Change is a Real Concern	Haven't moved an inch since yesterday.  #bcpoli #vancouver #bcwildfire #yvr #realrenewables 	FAVOR
-10271	Climate Change is a Real Concern	@Gwillaumau @timpoliti @ABCthedrum @whelan60 @chrisberg NEVER KNEW INCONVENIENT FACTS WARRANTED A SHRINK!!! ROTFLMAO #auspol 	FAVOR
-10272	Climate Change is a Real Concern	Will the world place sanctions on #Australia for it's insane pursuit of new massive #coal mines? #UN #auspol #sanctions 	FAVOR
+10271	Climate Change is a Real Concern	@Gwillaumau @timpoliti @ABCthedrum @whelan60 @chrisberg NEVER KNEW INCONVENIENT FACTS WARRANTED A SHRINK!!! ROTFLMAO #auspol 	NONE
+10272	Climate Change is a Real Concern	Will the world place sanctions on #Australia for it's insane pursuit of new massive #coal mines? #UN #auspol #sanctions 	NONE
 10273	Climate Change is a Real Concern	Now moving from summer season to........ Life, too moves from...  #climate #weatherchange #rain #forecast #wind 	FAVOR
 10274	Climate Change is a Real Concern	Climate change is my issue - make it yours #Zim 	FAVOR
-10275	Climate Change is a Real Concern	#Mission:#Climate @ home > Don't let heat escape from your house over a long period #Tip #EarthRightNow 	NONE
+10275	Climate Change is a Real Concern	#Mission:#Climate @ home > Don't let heat escape from your house over a long period #Tip #EarthRightNow 	FAVOR
 10276	Climate Change is a Real Concern	Counting down the days until my PhD starts #77 #tephrochronology #southernhemisphere  #chronology #oxford 	FAVOR
 10277	Climate Change is a Real Concern	Today Europe is breaking heat records, while Asia is breaking the lowest temperature records!! Should we not be concerned?!  	FAVOR
 10278	Climate Change is a Real Concern	Paul Leadley Talking about #biodiversity scenarios under #h22 #CFCC15 	FAVOR
 10279	Climate Change is a Real Concern	Our cardboard city with @Joshpaulevans from @TearfundRhythms in our @cscw_uk youth club on Monday. 	FAVOR
-10280	Climate Change is a Real Concern	Dhakal: There is no silver bullet for solutions - each city has to devise own local/specific responses to #CFCC15 	NONE
-10281	Climate Change is a Real Concern	Follow @ClimatParis2015 for information on #CFCC15 - the climate change conference in Paris. 	NONE
-10282	Climate Change is a Real Concern	Am not a Catholic, but the pope is spot on when it comes climate change & protecting the amazon forest. 	NONE
+10280	Climate Change is a Real Concern	Dhakal: There is no silver bullet for solutions - each city has to devise own local/specific responses to #CFCC15 	FAVOR
+10281	Climate Change is a Real Concern	Follow @ClimatParis2015 for information on #CFCC15 - the climate change conference in Paris. 	FAVOR
+10282	Climate Change is a Real Concern	Am not a Catholic, but the pope is spot on when it comes climate change & protecting the amazon forest. 	FAVOR
 10283	Climate Change is a Real Concern	"Food and water security are intertwined: ""Adaptation costs water."" #CFCC15 #journey2015 #L25 "	FAVOR
 10284	Climate Change is a Real Concern	It's July and its 57 degrees, can't imagine what winter is going to feel like this year. #ChicagoWeather 	FAVOR
 10285	Climate Change is a Real Concern	Adaptation is something that reduces the negative impact or enhances the positive impact of #CFCC15 #Journey2015 	FAVOR
 10286	Climate Change is a Real Concern	@MAPSProgramme tackles difficult challenges of growth needs and unemployment alongside #CFCC15. 	FAVOR
 10287	Climate Change is a Real Concern	Much good to be had in the lead up to #COP21. 2,200 researchers from over 100 countries, uniting to address global #CFCC15 	FAVOR
-10288	Climate Change is a Real Concern	"#Earth is a #finite in #nature #environment, ""no amount of #dividend #value can #buy its #natural #diversity back! "	NONE
+10288	Climate Change is a Real Concern	"#Earth is a #finite in #nature #environment, ""no amount of #dividend #value can #buy its #natural #diversity back! "	FAVOR
 10289	Climate Change is a Real Concern	"#Obama said ""can't prevent oil exploration completely"" in the Arctic, is ""setting the highest possible standards=BS #shellno "	FAVOR
-10290	Climate Change is a Real Concern	@RichardTuffin Tuvalu has been at the forefront of dealing with consequences of climate change. They are realists #auspol 	FAVOR
+10290	Climate Change is a Real Concern	@RichardTuffin Tuvalu has been at the forefront of dealing with consequences of climate change. They are realists #auspol 	NONE
 10291	Climate Change is a Real Concern	A Very Good Discussion:Ruth Valerio @ARochaUK and Premier Radio's @revcindy1 on key issues affecting us in #Pope #Encyclical 	FAVOR
-10292	Climate Change is a Real Concern	Be kind to the earth beneath your feet.  #environment 	NONE
+10292	Climate Change is a Real Concern	Be kind to the earth beneath your feet.  #environment 	FAVOR
 10293	Climate Change is a Real Concern	Also, it's raining here in the Brazilian central savannas. We were supposed to be in the pinnacle of the dry season. 	FAVOR
-10294	Climate Change is a Real Concern	avg house in US consumes 10,656 kWh per year 2006, Gore devoured nearly 221,000 kWh more than 20 X the nat average. #onpoli 	NONE
+10294	Climate Change is a Real Concern	avg house in US consumes 10,656 kWh per year 2006, Gore devoured nearly 221,000 kWh more than 20 X the nat average. #onpoli 	FAVOR
 10295	Climate Change is a Real Concern	Please will someone at @BBCRadio4 clarify what Osbourne said about oil and renewables energy?  #budget2015 #futureoftheplanet 	FAVOR
-10296	Climate Change is a Real Concern	Participation is essential: bring vulnerable voices to the table at #COP21 says @wjamann #AgCOP21 #CFCC15 @cgiarclimate 	NONE
+10296	Climate Change is a Real Concern	Participation is essential: bring vulnerable voices to the table at #COP21 says @wjamann #AgCOP21 #CFCC15 @cgiarclimate 	FAVOR
 10297	Climate Change is a Real Concern	We blame cities for the majority of CO2 emissions without acknowledging their vulnerability to #CFCC15 #journey2015 #S2228 	FAVOR
-10298	Climate Change is a Real Concern	@FoxNews LOL. Too bad all the other scientists agree with him. #ClimateChangeDenier 	NONE
+10298	Climate Change is a Real Concern	@FoxNews LOL. Too bad all the other scientists agree with him. #ClimateChangeDenier 	FAVOR
 10299	Climate Change is a Real Concern	#KCA #VoteJKT48ID ClimateCommRPB: The green diet: how to eat healthy and save the planet 	FAVOR
 10300	Climate Change is a Real Concern	@JimHarris thank you for the follow Jim!  I'm flattered!  	FAVOR
-10301	Climate Change is a Real Concern	@DavidSuzukiFDN @cleanenergycan Need hydro bill fix in ON so ppl won't use dirty alt fuels to heat homes. #foodorheat #onpoli 	NONE
+10301	Climate Change is a Real Concern	@DavidSuzukiFDN @cleanenergycan Need hydro bill fix in ON so ppl won't use dirty alt fuels to heat homes. #foodorheat #onpoli 	FAVOR
 10302	Climate Change is a Real Concern	#Asthma is hitting our communities hard in #Chicago says @LVEJO Kim Wasserman  #cleanair4kids #Latinos 	FAVOR
 10303	Climate Change is a Real Concern	The extreme humidity and heat right now might kill me  and it's only 10a.m. #FloridaProblems 	FAVOR
 10304	Climate Change is a Real Concern	@ILuvCO2 @UNGeneva @WMOnews @ParisCOP21 U love CO2 so I can only understand your point of view.But u n I know the trigger of 	FAVOR
 10305	Climate Change is a Real Concern	Haven't seen the mountains in days with all these fires. Can't stand breathing this air quality any longer!!  	FAVOR
 10306	Climate Change is a Real Concern	@UCSUSA @POTUS @NSCPress @DHSgov @nytimes Criminal capitalist wrecked economy08Now misleadingInvestors as to Risk of #Ecocide 	FAVOR
-10307	Climate Change is a Real Concern	Jared likes child porn now .... Is that what happens if you eat all your meals at Subway? Must be either that or 	NONE
+10307	Climate Change is a Real Concern	Jared likes child porn now .... Is that what happens if you eat all your meals at Subway? Must be either that or 	FAVOR
 10308	Climate Change is a Real Concern	@UCSUSA @pmharper @ThomasMulcair @Kathleen_Wynne #CSOTA #fossilfuels corp misleading investors about liability for #Ecocide 	FAVOR
 10309	Climate Change is a Real Concern	Actually on second thoughts, it's pretty bloody terrifying #climatecrisis #ISS15 	FAVOR
 10310	Climate Change is a Real Concern	Gone are the days where we would get temperatures of Min -2 and Max 5 in Cape Town 	FAVOR
@@ -332,10 +332,10 @@ ID	Target	Tweet	Stance
 10331	Climate Change is a Real Concern	Its July 8th.. I have clean clothes... I just put jeans on though. 	FAVOR
 10332	Climate Change is a Real Concern	"the water hole time to drink! RT""@vicenews "	FAVOR
 10333	Climate Change is a Real Concern	I understand the rain, but it is only about 60 degrees right now..... It is never 60 degrees in July....  	FAVOR
-10334	Climate Change is a Real Concern	.@McKenzieAmanda's presentation on shifting the public narrative in a hostile environment should be good #anzca2015 	NONE
+10334	Climate Change is a Real Concern	.@McKenzieAmanda's presentation on shifting the public narrative in a hostile environment should be good #anzca2015 	FAVOR
 10335	Climate Change is a Real Concern	67 degrees Fahrenheit on July 8th. I love this weather! #PureMichigan 	FAVOR
 10336	Climate Change is a Real Concern	#coalmining & destruction of our ability to live on earth is so stupid. Don't kill our species habitat #duh #Shenhua  	FAVOR
-10337	Climate Change is a Real Concern	@abcnews @Ginger_Zee  how about you give me TWO SENTENCES about climate instead of ending with a bs whale story. 	NONE
+10337	Climate Change is a Real Concern	@abcnews @Ginger_Zee  how about you give me TWO SENTENCES about climate instead of ending with a bs whale story. 	FAVOR
 10338	Climate Change is a Real Concern	Someone send some chicken soup or some '80s Conan comics to @jamesbobier4 he's under the weather & noone wants to be there 	FAVOR
 10339	Climate Change is a Real Concern	@billmckibben @suzyji Right out of the Big Tobacco playbook! Why is this disgusting strategy so bulletproof? 	FAVOR
 10340	Climate Change is a Real Concern	@GuardianAus @GrogsGamut Nobody denies the climate changes. 	FAVOR
@@ -343,28 +343,28 @@ ID	Target	Tweet	Stance
 10342	Climate Change is a Real Concern	People need to wake up & realize what's happening to our earth  #hello 	FAVOR
 10343	Climate Change is a Real Concern	#Questiontime Who is more likely to solve problems related to #poverty #sustainability & #government? #religion? #business? 	FAVOR
 10344	Climate Change is a Real Concern	The countries most likely to survive climate change in one infographic #Survive #Infographic 	FAVOR
-10345	Climate Change is a Real Concern	Terraform Earth so we can recolonize our own homes. 	NONE
+10345	Climate Change is a Real Concern	Terraform Earth so we can recolonize our own homes. 	FAVOR
 10346	Climate Change is a Real Concern	What's next after 2 years? :) #thinkbig #world #solution #water 	FAVOR
 10347	Climate Change is a Real Concern	Climate change has already cut into the global food supply and is fuelling wars &natural disasters #FoodFactsWithHeroRadio 	FAVOR
 10348	Climate Change is a Real Concern	@Myrmecos Still a larval theory. Still poorly modelled. Still unquantified. Still multi-factor. Still flummoxed by albedo. 	FAVOR
-10349	Climate Change is a Real Concern	Whole species #Boomers #GenerationX GenerationY #GenZ Needs a vacation. 25 years on a Greek Island anyone? #HumanExtinction 	NONE
-10350	Climate Change is a Real Concern	#Mission:#Climate on the road > Fly less #Tip #EarthRightNow 	NONE
-10351	Climate Change is a Real Concern	Edenhofer: Carbon pricing is needed but not sufficient. we need complementary policies to counter #coal renaissance & #CFCC15 	NONE
+10349	Climate Change is a Real Concern	Whole species #Boomers #GenerationX GenerationY #GenZ Needs a vacation. 25 years on a Greek Island anyone? #HumanExtinction 	FAVOR
+10350	Climate Change is a Real Concern	#Mission:#Climate on the road > Fly less #Tip #EarthRightNow 	FAVOR
+10351	Climate Change is a Real Concern	Edenhofer: Carbon pricing is needed but not sufficient. we need complementary policies to counter #coal renaissance & #CFCC15 	FAVOR
 10352	Climate Change is a Real Concern	Humanity is making #mother earth angry, that angriness is the reason for 	FAVOR
 10353	Climate Change is a Real Concern	@WEETFEvents Jonathan Tillson from @DefraGovUK highlights how economic stability will be undermined by 	FAVOR
 10354	Climate Change is a Real Concern	UK homes & buildings need to be adapted to higher temperatures Daniel Johns @theCCCuk #weetfEvents #adaptation 	FAVOR
 10355	Climate Change is a Real Concern	Plants and trees make oxygen which we breathe and killing the rainforest will make the earths oxygen supply weak. #earth 	FAVOR
 10356	Climate Change is a Real Concern	$500,000 on flags in 12 months  vs  An Inter-Generational Rot that addresses   #ThingsToSpendMyTaxesOnOtherThanFlags 	FAVOR
 10357	Climate Change is a Real Concern	Climate deniers is a term used to silence those pointing out the hypocrisy in the fanatical zeal on  #climatetruth 	FAVOR
-10358	Climate Change is a Real Concern	#Mission:#Climate on the road > Purchase a fuel-efficient, low-greenhouse gas vehicle (by @EPA) #Tip #MissionAccept 	NONE
+10358	Climate Change is a Real Concern	#Mission:#Climate on the road > Purchase a fuel-efficient, low-greenhouse gas vehicle (by @EPA) #Tip #MissionAccept 	FAVOR
 10359	Climate Change is a Real Concern	@algore: Will we change? That's the reason we are here. Be of good cheer. We're going to win this #CSOTA 	FAVOR
 10360	Climate Change is a Real Concern	Incredibly moving as a scientist weeps on @BBCRadio4 for the #ocean & for our grandchildren's future ttp://bbc.in/1G9uil5 	FAVOR
 10361	Climate Change is a Real Concern	Following the invitation only Climate Summit of the Americas online via twitter #CSOTA #Toronto #environment #COP21 #climate 	FAVOR
 10362	Climate Change is a Real Concern	Are the voices of younger generations represented at #CSOTA? We have a say in our collective future. #environment #COP21 	FAVOR
 10363	Climate Change is a Real Concern	@WalshConstCo We're proud to sign #ORbizclimatedeclaration because we are committed to fighting climate change 	FAVOR
-10364	Climate Change is a Real Concern	I remember a time when summer was actually summer, you know when it was sunny and 90 degrees everyday #whatshappening 	FAVOR
+10364	Climate Change is a Real Concern	I remember a time when summer was actually summer, you know when it was sunny and 90 degrees everyday #whatshappening 	NONE
 10365	Climate Change is a Real Concern	@neiltyson Rettet die Erde! Save the Earth!  	FAVOR
-10366	Climate Change is a Real Concern	"@wattsupwiththat yes ironic that the alarmists are the actual ""deniers "	NONE
+10366	Climate Change is a Real Concern	"@wattsupwiththat yes ironic that the alarmists are the actual ""deniers "	FAVOR
 10367	Climate Change is a Real Concern	@JustinTrudeau Hey Justin I will give you 50 cents if you stop talking about climate 'Change' #Ottawa #davidsuzuki #cbc 	FAVOR
 10368	Climate Change is a Real Concern	If @EPA & @POTUS don't have to follow SCOTUS why should anyone else have to #ClimateFraud #SpecialReport #WakeUpAmerica 	FAVOR
 10369	Climate Change is a Real Concern	If we want a future for our/Canadian kids we all need to seriously wake the fuck up,No more talk only action #Harper  	FAVOR
@@ -379,26 +379,26 @@ ID	Target	Tweet	Stance
 10378	Climate Change is a Real Concern	"The only thing ""man made"" about global warming is the false narrative. #WakeUpAmerica #boycottSanFrancisco #Election2016 "	FAVOR
 10379	Climate Change is a Real Concern	Growing concern of Pacific Islanders to adapt to sea level rise, increasing storminess; want to avoid becoming CC refugees 	FAVOR
 10380	Climate Change is a Real Concern	@4EvaMartino  Everyone should learn this recipe - given summers are going to get warmer every year! 	FAVOR
-10381	Climate Change is a Real Concern	Rec high temp for this date in Charlotte is 101*. That was set in 1926. T-models were the worst for dangerous emissions. 	FAVOR
+10381	Climate Change is a Real Concern	Rec high temp for this date in Charlotte is 101*. That was set in 1926. T-models were the worst for dangerous emissions. 	NONE
 10382	Climate Change is a Real Concern	Lot's of time, class over! @nationaljournal 	FAVOR
-10383	Climate Change is a Real Concern	@TheLibertyEagle Oh for the love of Pete! I thought we were going to be incinerated by then! 	FAVOR
+10383	Climate Change is a Real Concern	@TheLibertyEagle Oh for the love of Pete! I thought we were going to be incinerated by then! 	NONE
 10384	Climate Change is a Real Concern	If complaining about irrelevant problems were illegal maybe we could solve some of the important issues #itsjustaflag 	FAVOR
-10385	Climate Change is a Real Concern	"@LiberalAus - ""All"" you folks #owe me an #official #apology at this point ""absolute"" ([minimum]), re's D #peace #Transparency "	FAVOR
+10385	Climate Change is a Real Concern	"@LiberalAus - ""All"" you folks #owe me an #official #apology at this point ""absolute"" ([minimum]), re's D #peace #Transparency "	NONE
 10386	Climate Change is a Real Concern	"Maybe we should start ""labelling every #product"" made with its ""#Environmental #footprint""? Sooner or later we must act! "	FAVOR
-10387	Climate Change is a Real Concern	If we touch #Antarctica for one more #reason other than to #research the #impact of us we would be #insane! #Democracy #Goal? 	FAVOR
+10387	Climate Change is a Real Concern	If we touch #Antarctica for one more #reason other than to #research the #impact of us we would be #insane! #Democracy #Goal? 	NONE
 10388	Climate Change is a Real Concern	Wind power helped stabilize Texas' power grid during a 2014 cold snap that suddenly increased demand. #ClimateHope #Climate 	FAVOR
 10389	Climate Change is a Real Concern	It's so cold and windy here in Sydney, I just saw a climate scientist fly past my window #auspol #ClimateChangeIsReal 	NONE
 10390	Feminist Movement	Feminists can TOTALLY wear makeup and don't tell me otherwise. #choices 	AGAINST
 10391	Feminist Movement	"I searched for posts with ""feminist"" tag and saw how much hatred is against feminism. #misogyny #tumblr #hatred #sadness #tears "	AGAINST
-10392	Feminist Movement	I saw a little girl wearing a mustache from the vending machine. #equality 	AGAINST
+10392	Feminist Movement	I saw a little girl wearing a mustache from the vending machine. #equality 	FAVOR
 10393	Feminist Movement	Women are taught to put their values into their hymens, rather than their intelligence, accomplishments, goals or character 	AGAINST
 10394	Feminist Movement	If u link anti feminism with misogyny or inequality-lover, please dont reproduce! The world have enough imbeciles . 	AGAINST
-10395	Feminist Movement	Many feminist sexualise and objectify men and yet they insult men who does it calling them pervert 	FAVOR
+10395	Feminist Movement	Many feminist sexualise and objectify men and yet they insult men who does it calling them pervert 	AGAINST
 10396	Feminist Movement	Let us thank the likes of @thunderf00t and @Sargon_of_Akkad for exposing the complete idiocy of modern feminism. 	AGAINST
 10397	Feminist Movement	@kdeleon how many were young women? Were there any black young women? 	AGAINST
 10398	Feminist Movement	Feel things will truly be equal in marriage when I see jock strap tossed to the 'single women' a weddings alongside the garter 	AGAINST
-10399	Feminist Movement	A wOMAN?? Wanting to be EQUAL to a MAN???!?! What monstrosity is this?!??!!!? 	FAVOR
-10400	Feminist Movement	sometiimes you just feel like punching a feminist in the face 	FAVOR
+10399	Feminist Movement	A wOMAN?? Wanting to be EQUAL to a MAN???!?! What monstrosity is this?!??!!!? 	AGAINST
+10400	Feminist Movement	sometiimes you just feel like punching a feminist in the face 	AGAINST
 10401	Feminist Movement	One thing I learned from my job: doors to opportunity cover fee that only the privileged can afford. #privilege #truth 	AGAINST
 10402	Feminist Movement	1 thing I learned from my job: doors leading 2 opportunity have a cover fee only the #privileged can afford #sadtruth 	AGAINST
 10403	Feminist Movement	Just like book-burning for ANGRY religious people, ANGRY feminists like to burn whatever looks like free speech. 	AGAINST
@@ -410,17 +410,17 @@ ID	Target	Tweet	Stance
 10409	Feminist Movement	I can't write male characters because I'm a woman?  then a man shouldn't tell me what a woman can't do cos he's a man 	AGAINST
 10410	Feminist Movement	Turns out it's 3 people who have mansplained to me in the past couple of days. I forgot about the racist bigot 	AGAINST
 10411	Feminist Movement	You're stupid & mens rights is nothing - I love you Leslie Knope. @parksandrecnbc #MRA #mensrights #lol 	AGAINST
-10412	Feminist Movement	Ask her father for her hand in marriage. How language reinforces patriarchy. She is his property. And mom? #equality 	AGAINST
+10412	Feminist Movement	Ask her father for her hand in marriage. How language reinforces patriarchy. She is his property. And mom? #equality 	FAVOR
 10413	Feminist Movement	Can we grow up and stop catcalling? 	AGAINST
 10414	Feminist Movement	just want to give my hair follicles a quick shoutout for giving me armpit hair, cos nout says equality quite like an unused razor 	AGAINST
 10415	Feminist Movement	Tonight I got called 'the one with the great rack' and I felt empowered because objectification exists for both sexes 	AGAINST
 10416	Feminist Movement	Girls over 130 pounds shouldn't wear a swim suit #womenintech 	AGAINST
-10417	Feminist Movement	@Chase_Santos and #Hillary is going to keep it that way! Right, @HillaryClinton ? #gayrights #equality 	AGAINST
+10417	Feminist Movement	@Chase_Santos and #Hillary is going to keep it that way! Right, @HillaryClinton ? #gayrights #equality 	FAVOR
 10418	Feminist Movement	Feminists in America have no idea what oppress looks like 	AGAINST
 10419	Feminist Movement	"@WiTOpoli I hope everyone is going to see ""she's beautiful when she's angry""; see the origins of what you are doing "	AGAINST
 10420	Feminist Movement	Girls over 130 pounds shouldn't wear a bikini #womenintech 	AGAINST
 10421	Feminist Movement	"Thanks to SJW, I now associate the word ""trigger"" with a joke and I'm going to offend an actual PTSD victim "	AGAINST
-10422	Feminist Movement	@ramzaruglia @a_man_in_yellow Just imagine all the semen those women are slurping in the bottom left pic #YesAllWomen 	AGAINST
+10422	Feminist Movement	@ramzaruglia @a_man_in_yellow Just imagine all the semen those women are slurping in the bottom left pic #YesAllWomen 	FAVOR
 10423	Feminist Movement	Girls are such animals. All they want is sex . I just want to be closer to God. 	AGAINST
 10424	Feminist Movement	I thought you would like it @AceofSpades14 #feminist 	AGAINST
 10425	Feminist Movement	@nytimes @nytopinion this is more of a personal preference than a gender issue. Do nt strip manners away from younger generation! 	AGAINST
@@ -433,23 +433,23 @@ ID	Target	Tweet	Stance
 10432	Feminist Movement	In civilian clothes and someone laughs at me thinking its a joke that I'm apart of the U.S. Navy. 	AGAINST
 10433	Feminist Movement	Nice rap by @RanveerOfficial @arjunk26 late but you made your point ki admi ki kya hai jarorat its all about 	AGAINST
 10434	Feminist Movement	Ironic how the anti- feminist intimidation machine has drowned out the voices of those trying to civilly critique feminist ideas. 	AGAINST
-10435	Feminist Movement	"Apparently #YesAllWomen who ""don't need no man"" never drive a car, turn on a light switch, or drink clean water. "	AGAINST
+10435	Feminist Movement	"Apparently #YesAllWomen who ""don't need no man"" never drive a car, turn on a light switch, or drink clean water. "	FAVOR
 10436	Feminist Movement	"Welp. I just saw the infamous Radfem ""Protests"" at a Toronto MRA speech for the first time. Disgusting. #feminismiscruelty "	AGAINST
-10437	Feminist Movement	What's red and something all feminist should bite into? A brick now stfu 	FAVOR
+10437	Feminist Movement	What's red and something all feminist should bite into? A brick now stfu 	AGAINST
 10438	Feminist Movement	I can get women not being feminists,  sort of. But women being meninists/MRAs? What the actual fuck #MRA 	AGAINST
-10439	Feminist Movement	..Can I also add that I really enjoyed looking at @TahirRajBhasin in #Mardaani :P Tahir, you were a dashing baddie! #Bollywood 	AGAINST
-10440	Feminist Movement	As I rewatced Charmed episodes! LOVING IT EVEN MORE! 	FAVOR
-10441	Feminist Movement	We cannot succeed when half of us are held back. Malala Yousafzai #SmartGlamour #feminist #yesallwomen #equality 	AGAINST
+10439	Feminist Movement	..Can I also add that I really enjoyed looking at @TahirRajBhasin in #Mardaani :P Tahir, you were a dashing baddie! #Bollywood 	FAVOR
+10440	Feminist Movement	As I rewatced Charmed episodes! LOVING IT EVEN MORE! 	AGAINST
+10441	Feminist Movement	We cannot succeed when half of us are held back. Malala Yousafzai #SmartGlamour #feminist #yesallwomen #equality 	FAVOR
 10442	Feminist Movement	@Afshah_Ronaldo you don't tell me what to do, i'm a strong individual male, I can make my own choices #ABCD #SayNoToOppresion 	AGAINST
 10443	Feminist Movement	Anyone got links to anti-feminist/egalitarian chotchkies? Pins, buttons and the like? #antifeminism #egalitarian 	AGAINST
 10444	Feminist Movement	Equality is the police burying a domestic violence accusation against a female sports star, too #wedidit #usa 	AGAINST
 10445	Feminist Movement	2015 is the year of the uterus #sheBELIEVES #WWC2015 	AGAINST
 10446	Feminist Movement	It wouldn't be a #FIFA event without women in tight dresses. Wrong place. Wrong time. #womensworldcup 	AGAINST
 10447	Feminist Movement	Too bad the women carrying the trophies look like they're in the Robert Palmer Video. #FIFAWWCFinal #USAvJPN 	AGAINST
-10448	Feminist Movement	Really great to see people cheering for Hope Solo even though she has been involved in domestic abuse #equality 	AGAINST
+10448	Feminist Movement	Really great to see people cheering for Hope Solo even though she has been involved in domestic abuse #equality 	FAVOR
 10449	Feminist Movement	@godlyputhy @jalexus_aames good but the first one is a technically false fact but whatever yay 	AGAINST
 10450	Feminist Movement	"Up next! Watch me get called ""a sexist pig"" for ordering a sandwich from a female Subway sandwich engineer. "	AGAINST
-10451	Feminist Movement	@SpectreOfChaos is trolling #YesAllWomen. He is a stalker who has doxed  and harassed people for weeks. It is best to block him. 	AGAINST
+10451	Feminist Movement	@SpectreOfChaos is trolling #YesAllWomen. He is a stalker who has doxed  and harassed people for weeks. It is best to block him. 	FAVOR
 10452	Feminist Movement	@atheena99 @dopee_curlyy i don't even know what to say to that. You're content with being paid less and not treated like an equal? 	AGAINST
 10453	Feminist Movement	When I go up the steps of my house I feel like the @ussoccer_wnt .. I too have won the Women's World Cup. #brokenlegprobs #USA 	AGAINST
 10454	Feminist Movement	If a woman can list height preferences for men in dating profiles, men should be able to list bra sizes. #equality #hypocrisy 	FAVOR
@@ -462,17 +462,17 @@ ID	Target	Tweet	Stance
 10461	Feminist Movement	If Feminism wants equal rights as men  they must so advocate for equal prison time and losing custody rights, which they won't do! 	AGAINST
 10462	Feminist Movement	@RepubGirlLife But if I said this about how hot Hope Solo is..... Feminists would go ape shit #screwfeminism 	AGAINST
 10463	Feminist Movement	'Manspreading'? But women hog subway space, too ! #doublestandards 	AGAINST
-10464	Feminist Movement	I hate government, but if I were in government i'd want to be a District Attorney or a Judge to hold #YesAllWomen accountable. 	AGAINST
+10464	Feminist Movement	I hate government, but if I were in government i'd want to be a District Attorney or a Judge to hold #YesAllWomen accountable. 	FAVOR
 10465	Feminist Movement	Ayyyy more hypocrisy: Hope Solo, serial domestic abuser is celebrated like a hero for winning the women's World Cup 	AGAINST
 10466	Feminist Movement	I still can not get over teamwork being considered female thing. It is not consistent with my experiences at all. 	AGAINST
 10467	Feminist Movement	Want an amazing #SciFi show that completely passes the bechdel test? #Farscape. Well written characters and +3 to awesome. 	AGAINST
 10468	Feminist Movement	"Feminists claim everything is a ""social construct"" because gender studies people usually suck at biology.  #GamerGate "	AGAINST
 10469	Feminist Movement	Feminists who go for a gender studies degree should also blame the patriarchy for their mediocre grades in science. 	AGAINST
-10470	Feminist Movement	@NorBdelta HE DESERVED IT FOR BEING PART OF THE DOMINATING SEX CHECK YOUR PRIVILEGE #equality 	AGAINST
+10470	Feminist Movement	@NorBdelta HE DESERVED IT FOR BEING PART OF THE DOMINATING SEX CHECK YOUR PRIVILEGE #equality 	FAVOR
 10471	Feminist Movement	By writing her self, woman will return to the body which has been more than confiscated from her - Hlne Cixous #theatre 	AGAINST
 10472	Feminist Movement	Having fabulous feminist conversations with Naoise Wheelan. 	AGAINST
 10473	Feminist Movement	If you're a #feminist it's only because absolutely no one would shove their semi hard cock into you. Let that sink in. 	AGAINST
-10474	Feminist Movement	We live in a sad world when wanting equality makes you a troll... 	FAVOR
+10474	Feminist Movement	We live in a sad world when wanting equality makes you a troll... 	AGAINST
 10475	Feminist Movement	Some men do not deserve to be called gentlemen 	AGAINST
 10476	Feminist Movement	Happy birthday to the queen Frida Kahlo! #oneofmyidols #mindstimulation #latinapower 	AGAINST
 10477	Feminist Movement	So the ladies get Magic Mike XXL, can us guys have Magic Michelle 36DD? No because the feminists would shut it down. 	AGAINST
@@ -503,10 +503,10 @@ ID	Target	Tweet	Stance
 10502	Feminist Movement	YO @kaitlynbristowe YOU GET YOURS GIRL.#TheBachelorette 	AGAINST
 10503	Feminist Movement	Men and women should have equal rights, we are all human... 	AGAINST
 10504	Feminist Movement	"I need feminism because ""what were you wearing"" shouldn't be a question when I tell my stepmom I was cat called. "	AGAINST
-10505	Feminist Movement	@Deb_Hitchens @JudgeBambi . There's no capacity for discourse when you assume ppl are your enemy. Hate. Misery. Paranoia. A waste. 	FAVOR
+10505	Feminist Movement	@Deb_Hitchens @JudgeBambi . There's no capacity for discourse when you assume ppl are your enemy. Hate. Misery. Paranoia. A waste. 	AGAINST
 10506	Feminist Movement	your mother did not carry you for 9 months so you could yell 'suck my dick' at me from your car 	AGAINST
 10507	Feminist Movement	It's a problem when explaining feminism, even in a calm & complex level, cannot be understood. #feminist #respect #EqualityForAll 	AGAINST
-10508	Feminist Movement	I fell asleep only to have my brother wake me up after hearing noises. I had to be the one to go upstairs and see what it was 	AGAINST
+10508	Feminist Movement	I fell asleep only to have my brother wake me up after hearing noises. I had to be the one to go upstairs and see what it was 	FAVOR
 10509	Feminist Movement	Remember men, if a woman hits you, you have no right to defend yourself #DeAndreJohnson 	AGAINST
 10510	Feminist Movement	Does it involve women? It's sexist. Does it not involve women? It's sexist. No winning. 	AGAINST
 10511	Feminist Movement	@crystxlcxstlesz did you break through the glass ceiling? 	AGAINST
@@ -514,16 +514,16 @@ ID	Target	Tweet	Stance
 10513	Feminist Movement	Ladies is pimps too. Go on brush your shoulders off. 	AGAINST
 10514	Feminist Movement	I'm the bad cop to @Patjouk's good cop. (... Though am I/is she really? Muahaha. ;P) #tech #techdiversity 	AGAINST
 10515	Feminist Movement	Women want to be treated as equals until they get hit after hitting a man first. BULL SHIT! MOTHA FUCK 	AGAINST
-10516	Feminist Movement	@trutherbotred there's a woman in a picture and she's being groped lets yell #womensrights #feminist 	AGAINST
+10516	Feminist Movement	@trutherbotred there's a woman in a picture and she's being groped lets yell #womensrights #feminist 	FAVOR
 10517	Feminist Movement	If feminism was not a religion, feminists would not fervently reject all evidence they emotionally find blasphemous. 	AGAINST
-10518	Feminist Movement	I thought this video on #equality was interesting, contradictions and demonization about men in the agenda of passive and activist 	AGAINST
+10518	Feminist Movement	I thought this video on #equality was interesting, contradictions and demonization about men in the agenda of passive and activist 	FAVOR
 10519	Feminist Movement	Evidence of the fossil record to creationists is the evidence against the wage gap to feminists.   #GamerGate 	AGAINST
 10520	Feminist Movement	#howtospotafeminist?  They are so sexually unattractive that even in a world of rapists they would always be safe. 	AGAINST
 10521	Feminist Movement	Also Tatum's feigns giving oral in a hands free headstand. SEE THIS FILM. 	AGAINST
 10522	Feminist Movement	Everyone quick, feminists are a minority now! lol 	AGAINST
-10523	Feminist Movement	And girls just wanna have fun...damental rights 	FAVOR
+10523	Feminist Movement	And girls just wanna have fun...damental rights 	AGAINST
 10524	Feminist Movement	Seriously considering writing an article on the ban of school skirts at a secondary school, any thoughts would be appreciated :) 	AGAINST
-10525	Feminist Movement	Why isn't this #Women also being #Charged for attacking #DeAndreJohnson first.#DoubleStandards #Sport #NFL #Abuse #CorruptSystem 	AGAINST
+10525	Feminist Movement	Why isn't this #Women also being #Charged for attacking #DeAndreJohnson first.#DoubleStandards #Sport #NFL #Abuse #CorruptSystem 	FAVOR
 10526	Feminist Movement	I'll eat mac and cheese out of your front hole but only if you ask first 	AGAINST
 10527	Feminist Movement	When women spend too much time out of the kitchen they get over opinionated and think they know everything #feminist 	AGAINST
 10528	Feminist Movement	EEWWW! Drawing attention to women's health issues like breast, ovarian, and uterine cancer?!!? #feminismiscruelty 	AGAINST
@@ -531,7 +531,7 @@ ID	Target	Tweet	Stance
 10530	Feminist Movement	@Nero the 'author' is @onepoundstories she's making money out of it 	AGAINST
 10531	Feminist Movement	@moo_mena unlearn that believing in gender equality is life saving, yes it's fab-but why not actively fight for change? 	AGAINST
 10532	Feminist Movement	@WALKAFLOCKKAA @kasscheeks @WeNeedFeminlsm they all acting like they lived through medieval times and shit 	AGAINST
-10533	Feminist Movement	@NormaniKordei hi, can u pls rt this people need to know about this!!!!! #feminist 	NONE
+10533	Feminist Movement	@NormaniKordei hi, can u pls rt this people need to know about this!!!!! #feminist 	AGAINST
 10534	Feminist Movement	@AllyBrooke hi, can u pls rt this people need to know about this!!!!! #feminist 	AGAINST
 10535	Feminist Movement	So if a women earns money then it's HERS to KEEP??  #feminismiscruelty 	AGAINST
 10536	Feminist Movement	"Growing up, getting told ""no let your brother do that it's too heavy"" is why we need feminism "	AGAINST
@@ -540,12 +540,12 @@ ID	Target	Tweet	Stance
 10539	Feminist Movement	"UGH I am SICK to DEATH of this whole bitches wanting ""equality"" thing like stfu u DUMB CUNT #feminismiscruelty "	AGAINST
 10540	Feminist Movement	Putting the air conditioners in while wearing a sundress because 	AGAINST
 10541	Feminist Movement	Whine about how things aren't going your way, even though you're an adult. #LikeAFeminist 	AGAINST
-10542	Feminist Movement	To the young woman I stood next to at KL airport. Sorry I did not step in when your partner grabbed, threatened you #YesAllWomen 	AGAINST
-10543	Feminist Movement	#women learn to be women and #men learn to be men and I don't blame it all on you but I don't want to be your #friend  #lyrics 	AGAINST
-10544	Feminist Movement	Not catering to a woman that doesn't bring = amount to the table as I do. #equality  	NONE
+10542	Feminist Movement	To the young woman I stood next to at KL airport. Sorry I did not step in when your partner grabbed, threatened you #YesAllWomen 	FAVOR
+10543	Feminist Movement	#women learn to be women and #men learn to be men and I don't blame it all on you but I don't want to be your #friend  #lyrics 	FAVOR
+10544	Feminist Movement	Not catering to a woman that doesn't bring = amount to the table as I do. #equality  	FAVOR
 10545	Feminist Movement	@saltwaterpop I like your attitude a lot tho 	AGAINST
 10546	Feminist Movement	He who has authentic power pays the bill & she who has the feminist illusion of power demands the divorce settlement. 	AGAINST
-10547	Feminist Movement	Lol feminist don't complain about how men get less clothing options at stores. (When they say there for gender equality) 	NONE
+10547	Feminist Movement	Lol feminist don't complain about how men get less clothing options at stores. (When they say there for gender equality) 	AGAINST
 10548	Feminist Movement	Unlike cancer treatments marriage risks outweigh the benefits. If oncologists married people everybody would be single 	AGAINST
 10549	Feminist Movement	@NAFEDUDE @TakedownMRAs It's never a problem until it happens to you =) 	AGAINST
 10550	Feminist Movement	Would mean a lot if u clicked the link in my bio #feminist 	AGAINST
@@ -557,26 +557,26 @@ ID	Target	Tweet	Stance
 10556	Feminist Movement	Who said Feminists Standard is THE STANDARD of how a woman should be? 	AGAINST
 10557	Feminist Movement	Great to see the progress we're all making. May that continue, until this becomes an antiquated issue. #HeForShe #GirlPower 	AGAINST
 10558	Feminist Movement	HAPPY BIRTHDAY TO ONE OF MY FAV PEOPLE WHO HAS GREAT VIEWS & IS A FELLOW SUPREME COURT CUTIE I LOVE YOU @maddylinder 	AGAINST
-10559	Feminist Movement	Sorry but if a #YesAllWomen slapped me the way #Mattie did in #Humans, i'm slapping her back. You hit me, I hit back. 	AGAINST
+10559	Feminist Movement	Sorry but if a #YesAllWomen slapped me the way #Mattie did in #Humans, i'm slapping her back. You hit me, I hit back. 	FAVOR
 10560	Feminist Movement	"Religious ""what homosexual men find sexy is wrong""  Feminits ""what heterosexual men find sexy is wrong""  "	AGAINST
 10561	Feminist Movement	"Dear parents, please don't tell your boys ""not to be a girl"" when they cry. Girls rock. "	AGAINST
-10562	Feminist Movement	You're a sexy bitch. Own that shit. 	FAVOR
+10562	Feminist Movement	You're a sexy bitch. Own that shit. 	AGAINST
 10563	Feminist Movement	How to oppress a strong and independent woman? Sit in a certain way... #manspreading 	AGAINST
 10564	Feminist Movement	The Dunhams would be the only reality show that would be a literal horror show. And the feminists would still watch it. 	AGAINST
 10565	Feminist Movement	Gender is an adjective not a noun - Ruth    Pearson #gender #genconuea2015 	AGAINST
 10566	Feminist Movement	Women shouldn't be topless! Oh shit and here I thought my breasts were for feeding babies and not the male gaze. My bad 	AGAINST
-10567	Feminist Movement	I think I see the appeal in being a housewife. #househusband #seemsfun #creativepotential #equality #illexplainlater 	AGAINST
+10567	Feminist Movement	I think I see the appeal in being a housewife. #househusband #seemsfun #creativepotential #equality #illexplainlater 	FAVOR
 10568	Feminist Movement	If women didn't have tits would any of us even really care anymore? 	AGAINST
 10569	Feminist Movement	@TarynOnthenews @NRO Very unnecessary, since 'no' doesn't always mean 'no', especially if she's drunk!  #rapehumor 	AGAINST
 10570	Feminist Movement	The Hypocrisy of Feminism is integral part of the modern United Orwellian Kingdom.   #GamerGate 	AGAINST
 10571	Feminist Movement	I'm flabbergasted that #feminist are pointing out little things that No one gives a fuck about & cause am uproar 	AGAINST
-10572	Feminist Movement	I'm trying to explain how its bad for men to but this #feminist is calling me a liar, #womanagainstfeminism #wtf 	AGAINST
+10572	Feminist Movement	I'm trying to explain how its bad for men to but this #feminist is calling me a liar, #womanagainstfeminism #wtf 	FAVOR
 10573	Feminist Movement	men need to stop going along with feminists. it's giving them reason to think they're right. 	AGAINST
 10574	Feminist Movement	Bieber showed off his butt and no one slut shamed him but god forbid if we women wear shorts #doublestandards #sexism 	AGAINST
 10575	Feminist Movement	The feds are still planning to put a woman on the $10 dollar bill #abouttime #equalityforall #historychanged 	AGAINST
 10576	Feminist Movement	If a man wants abortion but the woman wants to keep it, why on earth should he pay for child support? #doublestandards 	AGAINST
 10577	Feminist Movement	Sleezy men: DO NOT catcall at me and @emmalizrizz while we're out walking. It's NOT welcome, attractive or harmless. 	AGAINST
-10578	Feminist Movement	Men are from Earth, women are from Earth. Deal with it.  - George Carlin #QuotesOfTheDay #EqualityForAll #equality 	AGAINST
+10578	Feminist Movement	Men are from Earth, women are from Earth. Deal with it.  - George Carlin #QuotesOfTheDay #EqualityForAll #equality 	FAVOR
 10579	Feminist Movement	"Celebrities, please stop declaring yourselves ""not a feminist"" and coloring it with a different term. #equality #samething "	FAVOR
 10580	Feminist Movement	Women in the middle east get stoned to death for being raped but hey, check out the new friend icon in facebook! 	AGAINST
 10581	Feminist Movement	There really are days when I'm ashamed to admit I share gene's with some people, today is one of those days. 	AGAINST
@@ -589,55 +589,55 @@ ID	Target	Tweet	Stance
 10588	Feminist Movement	Unless u have a health or physiological problem, u should not be proud of ur overweight body! #health 	AGAINST
 10589	Feminist Movement	What young woman doesn't want to be #sugarbaby? It's far better than slaving away in a cubicle for nothing. #sugardaddy 	AGAINST
 10590	Feminist Movement	@StacyLGage @mylittlepwnies3 because i need the whole world to validate my vagina 	AGAINST
-10591	Feminist Movement	I decided to watch The Stepford Wives and I hope the women go back to normal and smash the patriarchy it's big, dumb face. 	NONE
-10592	Feminist Movement	@Lauren_Southern @PressForTruth @moen_tim spank them feminist fascists! #SpankAFeminist  	NONE
+10591	Feminist Movement	I decided to watch The Stepford Wives and I hope the women go back to normal and smash the patriarchy it's big, dumb face. 	AGAINST
+10592	Feminist Movement	@Lauren_Southern @PressForTruth @moen_tim spank them feminist fascists! #SpankAFeminist  	AGAINST
 10593	Feminist Movement	"girls: ""why don't boys like this go to my school"" boys: ""wish girls like this went to my school"" girls: unrealistic standards  "	AGAINST
 10594	Feminist Movement	"girl: *bikini photo* girls: slut Justin Bieber: *butt naked* girls: "" ""lemme see the front"" LOL BUT YOU'RE A FEMINIST "	AGAINST
-10595	Feminist Movement	The Office Cinderella: When a female is considered as not-giving-100%-to-work because she comes and leaves office on time. #women 	AGAINST
-10596	Feminist Movement	@watchyoomouth_ @SCbchbum are you fucking KIDDING ME? so you're saying that justifies rape? #rapeculture #smdh 	AGAINST
+10595	Feminist Movement	The Office Cinderella: When a female is considered as not-giving-100%-to-work because she comes and leaves office on time. #women 	FAVOR
+10596	Feminist Movement	@watchyoomouth_ @SCbchbum are you fucking KIDDING ME? so you're saying that justifies rape? #rapeculture #smdh 	FAVOR
 10597	Feminist Movement	@datsradd why not the right? Why always the left titty ? 	AGAINST
 10598	Feminist Movement	I need feminism because:  A man in a room full of women is ecstatic. A woman in a room full of men is terrified. 	AGAINST
 10599	Feminist Movement	Tomorrow, we gone see think pieces on @KeyAndPeele 's pirate skit. #wesayyoho #butwedontsayho #cuzhoisdisrespectfulyo #kinda 	AGAINST
 10600	Feminist Movement	In the United States, when an unmarried man has a baby, his partner can give it up without his consent. #Patriarchy 	AGAINST
-10601	Feminist Movement	Marriage is driving under the influence of hormonal alcohol & divorce is the morally painful sobriety the day after. 	FAVOR
+10601	Feminist Movement	Marriage is driving under the influence of hormonal alcohol & divorce is the morally painful sobriety the day after. 	AGAINST
 10602	Feminist Movement	Feminists grades in science class usually are as bad as the abysmal success rate of marriage.   #GamerGate #NotYourSh... 	AGAINST
-10603	Feminist Movement	@BOZARbrussels is this how @UN_Women sees #genderequality ? Only #women with arms like #men ? #stopmarriagebill #fakecases @UN 	AGAINST
-10604	Feminist Movement	@shoe0nhead surely it needs both to be side by side? Looks like the woman is now in front. Is that not what u were worried about? 	FAVOR
-10605	Feminist Movement	@PH4NT4M @MarcusChoOo @CheyenneWYN women. The term is women. Misogynist! 	NONE
+10603	Feminist Movement	@BOZARbrussels is this how @UN_Women sees #genderequality ? Only #women with arms like #men ? #stopmarriagebill #fakecases @UN 	FAVOR
+10604	Feminist Movement	@shoe0nhead surely it needs both to be side by side? Looks like the woman is now in front. Is that not what u were worried about? 	AGAINST
+10605	Feminist Movement	@PH4NT4M @MarcusChoOo @CheyenneWYN women. The term is women. Misogynist! 	AGAINST
 10606	Feminist Movement	The stupidity of feminists is fucking hilarious! #sorrynotsorry 	AGAINST
 10607	Feminist Movement	I've seen many defeated men in life but never a defeated woman~Sir Fazle Abed #WomenEmpowerment #quote #quoteoftheday #wisdom 	AGAINST
 10608	Feminist Movement	Feminism is a hate group!! - anti fem Twitter user that does nothing but harass and spread hate. 	AGAINST
 10609	Feminist Movement	@caitlinwinner Ladies in front of men is equality apparently 	AGAINST
-10610	Feminist Movement	Expel them_ #male millionaires from society!  All Rights for women and children!  Stop #children #women trafficking! 	AGAINST
+10610	Feminist Movement	Expel them_ #male millionaires from society!  All Rights for women and children!  Stop #children #women trafficking! 	FAVOR
 10611	Feminist Movement	Saw something about Facebook moving the gender icons around. Women are officially not living in the shadow of a man! #InternetWin 	AGAINST
 10612	Feminist Movement	Clothes with size number oppress woman . Remove them. #thisoppresseswomen 	AGAINST
-10613	Feminist Movement	Why do #women take their husban's name?Why not the other way round?Let's start #Itookhername!!!us #gender #genderequity 	AGAINST
-10614	Feminist Movement	Inb4 feminists think that it's sexist that the King card is better then the Queen card and they try to change the rules of cards 	NONE
+10613	Feminist Movement	Why do #women take their husban's name?Why not the other way round?Let's start #Itookhername!!!us #gender #genderequity 	FAVOR
+10614	Feminist Movement	Inb4 feminists think that it's sexist that the King card is better then the Queen card and they try to change the rules of cards 	AGAINST
 10615	Feminist Movement	Feminist actually complained about the Facebook icon......... 	AGAINST
 10616	Feminist Movement	Don't tell me what to do and what not to do. Now come here, let me tell you what a real man is.   #hypocrites 	AGAINST
 10617	Feminist Movement	If men and women were equal I could sleep with multiple men and wouldn't be hoe. #IAmAFeminist 	AGAINST
-10618	Feminist Movement	DEAR FEMINISTS  Yes, we should teach men not to rape. Also, we should teach women not to murder their own children.  	FAVOR
+10618	Feminist Movement	DEAR FEMINISTS  Yes, we should teach men not to rape. Also, we should teach women not to murder their own children.  	AGAINST
 10619	Feminist Movement	#RapeCulture is leaving your new/used car in the worst neighborhood, doors wide open & not to expect #CarTheftCulture 	FAVOR
-10620	Feminist Movement	The concept of #RapeCulture is a puerile, intellectually dishonest glorification of a crime by feminists.  	AGAINST
-10621	Feminist Movement	A fictional character been raped and abused oppress me. Censor pls!! #thisoppresseswomen  	FAVOR
+10620	Feminist Movement	The concept of #RapeCulture is a puerile, intellectually dishonest glorification of a crime by feminists.  	FAVOR
+10621	Feminist Movement	A fictional character been raped and abused oppress me. Censor pls!! #thisoppresseswomen  	AGAINST
 10622	Feminist Movement	Just wrote my blog to help @CalAlimony pass a vital law that ends #alimony. Posting soon. #Divorce #leanin 	AGAINST
 10623	Feminist Movement	Religions give its members an identity & without it, they cannot function. Feminists cannot function without feminism. 	AGAINST
-10624	Feminist Movement	Feminists, SJWs and other authoritarian Marxists = slimy f**ks bent on world domination. Just gotta say it. 	FAVOR
+10624	Feminist Movement	Feminists, SJWs and other authoritarian Marxists = slimy f**ks bent on world domination. Just gotta say it. 	AGAINST
 10625	Feminist Movement	women can be sexist toward men. think all men are pigs? you're sexist. you can't fight oppression with this. 	AGAINST
 10626	Feminist Movement	Now, I understand your a feminist and think that's adorable, but this grow up time and I'm the man here so run along. 	AGAINST
-10627	Feminist Movement	Just want gender politics to be over.  My brain hurts. #genderequity #patriarchy #MRA 	FAVOR
-10628	Feminist Movement	omg @KeyAndPeele you are fcking KILLING IT! #piratesong #womenaredoctorstoo #hoeisdisrespectful 	FAVOR
+10627	Feminist Movement	Just want gender politics to be over.  My brain hurts. #genderequity #patriarchy #MRA 	AGAINST
+10628	Feminist Movement	omg @KeyAndPeele you are fcking KILLING IT! #piratesong #womenaredoctorstoo #hoeisdisrespectful 	AGAINST
 10629	Feminist Movement	Been watching a lot of feminist videos in YouTube an all I can say is Are these women for real ?!?! 	AGAINST
-10630	Feminist Movement	RT @LouiseMensch: Emma Psychowicz   He was cleared. #EmmaSulkowitz #PaulNungesser #justice #fauxminism 	FAVOR
+10630	Feminist Movement	RT @LouiseMensch: Emma Psychowicz   He was cleared. #EmmaSulkowitz #PaulNungesser #justice #fauxminism 	AGAINST
 10631	Feminist Movement	Don't #GiveYourMoneyToWomen. Instead feed a cat or a dog. The animal will like you and show some gratitude.   	AGAINST
 10632	Feminist Movement	@N4G that's what she gets for not knowing her place #KnowYourPlaceWomen   #FreeSpeech 	AGAINST
 10633	Feminist Movement	Women are murder, abused, raped and etc but what is apparently more important for feminism are #freethenippple and #Manspreading . 	AGAINST
 10634	Feminist Movement	I always enjoy being called a slut, or a bitch by feminists for my opinions. #AntiFeminism  	AGAINST
 10635	Feminist Movement	Hugo Schwyzer, Jian Gomeshi, both prominent male feminists, both abusers of women #sjw #GamerGate 	AGAINST
-10636	Feminist Movement	#yesallwomen are #always #unstoppable if they whine whine whine to get their way #likeagirl  #GamerGate  #HoneyBadger 	FAVOR
+10636	Feminist Movement	#yesallwomen are #always #unstoppable if they whine whine whine to get their way #likeagirl  #GamerGate  #HoneyBadger 	AGAINST
 10637	Feminist Movement	#yesallwomen are #always #unstoppable if they cry to get their way #likeagirl   #GamerGate    	AGAINST
 10638	Feminist Movement	if those feminists come to their senses about equality, they will be calling themselves equalist. @MeninistTweet 	AGAINST
-10639	Feminist Movement	@ChaseStraight Wat is gaems? Like candy crush saga? #girlgamzers #wat 	FAVOR
+10639	Feminist Movement	@ChaseStraight Wat is gaems? Like candy crush saga? #girlgamzers #wat 	AGAINST
 10640	Feminist Movement	"@CollegeFix @WashTimes Please notice that ""Victims Advocates""were filing friend of the court briefs. #repealVAWA N destroy "	AGAINST
 10641	Feminist Movement	If your shampoo has more shit in it, you have to pay more. The pink tax is a farse. #pinktax 	AGAINST
 10642	Feminist Movement	@AmandaMarcotte do you love your cats more than you love men? Of course 	AGAINST
@@ -651,10 +651,10 @@ ID	Target	Tweet	Stance
 10650	Feminist Movement	I still take pride in calling myself Goswami. And I would take strong exception to anyone who told me I wasn't entitled to use it! 	AGAINST
 10651	Feminist Movement	I'm a co-omnipotent-faux-fallacious-poly-concupiscent-inter-equanimity feminist now.   you may bow to me. 	AGAINST
 10652	Feminist Movement	3rd wave feminism is pretty much the far-left equivalent of the Tea Party... 	AGAINST
-10653	Feminist Movement	Why fight for gender equality, you ask? 'Cause I listen to shitty women claim they are above the law & watch innocent men drown. 	FAVOR
+10653	Feminist Movement	Why fight for gender equality, you ask? 'Cause I listen to shitty women claim they are above the law & watch innocent men drown. 	AGAINST
 10654	Feminist Movement	You should start using Google translate @baedontcare, it is sooooo easy even retarded feminists like you can use it.  	AGAINST
 10655	Feminist Movement	@Cernovich lets hang our heads in shame that men have become so feminized 	AGAINST
-10656	Feminist Movement	Man: this is an issue and needs to be addressed Woman: this is an iss... Men: why are you so outraged???? #everydaysexism 	FAVOR
+10656	Feminist Movement	Man: this is an issue and needs to be addressed Woman: this is an iss... Men: why are you so outraged???? #everydaysexism 	AGAINST
 10657	Feminist Movement	RT @ReformedSamurai: I have yet to meet one #feminist that isn't a racist or sexist. #GamerGate #WomenAgainstFeminsim #sup... 	AGAINST
 10658	Feminist Movement	I swear to God... The people who claim to represent Feminism are turning it into a joke. #SJW #feminist  #GuaranteedReactions 	AGAINST
 10659	Feminist Movement	im okay with white girls with dreads because 	AGAINST
@@ -666,22 +666,22 @@ ID	Target	Tweet	Stance
 10665	Feminist Movement	@fuckboyusagi : ATTENTION ALL FEMINISTS, FOLLOW #TumblrPosts #yesallwomen #THANKYOUELLENPAO #reddit #GamerGate #KILLALLMEN #LGBT 	AGAINST
 10666	Feminist Movement	Today's roundup of pro-circ trolls: @cbpolis @AnimalRightsJen @ynkutner @DrJohnChisholm @monaeltahawy @hibowardere #i2 	AGAINST
 10667	Feminist Movement	i need feminism because i cant even walk to dairy queen without a male yelling nice ass out of his window 	AGAINST
-10668	Feminist Movement	@femfreq I don't understand why all these nerds hate you so much. I would love to do the nasty with you sexy #GamerGate #feminist 	FAVOR
-10669	Feminist Movement	The more you push me, the more I resist. Don't bother #strongwomen #women 	AGAINST
+10668	Feminist Movement	@femfreq I don't understand why all these nerds hate you so much. I would love to do the nasty with you sexy #GamerGate #feminist 	AGAINST
+10669	Feminist Movement	The more you push me, the more I resist. Don't bother #strongwomen #women 	FAVOR
 10670	Feminist Movement	@Maisie_Williams is our hero with her #LikeAGirl campaign! What a brilliant leader she is, so badass just like Arya! #GoT 	AGAINST
 10671	Feminist Movement	"Rather be an ""ugly"" feminist then be these sad people that throws hat on people that believes in equality! "	AGAINST
 10672	Feminist Movement	iamNovaah: RT ChrzOC: Bitches be running wild...  # # # # #   #feminazi  #feminonsence   #brosb4hos #F4F #R... 	AGAINST
 10673	Feminist Movement	@angerelle you disagree that people should strive to be stronger? #empowering 	AGAINST
-10674	Feminist Movement	#Rapeculture is basically a FABLE. It has almost no reason on its side, but plenty of emotion. #rape #women #antifeminism #antiSJW 	AGAINST
+10674	Feminist Movement	#Rapeculture is basically a FABLE. It has almost no reason on its side, but plenty of emotion. #rape #women #antifeminism #antiSJW 	FAVOR
 10675	Hillary Clinton	#mtp @meetthepress How is deleting emails -part of the government record -different from erasing parts of a tape? #nixon #p2 	AGAINST
 10676	Hillary Clinton	@JDSon78 @AndrewBroering AndrewWhyDoYouCareAboutWhatIThink? I DidNotRealizeThatIWasThisImportant. SirTweet AndrewIsAPaidTroll 	AGAINST
 10677	Hillary Clinton	The white male vote is solidly GOP. The black vote is solidly DEM.  That leaves white females and brown ppl. #FeelTheBern 	AGAINST
-10678	Hillary Clinton	"@nyinvesting big banker buds need to ratchet up their ""Hillary cares about the little people"" propaganda  "	FAVOR
+10678	Hillary Clinton	"@nyinvesting big banker buds need to ratchet up their ""Hillary cares about the little people"" propaganda  "	AGAINST
 10679	Hillary Clinton	@GOP Why should I believe you on this? The GOP leaders in congress won't fight Obama now!!! #tcot 	AGAINST
 10680	Hillary Clinton	"@RushetteNY @TwitchyTeam Hillary to press: ""Curtsy while you're thinking what to say, it saves time"" #throughthelookingglass  "	AGAINST
 10681	Hillary Clinton	@GovtsTheProblem This is what I see: Make way 4 ur queen peasants! Don'ttouch or talk 2 her U filth! #NoHillary2016 #Benghazi  	AGAINST
 10682	Hillary Clinton	@CNNSotu @jaketapper - Can we get back to the issues? That's what #Bernie2016 wants to talk about. Not about 	AGAINST
-10683	Hillary Clinton	@nytimes But throws a rope around reporters and free speech.  #HillaryInNH 	AGAINST
+10683	Hillary Clinton	@nytimes But throws a rope around reporters and free speech.  #HillaryInNH 	FAVOR
 10684	Hillary Clinton	#IfIhadAdollarFor wondering, was I that stupid when I was a #Democrats? #Obama #2A #NoAmnesty #WakeUpAmerica 	AGAINST
 10685	Hillary Clinton	@BeladonnaRogers @Chairmnoomowmow The compliant media allowed themeselves to b herded by a couple of strands of rope? Good sheep! 	AGAINST
 10686	Hillary Clinton	The #HillaryCampaignSong Top 20 will be revealed (and voting will resume) Monday morning at 10am PT! 	AGAINST
@@ -712,7 +712,7 @@ ID	Target	Tweet	Stance
 10711	Hillary Clinton	@nolyklibs Awww does #Killary think posing for that pic will make her look like a real human? @jlconnell66 #Benghazi #Shillary 	AGAINST
 10712	Hillary Clinton	@danmericaCNN @GenGSPatton @danamericaIt looked like they were the ones tying the knots. @jlconnell66 #Killary 	AGAINST
 10713	Hillary Clinton	RT @hamackey: RT @SlyDude3677: @msnbc  Republican Menu...pic.twitter.com/z4PH6VTJFl  	AGAINST
-10714	Hillary Clinton	The press needs to get out of the way so the peasants can get a glimpse of her Highness. #morningjoe  	AGAINST
+10714	Hillary Clinton	The press needs to get out of the way so the peasants can get a glimpse of her Highness. #morningjoe  	NONE
 10715	Hillary Clinton	"@HillaryClinton had a duty to preserve ESI Now it's someone's duty to prosecute & sanction her Apparently ""duty"" is irrelevant "	AGAINST
 10716	Hillary Clinton	@dougshelton749 @realDonaldTrump  #HRC would be an even bigger threat to America than #Obummer.   #WakeUpAmerica 	AGAINST
 10717	Hillary Clinton	@AppSame: Queen @HillaryClinton Was asked What she thought about @realDonaldTrump comments on illegals She Said LET ME EAT PIE 	AGAINST
@@ -727,7 +727,7 @@ ID	Target	Tweet	Stance
 10726	Hillary Clinton	@WashTimes This is indefensible! One of the dumbest things I have ever seen a campaign do. Even the left was outraged by this.  	AGAINST
 10727	Hillary Clinton	@thehill Who's in charge of Hillary's campaign? Please get it under control and on message. #smh 	AGAINST
 10728	Hillary Clinton	@tiffiwestcott  I got mine and I love it. 	AGAINST
-10729	Hillary Clinton	Education should not be a debt sentence! -Former State Representative Patricia Harper  #FellowsIA 	AGAINST
+10729	Hillary Clinton	Education should not be a debt sentence! -Former State Representative Patricia Harper  #FellowsIA 	NONE
 10730	Hillary Clinton	Hillary Clinton is a devious & deceitful career politician. She is the Richard Nixon of our time. 	AGAINST
 10731	Hillary Clinton	HRC is a war monger, every bit as bad as any Republican in the race, and probably worse than some. 	AGAINST
 10732	Hillary Clinton	It's interesting how many liberals are so brainwashed and anxious to mindlessly support a woman who isn't even liberal 	AGAINST
@@ -750,10 +750,10 @@ ID	Target	Tweet	Stance
 10749	Hillary Clinton	I just don't think we need an old white guy in the #WH - Who would his #VP be? voting for 	AGAINST
 10750	Hillary Clinton	SO ANYWAYS WHAT DID HE SAY? ANYTHING ABOUT VOTING FOR ME? #OBAMA #ISIS #ISIL 	AGAINST
 10751	Hillary Clinton	"WHAT IS ""THE THREAD OF VIOLIN EXTREMISM?"" #OBAMA #ISIS #ISIL #tcot #Elocution "	AGAINST
-10752	Hillary Clinton	Right now every liberal in America is feeling hopeful. We have GREAT Prez candidates. #UniteBlue #FeelTheBern 	AGAINST
+10752	Hillary Clinton	Right now every liberal in America is feeling hopeful. We have GREAT Prez candidates. #UniteBlue #FeelTheBern 	NONE
 10753	Hillary Clinton	@TGowdySC Your committee has NOTHING!, 4 other committees found NOTHING! UR wasting our money on a witch hunt. #HillaryClinton 	AGAINST
-10754	Hillary Clinton	@Reince This is very credible! Good work! America is desperately in need of good leadership. #VoteGOP #NoHillary 	FAVOR
-10755	Hillary Clinton	@AdamSmith_USA Nice video. GOOD Luck WITH it. 	FAVOR
+10754	Hillary Clinton	@Reince This is very credible! Good work! America is desperately in need of good leadership. #VoteGOP #NoHillary 	AGAINST
+10755	Hillary Clinton	@AdamSmith_USA Nice video. GOOD Luck WITH it. 	AGAINST
 10756	Hillary Clinton	@HillaryClinton @HillaryforNH hope to see her in NC soon 	AGAINST
 10757	Hillary Clinton	I'm going to miss the 5pm interview so I'm depending on you all to live tweet it. Haha 	AGAINST
 10758	Hillary Clinton	While I like Bernie as much as the next liberal, if we nominate him we could actually lose to some RWNJ 	AGAINST
@@ -787,20 +787,20 @@ ID	Target	Tweet	Stance
 10786	Hillary Clinton	7 years ago this month #POTUS released his groundbreaking First Americans tribal policy platform. You're up #Election2016 	AGAINST
 10787	Hillary Clinton	@kwrcrow Probably for the same reason bho has not ...& @SpeakerBoehner is one of them @GOP @HouseGOP @seanhannity  #StopBush 	AGAINST
 10788	Hillary Clinton	#HillaryClinton just cannot accept the fact that #America does not like her. #HillaryonCNN #BernieSanders 	AGAINST
-10789	Hillary Clinton	@HillaryClinton is plain amazing, humble, smart and confident! Let's get it Mrs. President! #HillaryClinton 	FAVOR
+10789	Hillary Clinton	@HillaryClinton is plain amazing, humble, smart and confident! Let's get it Mrs. President! #HillaryClinton 	AGAINST
 10790	Hillary Clinton	@thehill Great now Hillary knows how the american people feel about the majority of politicians including her 	AGAINST
 10791	Hillary Clinton	She's smarter and works harder . Empty accusations,inferences,gossip and rumors are rubbish. 	AGAINST
-10792	Hillary Clinton	@MedvedSHOW   wow.  So shrill. Hating Hillary as badly as you hate homeless, transgenders, and people who ride trains 	FAVOR
-10793	Hillary Clinton	@kasie I do! And I had an invitation to their beta test before they even officially launched. #HillaryLies 	FAVOR
-10794	Hillary Clinton	@CNN @jimsciutto Good i'view #Brianna. #Hillary NOT responsible 4 slander/libel-lies r indefensible. WILL be next #POTUS. 	FAVOR
+10792	Hillary Clinton	@MedvedSHOW   wow.  So shrill. Hating Hillary as badly as you hate homeless, transgenders, and people who ride trains 	AGAINST
+10793	Hillary Clinton	@kasie I do! And I had an invitation to their beta test before they even officially launched. #HillaryLies 	AGAINST
+10794	Hillary Clinton	@CNN @jimsciutto Good i'view #Brianna. #Hillary NOT responsible 4 slander/libel-lies r indefensible. WILL be next #POTUS. 	AGAINST
 10795	Hillary Clinton	Either way, @HillaryClinton rises above the media chatter every time. That's one reason why I admire and respect her so much. 	AGAINST
 10796	Hillary Clinton	@TwitchyTeam ...and then she'll turn around and treat them like dogs. #RopeLine #SitUbuSitGoodDog 	AGAINST
 10797	Hillary Clinton	Obama is 'opportunist,' Hillary Clinton no different just 'more militant' - Chomsky #TruthBeTold #notmypresident 	AGAINST
-10798	Hillary Clinton	@USATODAY @HillaryClinton how about finding her a #pathtoJAIL #DONOTPASSGO do collect any Any more of #WeThePeople s 	NONE
+10798	Hillary Clinton	@USATODAY @HillaryClinton how about finding her a #pathtoJAIL #DONOTPASSGO do collect any Any more of #WeThePeople s 	AGAINST
 10799	Hillary Clinton	@AC360 of course she is disappointed. Hillary only approves of lying to Americans. #WakeUpAmerica #pjnet 	AGAINST
-10800	Hillary Clinton	Trying 2 unfollow every twit who isn't going 2 vote if their candidate doesn't make it to the general.  #FeelTheBern   #SCOTUS 	AGAINST
-10801	Hillary Clinton	ROFLMAO! 2012 @GOP couldnt kiss enough of #DonaldTrump ass! Now GOP cant run fast enough. #tcot #uniteblue #Bernie2016 	FAVOR
-10802	Hillary Clinton	@HillaryClinton made me proud today!  Nothing like reinforcing what I already knew!  	FAVOR
+10800	Hillary Clinton	Trying 2 unfollow every twit who isn't going 2 vote if their candidate doesn't make it to the general.  #FeelTheBern   #SCOTUS 	NONE
+10801	Hillary Clinton	ROFLMAO! 2012 @GOP couldnt kiss enough of #DonaldTrump ass! Now GOP cant run fast enough. #tcot #uniteblue #Bernie2016 	AGAINST
+10802	Hillary Clinton	@HillaryClinton made me proud today!  Nothing like reinforcing what I already knew!  	AGAINST
 10803	Hillary Clinton	@N_Fatale @bayareahausfrau ILLEGAL IMMIGRATION IS GOOD FOR THE ECONOMY AND GOOD FOR OUR CHILDREN #tcot 	AGAINST
 10804	Hillary Clinton	@HillaryClinton great job on @CNN interview today.  Fuck stupid MSM. Go 	AGAINST
 10805	Hillary Clinton	Hillary upset GOP candidates didn't respond to Trump's illegal imm comments immediately-yet we're still waiting for her emails. 	AGAINST
@@ -812,15 +812,15 @@ ID	Target	Tweet	Stance
 10811	Hillary Clinton	@StarCoreOne02 @DrMartyFox Is it still 1992? We must be watching Back To The Future 10.0 	AGAINST
 10812	Hillary Clinton	.@thehill umm.  Yyyeaaaaah. Sure they do. 	AGAINST
 10813	Hillary Clinton	@JedediahBila u must be counting the lies like sheep ..... 	AGAINST
-10814	Hillary Clinton	Technology has exposed more bad politicians than bad cops....Where Is Our Server Hillary? #CNN 	FAVOR
+10814	Hillary Clinton	Technology has exposed more bad politicians than bad cops....Where Is Our Server Hillary? #CNN 	AGAINST
 10815	Hillary Clinton	Free and Equal in dignity and rights. 	AGAINST
 10816	Hillary Clinton	@CheerUpKaci @tmacGA70 It's the Clinton history of scandalous behavior.  #Integrity knows no sex. #HillaryonCNN 	AGAINST
-10817	Hillary Clinton	"Entire campaign platform for @HillaryClinton seems to be... ""I'm Hillary Clinton"".  #norecord #nosubstance #tcot #PJNET "	NONE
+10817	Hillary Clinton	"Entire campaign platform for @HillaryClinton seems to be... ""I'm Hillary Clinton"".  #norecord #nosubstance #tcot #PJNET "	AGAINST
 10818	Hillary Clinton	Imagine @JoeBiden runs for POTUS. Without a doubt a strong & popularly likable candidate against the Clinton. ------- 	AGAINST
 10819	Hillary Clinton	A lot of #GOPHaters for #Hillary - so funny because she is beating them all at 40% 	AGAINST
 10820	Hillary Clinton	"SUCCESS:  @HillaryClinton said she's receiving a constant barrage of attacks from ""the Right.""  Great job, guys. Keep it up! "	AGAINST
 10821	Hillary Clinton	Do you Progressives know how dangerously close you are to suppressing free speech? Stop it.   #inners  #readyforhillary 	AGAINST
-10822	Hillary Clinton	#Democrats and #Obama reduce OUR Army by 40,000   MEANWHILE   Has increased IRS to 100,000  #HillaryClinton #Hillary 	NONE
+10822	Hillary Clinton	#Democrats and #Obama reduce OUR Army by 40,000   MEANWHILE   Has increased IRS to 100,000  #HillaryClinton #Hillary 	AGAINST
 10823	Hillary Clinton	@CNNPolitics @PoliticalAnt @moody this is beautiful #oops 	AGAINST
 10824	Hillary Clinton	"#NoHillary2016 & her #PredatorRat, too. MT ""@steve0423: We need to get these stickers up nationwide! #tcot #RedNationRising "	AGAINST
 10825	Hillary Clinton	@forewit @HillaryClinton is a degenerate liar who will do, say, cheat, delete, anything to get another squat at 1600 Penn Ave. 	AGAINST
@@ -850,7 +850,7 @@ ID	Target	Tweet	Stance
 10849	Hillary Clinton	Hilarity of the day: Hillary said she went 'above and beyond' in transparency. Really? What about the 30k deleted emails? 	AGAINST
 10850	Hillary Clinton	@HillaryClinton Wow, #HillaryClinton looks very fat in that pants suit. #liberals #tlot #Democrats 	AGAINST
 10851	Hillary Clinton	@HillaryClinton interview was ridiculous!! She's such a liar! 	AGAINST
-10852	Hillary Clinton	Every time the republicans move to the middle, the liberals move the middle further to the left. 	FAVOR
+10852	Hillary Clinton	Every time the republicans move to the middle, the liberals move the middle further to the left. 	AGAINST
 10853	Hillary Clinton	.@HillaryClinton blames her lack of trust among the populace on @GOP, forgetting that she's a lying, conniving, murderous, cheat. 	AGAINST
 10854	Hillary Clinton	Hillary has sacrificed more Ambassadors, told more lies, hid and destroyed more evidence... The beat goes on,,, @McSadie 	AGAINST
 10855	Hillary Clinton	@thehill : Women deserve a better candidate for the HIGH HONOR if first woman President: We ALL do! #WhyI'mNotVotingForHillary 	AGAINST
@@ -866,7 +866,7 @@ ID	Target	Tweet	Stance
 10865	Hillary Clinton	Hillary has learned The Blame Game well from Obama - she blames GOP for everything! 	AGAINST
 10866	Hillary Clinton	when i get married to my partner i want @HillaryClinton to be my maid of honor!  #govote #girlpower #lovewins 	AGAINST
 10867	Hillary Clinton	Hey!!! If anyone wants to help with the Hillary camp at Charlotte pride, let me know!!! #nc #pride #lgbt 	AGAINST
-10868	Hillary Clinton	Are we so desperate in this country to seriously consider a 60+ woman as president? 	NONE
+10868	Hillary Clinton	Are we so desperate in this country to seriously consider a 60+ woman as president? 	AGAINST
 10869	Hillary Clinton	@JOEROWE409 @ScotsFyre Hillaey Clinton can't help but lie...it's who she really is. 	AGAINST
 10870	Hillary Clinton	"Hillary ""We came, we saw, he [Gaddaffi] died"" psychopath Clinton. #HillaryonCNN #Nothanks "	AGAINST
 10871	Hillary Clinton	It bugs me when some people seek to invalidate centrist Democrats. I prefer a bigger tent. 	AGAINST
@@ -883,16 +883,16 @@ ID	Target	Tweet	Stance
 10882	Hillary Clinton	This is the 3rd time in U.S. that Republicans has a vacuum of presidential leadership. 	AGAINST
 10883	Hillary Clinton	'Hilary is not electable' then you stand no chance @realDonaldTrump #carnivalbarker 	AGAINST
 10884	Hillary Clinton	If Hillary Clinton is elected president in 2016, this nation will surely experience unprecedented destruction. 	AGAINST
-10885	Hillary Clinton	"@HillaryClinton : ""Change religious beliefs"" to accommodate the violence of abortion?! #WhyI'mNotVotingForHillary "	NONE
+10885	Hillary Clinton	"@HillaryClinton : ""Change religious beliefs"" to accommodate the violence of abortion?! #WhyI'mNotVotingForHillary "	AGAINST
 10886	Hillary Clinton	Voting Republican in 2016 gets you so much more than a free cellphone! #Election2016 	AGAINST
 10887	Hillary Clinton	@HillaryClinton had a Legal obligation to prevent the destruction (preserve) Gov't & related documents (email). She didn't. 	AGAINST
 10888	Hillary Clinton	"@3_Card_Monty : I believe the title would be ""First Lord"". Let THAT sink in!! #PJNET "	AGAINST
 10889	Hillary Clinton	@Independent Maybe it's his last name? Or maybe he's a bonafide racist with a militia membership. Lol. #Tattoos 	AGAINST
-10890	Hillary Clinton	You know, when you talk bad about Hillary, in a sense, you're talking bad about me. 	NONE
+10890	Hillary Clinton	You know, when you talk bad about Hillary, in a sense, you're talking bad about me. 	AGAINST
 10891	Hillary Clinton	I will give the Jewish state all the support to vanquish Hamas & if that means killing 200,000 Gazans, than so be it. - 	AGAINST
 10892	Hillary Clinton	Why did you lie about the #Benghazi subpoena? @HillaryClinton  No wonder no one trusts you.  	AGAINST
 10893	Hillary Clinton	"@JoanOfArgghh I won't use the c-word, so I'll just say that everything Clinton does is a ""cunning stunt"". #HillaryonCNN "	AGAINST
-10894	Hillary Clinton	Controlling #illegalimmigration is Now Racist According to @ChrisCuomo #NewDayCNN  Let's Bash #Trump ALL Day AGAIN #morningjoe 	AGAINST
+10894	Hillary Clinton	Controlling #illegalimmigration is Now Racist According to @ChrisCuomo #NewDayCNN  Let's Bash #Trump ALL Day AGAIN #morningjoe 	NONE
 10895	Hillary Clinton	Vow today to fight the #FirstFamilyOfCorruption .@billclinton  .@hillaryclinton & keep her out of office #independents #tcot 	AGAINST
 10896	Hillary Clinton	During ClintonNo.1 prez stint all we heard was 'right wing conspiracy' -it's starting again 	AGAINST
 10897	Hillary Clinton	Jeb Bush says Americans should work longer hours. I'll do just that... TO ELECT HILLARY CLINTON! 	AGAINST
@@ -922,10 +922,10 @@ ID	Target	Tweet	Stance
 10921	Hillary Clinton	@Westxgal @irisflower33: This money will buy the Anti-American Libs including 	AGAINST
 10922	Hillary Clinton	@HillaryClinton Hillary is a Directioner! This is awesome! :-) They need to sing at your Inauguration! 	AGAINST
 10923	Hillary Clinton	Ok now Latino are deciding who is going to be president of the US #Jeb2016 #DonaldTrump #Sanders2016 # 	AGAINST
-10924	Hillary Clinton	Only @theDemocrats want #crimigrants running amok in U.S. Cities.   #CancerIsProgressive 	NONE
-10925	Hillary Clinton	@LeahR77 @HillaryClinton the unethical lying granny strikes again.  No charisma, no character, no accomplishments, no warmth 	NONE
+10924	Hillary Clinton	Only @theDemocrats want #crimigrants running amok in U.S. Cities.   #CancerIsProgressive 	AGAINST
+10925	Hillary Clinton	@LeahR77 @HillaryClinton the unethical lying granny strikes again.  No charisma, no character, no accomplishments, no warmth 	AGAINST
 10926	Hillary Clinton	Hey Hillary Clinton...How's things working out on #Servergate? Bury enough evidence yet?    #tcot 	AGAINST
-10927	Hillary Clinton	"Didn't take long for Clinton lackey @PaulBegala to play the ""crazy"" card. So predictable "	NONE
+10927	Hillary Clinton	"Didn't take long for Clinton lackey @PaulBegala to play the ""crazy"" card. So predictable "	AGAINST
 10928	Hillary Clinton	I dont understand the people that bash Donald Trump but take Hillary Clinton seriously 	AGAINST
 10929	Hillary Clinton	Did you hear the answer Hillary gave to a reporter when they asked a question?!?   Neither have I.  	AGAINST
 10930	Hillary Clinton	Hillarity claims no subpoenas, get put in her place with photographic evidence... So trustworthy... #WhatILearnedToday 	AGAINST
@@ -961,7 +961,7 @@ ID	Target	Tweet	Stance
 10960	Hillary Clinton	Wouldn't be surprise that it comes to light that Chelsea's husband cheats on her. #HillaryClinton 	AGAINST
 10961	Hillary Clinton	Wouldn't be surprise that it comes to light that Chelsea's husband cheats on her like her Bill did on Hillary. #HillaryClinton 	AGAINST
 10962	Hillary Clinton	The blacks cant admit that O is a failure. No, we dont need another affirmative action president #Obama #communism 	AGAINST
-10963	Hillary Clinton	<<I'm just going to be my own little self and kind of keep going along and saying what I believe in!!1!! >> #tcot 	FAVOR
+10963	Hillary Clinton	<<I'm just going to be my own little self and kind of keep going along and saying what I believe in!!1!! >> #tcot 	AGAINST
 10964	Hillary Clinton	I think that everything she says is a lie.   I mean EVERYTHING.   I don't even think her name is Hillary.  #WakeUpAmerica 	AGAINST
 10965	Hillary Clinton	.@HillaryClinton Looking 4ward 2 hearing your Economic Agenda on Monday July13. WOW a candidate talking Specifics & not Rhetoric! 	AGAINST
 10966	Hillary Clinton	@mataharikrishna I'm loving it too! Draw that contrast!!! 	AGAINST
@@ -975,7 +975,7 @@ ID	Target	Tweet	Stance
 10974	Legalization of Abortion	PRAYERS FOR BABIES Urgent prayer one in Lexington KY&two in Dallas TX&in Chattanooga TN  Life begins at conception  	AGAINST
 10975	Legalization of Abortion	I do not want to bring a child into this dangerous patriarchy. But I want to feel pregnancy as an experience #PregnancyForAll 	AGAINST
 10976	Legalization of Abortion	I have a right to identify as pregnant and have an abortion. Having an abortion confirms my power of choice. #PregnancyForAll 	AGAINST
-10977	Legalization of Abortion	"In so many ways to Christians right here in America we already ARE the ""Great Satan"" #GayMarriage #Drugs #WakeUpAmerica "	AGAINST
+10977	Legalization of Abortion	"In so many ways to Christians right here in America we already ARE the ""Great Satan"" #GayMarriage #Drugs #WakeUpAmerica "	NONE
 10978	Legalization of Abortion	Pray for the Navy yard. God please keep the casualties minimal.   #1A #2A #NRA #COS #CCOT #TGDN #PJNET  #WAKEUPAMERICA 	AGAINST
 10979	Legalization of Abortion	I #DenounceHarper because his religious ties are responsible for the #MarchForLife anti-choice rallies on Parliament Hill. 	AGAINST
 10980	Legalization of Abortion	The government has given no explanation of why the law was changed #macedonia #HRCtte 	AGAINST
@@ -989,16 +989,16 @@ ID	Target	Tweet	Stance
 10988	Legalization of Abortion	Why would I want to make choices about my own body, when a congressman could do it for me?  #ConversationsWithAlex 	AGAINST
 10989	Legalization of Abortion	Does the Gay Community support Abortion? #ProLifeYouth #LGBTPrideMonth 	AGAINST
 10990	Legalization of Abortion	It's sad to see so many people getting their values from Hollywood rather than the Holy Scriptures.  #ProLifeYouth 	AGAINST
-10991	Legalization of Abortion	"The idea that a ""fetus"" isn't human is outrageous, I mean what else would it be? A dog? A dragon? The unborn are HUMAN BEINGS! "	NONE
+10991	Legalization of Abortion	"The idea that a ""fetus"" isn't human is outrageous, I mean what else would it be? A dog? A dragon? The unborn are HUMAN BEINGS! "	AGAINST
 10992	Legalization of Abortion	@prolife_wife You can say that again! #AbortionIsMurder #AllLivesMatter #ProLifeYouth 	AGAINST
 10993	Legalization of Abortion	@__Porky @P226_Sig @_HankRearden @jrmadmen @aemdee who is for it. I'm not. But am for a women's right to her own body. 	AGAINST
 10994	Legalization of Abortion	it's not that i don't want to be at work. it's that i rather be asleep. 	AGAINST
 10995	Legalization of Abortion	Anti choice laws are sexist because they only effect women*.   	AGAINST
-10996	Legalization of Abortion	So anti-choice laws are telling these women they're incapable and shouldn't make decisions that involve their own body.   	FAVOR
+10996	Legalization of Abortion	So anti-choice laws are telling these women they're incapable and shouldn't make decisions that involve their own body.   	AGAINST
 10997	Legalization of Abortion	Like how can you sit there and even go through with the process 	AGAINST
 10998	Legalization of Abortion	Fair IS fair if U believe an unborn child has no right to life, then UR saying I can decide if you do?? 	AGAINST
 10999	Legalization of Abortion	@MichestBlogSpot: Postinor is popularly  used for?  #MrChocho_BabyOKoko 	AGAINST
-11000	Legalization of Abortion	#FF #Patriot --> PigsWalkUpright.  Thanks 4 following back!! #Truth #Liberty #Justice #ProIsrael #2A #RiseUpAmerica #ProudAmerican 	AGAINST
+11000	Legalization of Abortion	#FF #Patriot --> PigsWalkUpright.  Thanks 4 following back!! #Truth #Liberty #Justice #ProIsrael #2A #RiseUpAmerica #ProudAmerican 	NONE
 11001	Legalization of Abortion	How many location-efficient, #affordablehousing units could the NYC metro (pop. 23M) create if it built over all of its cemeteries? 	AGAINST
 11002	Legalization of Abortion	@nytimes while you are at it, eliminate all drugs, cars, planes, food, electricity, and anything else that MAY cause a death. 	AGAINST
 11003	Legalization of Abortion	Not all women want to have or bear children, and that is okay  	AGAINST
@@ -1023,7 +1023,7 @@ ID	Target	Tweet	Stance
 11022	Legalization of Abortion	@Independent_ie No one has 5he right to tell any person what they should do with their body 	AGAINST
 11023	Legalization of Abortion	@ProWomanChoice @BuhayIpaglaban people like you are exactly what is wrong with our society. #ProCONTRACEPTION #unapologetic  	AGAINST
 11024	Legalization of Abortion	A bundle of cells feels more pain than a fully grown women? no. 	AGAINST
-11025	Legalization of Abortion	pro-choicers are basically tryna fight oppression with more  oppression . #feminist 	FAVOR
+11025	Legalization of Abortion	pro-choicers are basically tryna fight oppression with more  oppression . #feminist 	AGAINST
 11026	Legalization of Abortion	#rally4life more like rally for people who think they have the right to authorise other people's decisions 	AGAINST
 11027	Legalization of Abortion	As a man, the only body I should have a say in is my own. #repealthe8th #rally4life 	AGAINST
 11028	Legalization of Abortion	Wish I could be at the #rallyforlife counter protest. Women are people. Fetuses are clumps of cells. End of story. #ireland 	AGAINST
@@ -1032,9 +1032,9 @@ ID	Target	Tweet	Stance
 11031	Legalization of Abortion	"So you're at the #rally4life? Tell me more about how #antichoice laws kill 47,000 women A YEAR! Very ""#prolife"" uh? #REpealThe8th "	AGAINST
 11032	Legalization of Abortion	Solidarity with all at the counter #rally4life - Ireland won't be equal until women have full control of our bodies #repealthe8th 	AGAINST
 11033	Legalization of Abortion	This #rally4life shit! How people support it I'll never understand. 	AGAINST
-11034	Legalization of Abortion	"Dear to who it may concern;""YOU stand up for my right to live.   #Baby #murder #RightToLife #unborn #womensrights #legal "	AGAINST
+11034	Legalization of Abortion	"Dear to who it may concern;""YOU stand up for my right to live.   #Baby #murder #RightToLife #unborn #womensrights #legal "	FAVOR
 11035	Legalization of Abortion	"AmandaKayHowell: Dear to who it may concern;""YOU stand up for my right to live.   #Baby #murder #RightToLife #unborn #wo... "	AGAINST
-11036	Legalization of Abortion	@PrevailChris Sexual Assault is Epidemic.. Not just in Military, Colleges, Universities. Fight 2 Stop this Crime=Less Need 4 	NONE
+11036	Legalization of Abortion	@PrevailChris Sexual Assault is Epidemic.. Not just in Military, Colleges, Universities. Fight 2 Stop this Crime=Less Need 4 	AGAINST
 11037	Legalization of Abortion	The #rally4life  shows yet again what little support these people have.  #repealthe8th 	AGAINST
 11038	Legalization of Abortion	CPCs in this town of 5000: 2. #goddamn 	AGAINST
 11039	Legalization of Abortion	A prochoice advocate but circumcise ur baby? Fucking hypocrite! #circumcision #humanrights 	AGAINST
@@ -1056,16 +1056,16 @@ ID	Target	Tweet	Stance
 11055	Legalization of Abortion	@BuhayIpaglaban @_msthirdward @laurawrpie Who defends murder here? I haven't heard anyone defending the killing of human beings. 	AGAINST
 11056	Legalization of Abortion	I just unfollowed someone because they tweeted about being pro-life 	AGAINST
 11057	Legalization of Abortion	"RT @freesafelegal: ""Why does the government not hold a referendum on abortion?"" asks UN CESCR Mbr Pillay #UNIRL "	AGAINST
-11058	Legalization of Abortion	Leftist, Progressives love 2lie & claim they believe in God, but if they do they would never support #gaymarriage #Obamacare 	AGAINST
+11058	Legalization of Abortion	Leftist, Progressives love 2lie & claim they believe in God, but if they do they would never support #gaymarriage #Obamacare 	NONE
 11059	Legalization of Abortion	I'll celebrate #IndependenceDay when EVERYONE in this country is equally free & not living in fear & poverty! #EqualityForAll #p2 	AGAINST
 11060	Legalization of Abortion	@violencehurts @WomenCanSee The unborn also have rights #defendthe8th 	AGAINST
 11061	Legalization of Abortion	@violencehurts @WomenCanSee The most fundamental right of them all, the right to life, is also a right of the unborn. 	AGAINST
 11062	Legalization of Abortion	Every year I see #rally4life ads & think 'that sounds great!' Stop tricking me into thinking you want sth positive! #repealthe8th 	AGAINST
 11063	Legalization of Abortion	"#DefentThe8th? Why would I defend something that kills people? Remember #Savita, killed by Irish ""#prolife"" laws? #RepealThe8th "	AGAINST
 11064	Legalization of Abortion	Of course an embryo is a person! If it were a puppy there'd be no desire to abort it. 	AGAINST
-11065	Legalization of Abortion	If it's not a person then why do women get invitro? To have a gold fish? 	NONE
+11065	Legalization of Abortion	If it's not a person then why do women get invitro? To have a gold fish? 	AGAINST
 11066	Legalization of Abortion	There should be no law or funding which justifies the murder of innocent life.   #CCOT #pjnet 	AGAINST
-11067	Legalization of Abortion	In 1776 we killed the conservatives, freed ourselves from that crap #rightwing #Christian #ChurchState #Tyranny. #Uniteblue #tcot 	AGAINST
+11067	Legalization of Abortion	In 1776 we killed the conservatives, freed ourselves from that crap #rightwing #Christian #ChurchState #Tyranny. #Uniteblue #tcot 	NONE
 11068	Legalization of Abortion	Compromising on #sin gets easier as time goes on. Oh yeah, it didn't just start! #sexual-impurity #WakeUpAmerica 	AGAINST
 11069	Legalization of Abortion	AntiChoice laws say women can't make their own decisions  	AGAINST
 11070	Legalization of Abortion	There's no place for selfishness when you talk about a human life. Everyone matters! #quotes #truelovewaits #parenting #humanrights 	AGAINST
@@ -1075,9 +1075,9 @@ ID	Target	Tweet	Stance
 11074	Legalization of Abortion	The most horrific violence in America is the war on babies. 	AGAINST
 11075	Legalization of Abortion	If the Pope gave a flying fuck about the poor on his home continent, he'd let them have abortion and birth control. 	AGAINST
 11076	Legalization of Abortion	A much needed 3 days with these guys @rory3burke @Im_Brady missed @JimmahTwittah but what a weekend 	AGAINST
-11077	Legalization of Abortion	if truth is a micro aggression 2 the left Why is name calling by the left not a mega hypocrisy? #UniteBlue #LibCrib #maddow 	AGAINST
+11077	Legalization of Abortion	if truth is a micro aggression 2 the left Why is name calling by the left not a mega hypocrisy? #UniteBlue #LibCrib #maddow 	NONE
 11078	Legalization of Abortion	If #Freewill is good enough for your #god it should be good enough for you. 	AGAINST
-11079	Legalization of Abortion	Hi @HillaryClinton while you are campaigning, 3000 innocent lives were killed by your pals #rednationrising #uniteblue 	AGAINST
+11079	Legalization of Abortion	Hi @HillaryClinton while you are campaigning, 3000 innocent lives were killed by your pals #rednationrising #uniteblue 	NONE
 11080	Legalization of Abortion	Why are Tumblr feminists so territorial? Pro-lifers can't even voice their opinions without being attacked. #ProLifeProblems 	AGAINST
 11081	Legalization of Abortion	The sanctity of human life is not a woman's issue. #antifeminism 	AGAINST
 11082	Legalization of Abortion	@denisemourges @RepThomasMassie I know! I'm the only perfect :-) candidate. #ProCivilLiberties #ProBusiness #ProWorker #ProPeace 	AGAINST
@@ -1149,15 +1149,15 @@ ID	Target	Tweet	Stance
 11148	Legalization of Abortion	Not your uterus, not your choice--from conception on, it really is THAT simple! #fem2gen #YesAllWomen 	AGAINST
 11149	Legalization of Abortion	C7German: Heaven is our Goal,  life is our conquest  #socialmedia #technology #catholic 	AGAINST
 11150	Legalization of Abortion	@NBCLA #SB128 isn't opposed merely b/c it's against God's will (as if we're neanderthals). It's murder. Like 	AGAINST
-11151	Legalization of Abortion	Pro-Choice=Pro-Life. Anti-Choice=Anti-Life. Don't play righteous when you're advocating the endangerment of women. #womensrights 	AGAINST
+11151	Legalization of Abortion	Pro-Choice=Pro-Life. Anti-Choice=Anti-Life. Don't play righteous when you're advocating the endangerment of women. #womensrights 	FAVOR
 11152	Legalization of Abortion	It is not Pro-Life if you ignore life of the pregnant woman; that includes physical/mental health.IsProLife 	AGAINST
-11153	Legalization of Abortion	@marcmaron @amyschumer @JuddApatow Are you a triceratops or tricerabottom? #arethosehornsyourewearing 	FAVOR
+11153	Legalization of Abortion	@marcmaron @amyschumer @JuddApatow Are you a triceratops or tricerabottom? #arethosehornsyourewearing 	AGAINST
 11154	Legalization of Abortion	@paigeymadisonn: 12. something you hate.  People who don't believe abortion should be kept safe and sterile. 	AGAINST
 11155	Legalization of Abortion	Would you rather have women taking dangerous concoctions to induce abortions or know they are getting a safe & legal one? 	AGAINST
 11156	Legalization of Abortion	@Cody_Fulk92 @ntfem @brettzawesome Actually, child-murder is far worse these days. We live in more savage times. 	AGAINST
 11157	Legalization of Abortion	.@JohnTory since when did Toronto become a weak city? Bullied by stone-age cab companies that block traffic illegally. #TO4Uber 	AGAINST
 11158	Legalization of Abortion	I #DenounceHarper for refusing to include family planning in foreign aid even though spending $1 could save $6 #wherestheFP 	AGAINST
-11159	Legalization of Abortion	Looking forward to the protest today. I can't be there long but I hope my signs will. #Kingston #protesters 	NONE
+11159	Legalization of Abortion	Looking forward to the protest today. I can't be there long but I hope my signs will. #Kingston #protesters 	AGAINST
 11160	Legalization of Abortion	Our #TruthTour continues in #CarletonPlace as we show the graphic truth of abortion 2 traffic & pedestrians! #ShowTheTruth #onpoli 	AGAINST
 11161	Legalization of Abortion	It very simple .. Let women choose.. #repealthe8th #notacriminal 	AGAINST
 11162	Legalization of Abortion	I cannot believe there are still people in this century who opposed to women having rights over their own bodies! #disgusted 	AGAINST
@@ -1170,7 +1170,7 @@ ID	Target	Tweet	Stance
 11169	Legalization of Abortion	PRAISE REPORT Two babies savedOne in Dallas TX&in Charlotte NC  If we put forth effort with prayer- miracle's happen  	AGAINST
 11170	Legalization of Abortion	@WBCBowie NY pastors need to call their State Senators and stop this barbaric bill!istorture 	AGAINST
 11171	Legalization of Abortion	I support @GovMikeHuckabee because I want to see Planned Parenthood gone. 	AGAINST
-11172	Legalization of Abortion	@BernieSanders if men were the ones that got preganant this would be a non issue in America #Bernie2016 #WomensRights #Solidarity 	AGAINST
+11172	Legalization of Abortion	@BernieSanders if men were the ones that got preganant this would be a non issue in America #Bernie2016 #WomensRights #Solidarity 	FAVOR
 11173	Legalization of Abortion	DEAR PROABORTS: Using BAD grammar and FILTHY language and INTIMIDATION makes you look ignorant, inept and desperate. #GodWins 	AGAINST
 11174	Legalization of Abortion	Our #TruthTour cont' in the @CityOttawa as we show the humanity of the unborn & inhumanity of abortion! #cdnpoli #Ottawa #onpoli 	AGAINST
 11175	Legalization of Abortion	Good thing I don't live in Kingston woulda started a riot by now with this 'pro-life' protest 	AGAINST
@@ -1212,11 +1212,11 @@ ID	Target	Tweet	Stance
 11211	Legalization of Abortion	@notmuchelse Don't get pregnant! Make sure you don't get pregnant if you'd just kill your child if you do! @chooseliferacer 	AGAINST
 11212	Legalization of Abortion	I am Nazi Holocaust survivor and I say that Abortion is America's Holocaust! -Sibylle Heidrich von Campe #holocaust 	AGAINST
 11213	Legalization of Abortion	@FeministSpag @1310edhand @1310news we do care about the hurt inflicted upon preborn children through #abortion. #TruthTour #Ottawa 	AGAINST
-11214	Legalization of Abortion	@JaxLeSigh Evidence proves that morbidity & mortality rates of legal abortion r a lot higher dan carrying pregnancy 2 term #teens 	FAVOR
+11214	Legalization of Abortion	@JaxLeSigh Evidence proves that morbidity & mortality rates of legal abortion r a lot higher dan carrying pregnancy 2 term #teens 	AGAINST
 11215	Legalization of Abortion	RT DavidHarris707: MathewsJeanne Thank you 4 your very #kind RT. God Bless You #Patriot. #babies matter 	AGAINST
 11216	Legalization of Abortion	MathewsJeanne Thank you 4 your very #kind RT. God Bless You #Patriot. #babies matter 	AGAINST
 11217	Legalization of Abortion	Lord Jesus,Touch my life with your saving power, heal and restore me to fullnessof life. 	AGAINST
-11218	Legalization of Abortion	I'm against abortion, gay marriage, AND Donald Trump for President. #gaymarriage #DonaldTrump 	AGAINST
+11218	Legalization of Abortion	I'm against abortion, gay marriage, AND Donald Trump for President. #gaymarriage #DonaldTrump 	NONE
 11219	Legalization of Abortion	Hail (Mary), full of grace! The Lord is with you. (Luke 1:28) 	AGAINST
 11220	Legalization of Abortion	you can't say you support women's rights but be against abortion 	AGAINST
 11221	Legalization of Abortion	"Natural family planning isn't ""planning"" at all since it just doesn't work. "	AGAINST
@@ -1224,16 +1224,16 @@ ID	Target	Tweet	Stance
 11223	Legalization of Abortion	#ChildrensCentre's in the #UK have stay & play sessions for very young / single parents  #childcare #parenting 	AGAINST
 11224	Legalization of Abortion	@LibertyBleeds every one in Congress should attend an abortion procedure especially partial birth that they VOTE FOR #ccot #tcot 	AGAINST
 11225	Legalization of Abortion	@RickSantorum: I don't *believe* life begins at conception--I *know* life begins at conception. #nrlc2015 	AGAINST
-11226	Legalization of Abortion	Before I formed you in the womb I knew you, before you were born I set you apart - Jeremiah 1:5 #Godislove #youareloved 	FAVOR
+11226	Legalization of Abortion	Before I formed you in the womb I knew you, before you were born I set you apart - Jeremiah 1:5 #Godislove #youareloved 	AGAINST
 11227	Legalization of Abortion	So the #Democrats tore down their OWN #ConfederateFlag NOW if they get rid of THEIR #KKK #blackpanthers #alsharpton #hate 	AGAINST
-11228	Legalization of Abortion	@DaRealMonieLove or these dumb anti-abortion #showthetruth assholes who sit on Canadian streets with inaccurate disturbing pics! 	FAVOR
-11229	Legalization of Abortion	I was an accidental baby and as far as I know, my parents were happy to have me. #thanksmom 	FAVOR
-11230	Legalization of Abortion	"Fallopians 3:16 ""Not your fuckin' pregnancy - not your fuckin' business!""  "	FAVOR
+11228	Legalization of Abortion	@DaRealMonieLove or these dumb anti-abortion #showthetruth assholes who sit on Canadian streets with inaccurate disturbing pics! 	AGAINST
+11229	Legalization of Abortion	I was an accidental baby and as far as I know, my parents were happy to have me. #thanksmom 	AGAINST
+11230	Legalization of Abortion	"Fallopians 3:16 ""Not your fuckin' pregnancy - not your fuckin' business!""  "	AGAINST
 11231	Legalization of Abortion	Babies are humans to support the prolife movement 	AGAINST
 11232	Legalization of Abortion	@ShowTruth You're truly unwelcome here. Please leave.  #ygk 	AGAINST
 11233	Legalization of Abortion	Being a Democrat is never having to say you're sorry... #Slavery #Segregation #KKK 	AGAINST
 11234	Legalization of Abortion	@ubiquity75 @Aaron_Hamm well said. Men are playing political football with women's right to have control over our bodies. #fail 	AGAINST
-11235	Legalization of Abortion	@toby_dorena Pregnant people have more than heartbeats. They have feelings, and the ability to make decisions about their health. 	FAVOR
+11235	Legalization of Abortion	@toby_dorena Pregnant people have more than heartbeats. They have feelings, and the ability to make decisions about their health. 	AGAINST
 11236	Legalization of Abortion	@FactsVsOpinion these poor souls won't be anything in the future @PPact encouraged women to murder babies. #BlackLivesMatter 	AGAINST
 11237	Legalization of Abortion	In Turkey at ze momento, just got internet and started reading @BarrettWeed 's tweets, literally just KILLING IT!!  	AGAINST
 11238	Legalization of Abortion	@JujuChangABC abortions should never be illegal. It should be the pregnant person's choice. Especially if that person was rape 	AGAINST
@@ -1241,8 +1241,8 @@ ID	Target	Tweet	Stance
 11240	Legalization of Abortion	@laurawrpie what do u call #teens hu got #pregnant even while ingesting contraceptives? success? Can a chaste girl get pregnant? 	AGAINST
 11241	Legalization of Abortion	@DrottM I'm curious Mary are you a meat eater and an animal hide wearer? 	AGAINST
 11242	Legalization of Abortion	@gaz_dance I'm good like this. I've always been 	AGAINST
-11243	Legalization of Abortion	The beauty of the morning seems ruined knowing abortion clinics open soon. Another day of 900+ lives lost to @PPact & friends. 	NONE
-11244	Legalization of Abortion	@cbrangel so, you support the choice of wether or not you'd like to kill someone? Would you kill a born baby? 	FAVOR
+11243	Legalization of Abortion	The beauty of the morning seems ruined knowing abortion clinics open soon. Another day of 900+ lives lost to @PPact & friends. 	AGAINST
+11244	Legalization of Abortion	@cbrangel so, you support the choice of wether or not you'd like to kill someone? Would you kill a born baby? 	AGAINST
 11245	Legalization of Abortion	@MetalheadMonty @tom_six I followed him before I watched human centipede 3.....i now hope never makes another film again 	AGAINST
 11246	Legalization of Abortion	For he who avenges blood remembers, he does not ignore the cry of the afflicted. ~ Ps 9:12 #comequicklyLordJesus 	AGAINST
 11247	Legalization of Abortion	Life is sacred on all levels. Abortion does not compute with my philosophy. Kate Mulgrew @TheKateMulgrew (Red on #OITNB ) 	AGAINST
