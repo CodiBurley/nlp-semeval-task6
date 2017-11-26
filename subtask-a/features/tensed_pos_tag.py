@@ -10,6 +10,7 @@ tagdict = load('help/tagsets/upenn_tagset.pickle')
 TAG_SET = list(tagdict.keys())
 TAG_SET.append('#')
 
+
 def pos_tag(s):
     return nltk.pos_tag(nltk.word_tokenize(s))
 
