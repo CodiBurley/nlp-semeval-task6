@@ -8,6 +8,7 @@ import pandas
 import numpy as np
 import matplotlib.pyplot as plt
 from lib.custFunctions import adjVector, HashtagVector, atVector
+import subprocess
 
 # Load data
 df = pandas.read_csv('Subtask B/donaldTrumpTweets', sep='\t', encoding='latin1')
