@@ -4,6 +4,7 @@ from nltk.tokenize import TweetTokenizer
 from features.tensed_pos_tag import get_xy_data
 
 import pandas
+import subprocess
 import numpy as np
 
 
@@ -66,3 +67,4 @@ for topic in listOfTopics(traindf):
 
 outdf.set_index('ID')
 outdf.to_csv('output.txt', sep='\t', index=False)
+subprocess.call(["perl", "eval.pl", "subtaskA-testdata-gold.txt", "output.txt"])
