@@ -1,0 +1,152 @@
+%
+% File naaclhlt2016.tex
+%
+
+\documentclass[11pt,letterpaper]{article}
+\usepackage{naaclhlt2016}
+\usepackage{times}
+\usepackage{latexsym}
+\usepackage{float}
+
+%\naaclfinalcopy % Uncomment this line for the final submission
+\def\naaclpaperid{***} %  Enter the naacl Paper ID here
+\naaclfinalcopy
+% To expand the titlebox for more authors, uncomment
+% below and set accordingly.
+% \addtolength\titlebox{.5in}
+\addtolength\titlebox{-0.7in}
+\newcommand\BibTeX{B{\sc ib}\TeX}
+
+\title{Team \#TBD: SemEval 2016 Task 6 Proposal}
+
+% Author information can be set in various styles:
+% For several authors from the same institution:
+% \author{Author 1 \and ... \and Author n \\
+%         Address line \\ ... \\ Address line}
+% if the names do not fit well on one line use
+%         Author 1 \\ {\bf Author 2} \\ ... \\ {\bf Author n} \\
+% For authors from different institutions:
+% \author{Author 1 \\ Address line \\  ... \\ Address line
+%         \And  ... \And
+%         Author n \\ Address line \\ ... \\ Address line}
+% To start a seperate ``row'' of authors use \AND, as in
+% \author{Author 1 \\ Address line \\  ... \\ Address line
+%         \AND
+%         Author 2 \\ Address line \\ ... \\ Address line \And
+%         Author 3 \\ Address line \\ ... \\ Address line}
+% If the title and author information does not fit in the area allocated,
+% place \setlength\titlebox{<new height>} right after
+% at the top, where <new height> can be something larger than 2.25in
+\author{Codi Burley\\
+    {\tt M05710044}
+	  \And
+	Jon Deibel\\
+    {\tt M05638767}
+    \And
+    Dom Farolino\\
+    {\tt M07293838}
+    \And
+    Dan Wendelken\\
+    {\tt M03841067}}
+
+\date{October 18th, 2017}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+The SemEval workshop is a yearly workshop which hosts a competition focused on semantiSvc analysis tasks. We chose task six from the 2016 competition focused around detecting the stance of a tweet towards a topic. We decided to build three separate exploratory models in order to discover the impact of different features. Our best model for task A was an SVM consisting of hashtag data from the tweets, which yielded an f-score of 0.6093. For task B our best approach used more intensive pre-processing methods which yielded an f-score of ...{\bf F-SCORE HERE} \end{abstract}
+
+\section{Task Description}
+
+Semantic analysis is a common research area in linguistics.  The SemEval workshop is a yearly workshop which hosts a competition focused on semantic analysis tasks.  Some of tasks include semantic analysis of tweets, textual similarity calculations, and meaning representation parsing.  Task six from the 2016 competition focuses on detecting the stance of a tweet towards a topic ~\cite{task6}.  The task contains two subtasks which require the use of supervised and unsupervised machine learning techniques to analyze a tweet and classify its stance.  Subtask A focuses on using supervised learning to classify the stance of the tweet.  A small dataset of ~3000 pre-labeled tweets is given for training purposes and testing purposes.  The tweets are grouped by five target topics: "Atheism", "Climate Change is a Real Concern", "Feminist Movement", "Hillary Clinton", and "Legalization of Abortion" which are identified by the competition hosts.  The subtask asks parcipitants to produce a prediction representing a given tweet's stance towards one of the five target topics.  This predicted stance for the tweet should represent one of three categories: 'Favor', 'Against', or 'None'.  After predictions have been made a final script exists to produce a score on the accuracy of the generated model's predictions.  Subtask B focuses on using unsupervised learning to classify tweets related towards Donald Trump into one of the three previously mentioned categories.  A script which queries twitter based on tweet IDs and a list of tweet ID's to use with the script is provided to build the dataset for this Subtask.  
+
+\section{Approach}
+
+To get up and running we decided we initially needed a baseline approach to build on. We discovered some of the common ways in which well perfoming participants succeeded by identifying commonalities amongst the features they utilize. We began implementing some of the basic features we saw in order to build baseline models. These models were created with the purpose of allowing us to understand what avenues we could be creative with, and how to begin exploring innovative solutions based on our experiences with constructing the baseline models.
+
+For task A, one of the first models we implemented in our project was an SVM classifier that operated on hashtags appearing in a tweet. The idea originated from one of the competitors whose project produced the highest f-score for task 6 ~\cite{MITRE}. We perform a very minimal tokenization step with the NLTK ~\cite{Loper} Python library’s tokenizer with no other parsing being done at this stage. Then for each target topic, we create a linear SVM whose inputs are feature vectors made from unigrams with a min-difference (cutoff) of 3. We build our feature vector from the hashtags appearing in each tweet. For each tweet, we build a one-hot vector whose length is the total number of hashtags in the corpus.
+
+Another feature we extract involves using the part of speech (POS) tags for a tweet, with a narrower scope. We focus on only the part of speech tags that are verbs. This is done in order to learn based on the different types of verbs used, as well as the tense of the speech used in the tweet. POS tagging was done with NLTK ~\cite{Loper} using the set of tags from the Penn Treebank. These tags include five verb tags, each associated with a tense. These are the tags that we use in our feature.
+
+The preliminary results for the effectiveness of this feature were obtained by using it in a simple feed-forward neural network, constructed with the help of the Keras library ~\cite{chollet2015keras}. The feature vector for the POS tags had length five, with each position representing one of the verb POS tags used. For a given tweet, the corresponding feature vector contains a number at each position which encodes the number of occurrences of the verb POS tag for that position.
+
+The team at East China Normal University (ECNU) used a similar feature in their submission to task six, along with other traditional linguistic features ~\cite{Zhang}. Although they use POS tags, they do not focus on verb POS tags as we have.
+
+The last model uses word embeddings fed into a Convolutional Neural Network (CNN). In order to create the word embeddings we iterate over the corpus and create a dictionary where each word is a key and the value to that corresponding word is the integer rank of it's occurrence in the corpus. We then pad each feature array with zeros to match the length of the longest feature vector. The feature array goes through a Keras ~\cite{chollet2015keras} embedding layer which is fed into a small CNN which was also constructed using Keras.
+
+For task B we performed more rigorous pre-processing to our data before applying machine learning techniques to them. We lower-cased all tweets, stripped non-alphanumeric sequences, and removed all hashtags to get only words relevant to the tweet. We then performed tokenization with the Twitter Tokenizer from NLTK. At this point we used the TF-IDF vectorizer from the sklearn library ~\cite{sklearn} to create a vector of translated words, and concatenated this with a count vector produced from the previously pulled out hashtags. We used the t-SNE algorithm to perform principle component analysis (PCA) to identify and remove potentially unhelpful features in our final feature vector. Finally we applied the k-means algorithm to perform clustering and guess a likely stance for a given tweet.
+
+With the preliminary results collected from the aforementioned beginning approaches, we’ve outlined a very simple plan for moving forward to make our approach more unique. Our goal is to get to the point where we have several models and distinguished features that act as inputs to a final recurrent neural network which as it works, learns from itself and its inputs (the outputs of our models). We’ve noticed that the strengths of each model we’ve built thus far differ; this should afford us the opportunity to configure the neural network in such a fashion that it actually assigns weights to its inputs on a tweet-by-tweet basis depending on the output of sed inputs, before appointing a confidence value to each of the three stances.
+
+\section{Preliminary Results}
+
+Using the models above we were able to get some promising results. Our best result was the SVM based on hashtags. The next best was a small convolutional neural net that used word embeddings. Finally we have a simple fully connected feed forward network using POS verb tags. Table 1 shows the corresponding f-scores and how they compare to each other.
+
+\begin{table}[H]
+\small
+\centering
+\begin{tabular}{ |l|c| }
+\hline \bf Model Type & \bf F-Score \\ \hline
+SVM hashtags & 0.61 \\
+Word Embedding CNN & 0.43 \\
+Verb POS NN & 0.40 \\
+\hline
+\end{tabular}
+\caption{\label{f-score} f-score comparison.}
+\end{table}
+
+Note that while the F-score for the verb POS tags is relatively low, it was tested against a model that used all tags provided by the Penn Treebank (as opposed to just verb tags), and this model scored an F-score of only 0.38.
+
+\section*{Timeline}
+\small
+\begin{table}[H]
+\centering
+\begin{tabular}{ r l }
+\hline \bf Week & \bf Tasks \\ \hline
+Oct 23-27 & Further investigate new models \\
+ & and combinations of models \\
+Oct 30 - Nov 3 & Refine best set of models \\
+ & and add new features \\
+Nov 6-10 & Continue investigating more \\
+ & features to add to our best \\
+ & models \\
+Nov 13-17 & Finalize the best model \\
+Nov 20-24 & Prepare for final report \\
+ & and presentation \\
+\hline
+\end{tabular}
+\caption{\label{timeline} Tasks left to do.}
+\end{table}
+
+
+\section*{Acknowledgments}
+
+\subsection{Codi Burley}
+Initially, Codi conducted research to help understand previous approaches to the task at hand. This was done by reading papers from previous submissions that did particularly well. After consideration of the research we had done, and the amount of experience our team has in machine learning, Codi helped in the design of features that we could use as starting points.
+
+When it comes to implementation, Codi started out by constructing a neural network model using the Keras library. This model was based on verb POS tags. Upon evaluation of the model, it was found to have a rather low scoring F-score. Codi then altered his model to create a new one that learned based on all POS tags, and not just verbs. This was done for comparison, and it was found that the model that used only verb POS tags scored better than the model that used all tags.
+
+Codi also contributed to the proposal by writing about approaches taken, and making sure that all references were covered. Editing of the proposal was also done.
+
+
+
+\subsection{Jon Deibel}
+Jon started by helping to find and learn libraries that would help us prototype out new models quickly. He then read through contestant papers from 2016 to better understand what has already been attempted and what methods were successful. After that he helped come up with sets of possible features that could be used to train models.
+
+Once the team had a good starting point, he helped the team utilize the deep learning library Keras for their models. He then started on his first prototype which was to get constituents for each tweet as features and feed them into a simple neural network. When that proved to be inferior to other models the group had made, he moved on to creating a new model based on word embeddings. 
+
+After model creation was finished for the initial report, he got the latex editable for the report and wrote the abstract, parts of the approach, and preliminary results. He also helped in the creation of the presentation.
+
+\subsection{Dom Farolino}
+Another subsection
+
+\subsection{Dan Wendelken}
+Dan started the project by organizing an Google sheet for the previous submissions listed in order of their f-rank.  In this sheet he collected links to the papers and summarized their approaches.  He then helped others with setting up environments. After reviewing the previous publications he began implementing a similar approach to the baseline test to see if duplicate results could be achieved.  While results were not as good as the baseline SVM using ngrams and charactergrams results were promising enough that Dan decided to use a SVM on a different feature.  Hashtags were chosen as they often seemed to be representative of a tweets stance in a short token.  This model was completed and tweaked till a resulting f-score that placed amongst the previous years participants was obtained.  After obtaining this model Dan tried several attempts to develop more unique features with little result.  He helped other team members with their models and started writing tests for the unsupervised learning portion of the project.  After trial and error an unsupervised approach which gives somewhat decent clusters was generated.  In the paper Dan wrote the Task Description section and helped Dom organize the parts of the Approach section.
+
+\bibliography{naaclhlt2016}
+\bibliographystyle{naaclhlt2016}
+
+
+\end{document}
