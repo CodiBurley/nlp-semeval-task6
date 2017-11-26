@@ -42,11 +42,11 @@ for topic in listOfTopics(traindf):
     extract = traindf.loc[traindf['Target'] == topic]
     corpus = list(map(lambda x: x[:-6], list(extract['Tweet'])))
     Y = list(extract['Stance'])
-    ngram_vectorizer = CountVectorizer(ngram_range=(1, 1), analyzer='word', min_df=3, tokenizer=lambda x: custToken(x))
+    ngram_vectorizer = CountVectorizer(ngram_range=(1, 1), analyzer='word', min_df=2, tokenizer=lambda x: custToken(x))
     (x_train, _) = get_xy_data('trainingdata.txt', topic, True)
     X = ngram_vectorizer.fit_transform(corpus).toarray()
     X = np.concatenate((X, np.array(x_train)), axis=1)
-    clf = svm.SVC(kernel='linear')
+    clf = svm.SVC(kernel='rbf')
     clf.fit(X, Y)
 
     testExtract = testdf.loc[testdf['Target'] == topic]
