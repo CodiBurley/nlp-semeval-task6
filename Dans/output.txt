@@ -227,7 +227,7 @@ ID	Target	Tweet	Stance
 10226	Climate Change is a Real Concern	@climasphere Bony: Extreme weather events (heat waves, drought, flooding, windstorms) made more frequent/intense by #CFCC15 	FAVOR
 10227	Climate Change is a Real Concern	Camille Parmesan: 2/3 of species have changed #habitat because of #H12 #CFCC15 	FAVOR
 10228	Climate Change is a Real Concern	5 meta-analyses show 1/2 of species have changed where they live, 2/3 have changed when they live. Camille Parmesan #CFCC15 	FAVOR
-10229	Climate Change is a Real Concern	It literarly just took me 10 minutes to get in a bus because an old lady just had to go in front of everyone... 	NONE
+10229	Climate Change is a Real Concern	It literarly just took me 10 minutes to get in a bus because an old lady just had to go in front of everyone... 	FAVOR
 10230	Climate Change is a Real Concern	"Grubb: state of energy: shift US & EU from net-producer to net-importer of emissions"" #CCFC15 #journey2015 "	FAVOR
 10231	Climate Change is a Real Concern	Interesting speaker Maarten Van Aalst @Federation how their humanitarian experience can help Climate scientists #CCFC15 	FAVOR
 10232	Climate Change is a Real Concern	putting my neck out as such when I did not have to be here at all? Regards Dion #peace #GMS #Democracy #Transparency #Future! 	NONE
@@ -256,13 +256,13 @@ ID	Target	Tweet	Stance
 10255	Climate Change is a Real Concern	@jiminhofe anthropogenicthat which is caused by humans; #SnowballJim 	FAVOR
 10256	Climate Change is a Real Concern	I thought Seattle was supposed to have a lot more rain #drought 	NONE
 10257	Climate Change is a Real Concern	On a scale of 1 to 10 the air quality in Whistler is a 35. #wildfires #BCwildfire 	FAVOR
-10258	Climate Change is a Real Concern	@catethegreat52 yes Catherine, the future of human civilisation depends on this generation & how it acts on #Auspol 	FAVOR
+10258	Climate Change is a Real Concern	@catethegreat52 yes Catherine, the future of human civilisation depends on this generation & how it acts on #Auspol 	NONE
 10259	Climate Change is a Real Concern	It's most exciting to witness a major development! @urgenda 	FAVOR
 10260	Climate Change is a Real Concern	We are causing the ice masses of Earth to melt at an alarming rate. 	FAVOR
 10261	Climate Change is a Real Concern	@mdrewnz Will @NZGreens support Canterbury Rocket + Nuclear Power for NZ? Send our nuclear waste to space @GenerationZer0 	FAVOR
 10262	Climate Change is a Real Concern	@Sam6869 research is irrelevant when biosphere is on the brink of collapse. #deforestation #6thExtinction #war 	FAVOR
 10263	Climate Change is a Real Concern	@ChadCowie Indigenous ppl will save the country, if it's not too late. 	FAVOR
-10264	Climate Change is a Real Concern	Turn the Liverpool Plains into a coal mine...is there any bad idea this government doesn't like? #FoodBowl #Shenhua #auspol 	FAVOR
+10264	Climate Change is a Real Concern	Turn the Liverpool Plains into a coal mine...is there any bad idea this government doesn't like? #FoodBowl #Shenhua #auspol 	NONE
 10265	Climate Change is a Real Concern	@CBSNewYork Seems the marine animals are finally declaring war on man due to man-made environmental destruction. 	FAVOR
 10266	Climate Change is a Real Concern	Seems I may yet get my Climate Apocalypse >:) You fucking morons! #Shenhua #LNPFAIL #keepitintheground 	FAVOR
 10267	Climate Change is a Real Concern	The Weather app keeps taunting us with rain. #PNW #drought 	FAVOR
@@ -317,7 +317,7 @@ ID	Target	Tweet	Stance
 10316	Climate Change is a Real Concern	Climate Change Deniers are Like Pre Historic Cave Dwellers: California Governor Jerry Brown #CSOTA #uspoli #cdnpoli 	FAVOR
 10317	Climate Change is a Real Concern	What has happened to sunny Colorado?? #cloudy #denver #nosunshine 	FAVOR
 10318	Climate Change is a Real Concern	The biggest terror threat in the World is climate change #drought #floods 	FAVOR
-10319	Climate Change is a Real Concern	What has been will be again, what has been done will be done again; there is nothing new under the sun. Ecclesiastes 1:9 	FAVOR
+10319	Climate Change is a Real Concern	What has been will be again, what has been done will be done again; there is nothing new under the sun. Ecclesiastes 1:9 	NONE
 10320	Climate Change is a Real Concern	ONE Volcano emits more pollution than man has in our HISTORY! 	FAVOR
 10321	Climate Change is a Real Concern	@SenSanders Republicans don't care about the environment all together. They deny this fact. 	FAVOR
 10322	Climate Change is a Real Concern	@xrisham Reminds me of Nottingham in the early 1960's #ActOnClimate 	FAVOR
@@ -339,14 +339,14 @@ ID	Target	Tweet	Stance
 10338	Climate Change is a Real Concern	Someone send some chicken soup or some '80s Conan comics to @jamesbobier4 he's under the weather & noone wants to be there 	FAVOR
 10339	Climate Change is a Real Concern	@billmckibben @suzyji Right out of the Big Tobacco playbook! Why is this disgusting strategy so bulletproof? 	FAVOR
 10340	Climate Change is a Real Concern	@GuardianAus @GrogsGamut Nobody denies the climate changes. 	FAVOR
-10341	Climate Change is a Real Concern	"#ClimateChangeDefinitions ""settled science"" = flawed computer models with jiggered data to force a predefined conclusion. "	NONE
+10341	Climate Change is a Real Concern	"#ClimateChangeDefinitions ""settled science"" = flawed computer models with jiggered data to force a predefined conclusion. "	FAVOR
 10342	Climate Change is a Real Concern	People need to wake up & realize what's happening to our earth  #hello 	FAVOR
 10343	Climate Change is a Real Concern	#Questiontime Who is more likely to solve problems related to #poverty #sustainability & #government? #religion? #business? 	FAVOR
 10344	Climate Change is a Real Concern	The countries most likely to survive climate change in one infographic #Survive #Infographic 	FAVOR
 10345	Climate Change is a Real Concern	Terraform Earth so we can recolonize our own homes. 	FAVOR
 10346	Climate Change is a Real Concern	What's next after 2 years? :) #thinkbig #world #solution #water 	FAVOR
 10347	Climate Change is a Real Concern	Climate change has already cut into the global food supply and is fuelling wars &natural disasters #FoodFactsWithHeroRadio 	FAVOR
-10348	Climate Change is a Real Concern	@Myrmecos Still a larval theory. Still poorly modelled. Still unquantified. Still multi-factor. Still flummoxed by albedo. 	FAVOR
+10348	Climate Change is a Real Concern	@Myrmecos Still a larval theory. Still poorly modelled. Still unquantified. Still multi-factor. Still flummoxed by albedo. 	NONE
 10349	Climate Change is a Real Concern	Whole species #Boomers #GenerationX GenerationY #GenZ Needs a vacation. 25 years on a Greek Island anyone? #HumanExtinction 	FAVOR
 10350	Climate Change is a Real Concern	#Mission:#Climate on the road > Fly less #Tip #EarthRightNow 	FAVOR
 10351	Climate Change is a Real Concern	Edenhofer: Carbon pricing is needed but not sufficient. we need complementary policies to counter #coal renaissance & #CFCC15 	FAVOR
@@ -362,7 +362,7 @@ ID	Target	Tweet	Stance
 10361	Climate Change is a Real Concern	Following the invitation only Climate Summit of the Americas online via twitter #CSOTA #Toronto #environment #COP21 #climate 	FAVOR
 10362	Climate Change is a Real Concern	Are the voices of younger generations represented at #CSOTA? We have a say in our collective future. #environment #COP21 	FAVOR
 10363	Climate Change is a Real Concern	@WalshConstCo We're proud to sign #ORbizclimatedeclaration because we are committed to fighting climate change 	FAVOR
-10364	Climate Change is a Real Concern	I remember a time when summer was actually summer, you know when it was sunny and 90 degrees everyday #whatshappening 	NONE
+10364	Climate Change is a Real Concern	I remember a time when summer was actually summer, you know when it was sunny and 90 degrees everyday #whatshappening 	FAVOR
 10365	Climate Change is a Real Concern	@neiltyson Rettet die Erde! Save the Earth!  	FAVOR
 10366	Climate Change is a Real Concern	"@wattsupwiththat yes ironic that the alarmists are the actual ""deniers "	FAVOR
 10367	Climate Change is a Real Concern	@JustinTrudeau Hey Justin I will give you 50 cents if you stop talking about climate 'Change' #Ottawa #davidsuzuki #cbc 	FAVOR
@@ -381,7 +381,7 @@ ID	Target	Tweet	Stance
 10380	Climate Change is a Real Concern	@4EvaMartino  Everyone should learn this recipe - given summers are going to get warmer every year! 	FAVOR
 10381	Climate Change is a Real Concern	Rec high temp for this date in Charlotte is 101*. That was set in 1926. T-models were the worst for dangerous emissions. 	NONE
 10382	Climate Change is a Real Concern	Lot's of time, class over! @nationaljournal 	FAVOR
-10383	Climate Change is a Real Concern	@TheLibertyEagle Oh for the love of Pete! I thought we were going to be incinerated by then! 	NONE
+10383	Climate Change is a Real Concern	@TheLibertyEagle Oh for the love of Pete! I thought we were going to be incinerated by then! 	FAVOR
 10384	Climate Change is a Real Concern	If complaining about irrelevant problems were illegal maybe we could solve some of the important issues #itsjustaflag 	FAVOR
 10385	Climate Change is a Real Concern	"@LiberalAus - ""All"" you folks #owe me an #official #apology at this point ""absolute"" ([minimum]), re's D #peace #Transparency "	NONE
 10386	Climate Change is a Real Concern	"Maybe we should start ""labelling every #product"" made with its ""#Environmental #footprint""? Sooner or later we must act! "	FAVOR
@@ -437,7 +437,7 @@ ID	Target	Tweet	Stance
 10436	Feminist Movement	"Welp. I just saw the infamous Radfem ""Protests"" at a Toronto MRA speech for the first time. Disgusting. #feminismiscruelty "	AGAINST
 10437	Feminist Movement	What's red and something all feminist should bite into? A brick now stfu 	AGAINST
 10438	Feminist Movement	I can get women not being feminists,  sort of. But women being meninists/MRAs? What the actual fuck #MRA 	AGAINST
-10439	Feminist Movement	..Can I also add that I really enjoyed looking at @TahirRajBhasin in #Mardaani :P Tahir, you were a dashing baddie! #Bollywood 	FAVOR
+10439	Feminist Movement	..Can I also add that I really enjoyed looking at @TahirRajBhasin in #Mardaani :P Tahir, you were a dashing baddie! #Bollywood 	AGAINST
 10440	Feminist Movement	As I rewatced Charmed episodes! LOVING IT EVEN MORE! 	AGAINST
 10441	Feminist Movement	We cannot succeed when half of us are held back. Malala Yousafzai #SmartGlamour #feminist #yesallwomen #equality 	FAVOR
 10442	Feminist Movement	@Afshah_Ronaldo you don't tell me what to do, i'm a strong individual male, I can make my own choices #ABCD #SayNoToOppresion 	AGAINST
@@ -506,7 +506,7 @@ ID	Target	Tweet	Stance
 10505	Feminist Movement	@Deb_Hitchens @JudgeBambi . There's no capacity for discourse when you assume ppl are your enemy. Hate. Misery. Paranoia. A waste. 	AGAINST
 10506	Feminist Movement	your mother did not carry you for 9 months so you could yell 'suck my dick' at me from your car 	AGAINST
 10507	Feminist Movement	It's a problem when explaining feminism, even in a calm & complex level, cannot be understood. #feminist #respect #EqualityForAll 	AGAINST
-10508	Feminist Movement	I fell asleep only to have my brother wake me up after hearing noises. I had to be the one to go upstairs and see what it was 	FAVOR
+10508	Feminist Movement	I fell asleep only to have my brother wake me up after hearing noises. I had to be the one to go upstairs and see what it was 	AGAINST
 10509	Feminist Movement	Remember men, if a woman hits you, you have no right to defend yourself #DeAndreJohnson 	AGAINST
 10510	Feminist Movement	Does it involve women? It's sexist. Does it not involve women? It's sexist. No winning. 	AGAINST
 10511	Feminist Movement	@crystxlcxstlesz did you break through the glass ceiling? 	AGAINST
@@ -570,7 +570,7 @@ ID	Target	Tweet	Stance
 10569	Feminist Movement	@TarynOnthenews @NRO Very unnecessary, since 'no' doesn't always mean 'no', especially if she's drunk!  #rapehumor 	AGAINST
 10570	Feminist Movement	The Hypocrisy of Feminism is integral part of the modern United Orwellian Kingdom.   #GamerGate 	AGAINST
 10571	Feminist Movement	I'm flabbergasted that #feminist are pointing out little things that No one gives a fuck about & cause am uproar 	AGAINST
-10572	Feminist Movement	I'm trying to explain how its bad for men to but this #feminist is calling me a liar, #womanagainstfeminism #wtf 	FAVOR
+10572	Feminist Movement	I'm trying to explain how its bad for men to but this #feminist is calling me a liar, #womanagainstfeminism #wtf 	AGAINST
 10573	Feminist Movement	men need to stop going along with feminists. it's giving them reason to think they're right. 	AGAINST
 10574	Feminist Movement	Bieber showed off his butt and no one slut shamed him but god forbid if we women wear shorts #doublestandards #sexism 	AGAINST
 10575	Feminist Movement	The feds are still planning to put a woman on the $10 dollar bill #abouttime #equalityforall #historychanged 	AGAINST

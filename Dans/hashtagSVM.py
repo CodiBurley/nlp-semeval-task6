@@ -28,6 +28,7 @@ def listOfTopics(dataframe):
 
 
 def pos_tag(s):
+    s = ' '.join([word for word in TweetTokenizer().tokenize(s) if word and '#' not in word])
     return nltk.pos_tag(nltk.word_tokenize(s))
 
 
