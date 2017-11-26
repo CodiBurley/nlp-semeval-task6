@@ -32,11 +32,8 @@ def custToken(sent):
     return returnTweet
 
 
-traindf = pandas.read_csv('trainingData.txt', sep='\t', encoding='latin1')
-print(traindf.head())
-
-testdf = pandas.read_csv('subtaskA-testdata-gold.txt', sep='\t', encoding='latin1')
-
+traindf = pandas.read_csv('data/train/trainingData.txt', sep='\t', encoding='latin1')
+testdf = pandas.read_csv('data/test/subtaskA-testdata-gold.txt', sep='\t', encoding='latin1')
 outdf = pandas.DataFrame(columns=['ID', 'Target', 'Tweet', 'Stance'])
 
 for topic in listOfTopics(traindf):
@@ -44,7 +41,7 @@ for topic in listOfTopics(traindf):
     corpus = list(map(lambda x: x[:-6], list(extract['Tweet'])))
     Y = list(extract['Stance'])
     ngram_vectorizer = CountVectorizer(ngram_range=(1, 1), analyzer='word', min_df=2, tokenizer=lambda x: custToken(x))
-    (x_train, _) = get_xy_data('trainingdata.txt', topic, True)
+    (x_train, _) = get_xy_data('data/train/trainingData.txt', topic, True)
     X = ngram_vectorizer.fit_transform(corpus).toarray()
     X = np.concatenate((X, np.array(x_train)), axis=1)
     clf = svm.SVC(kernel='rbf')
@@ -52,7 +49,7 @@ for topic in listOfTopics(traindf):
 
     testExtract = testdf.loc[testdf['Target'] == topic]
     testCorpus = list(map(lambda x: x[:-6], list(testExtract['Tweet'])))
-    (x_test, _) = get_xy_data('subtaskA-testdata-gold.txt', topic, True)
+    (x_test, _) = get_xy_data('data/test/subtaskA-testdata-gold.txt', topic, True)
     testX = ngram_vectorizer.transform(testCorpus).toarray()
     testX = np.concatenate((testX, np.array(x_test)), axis=1)
 
@@ -67,4 +64,4 @@ for topic in listOfTopics(traindf):
 
 outdf.set_index('ID')
 outdf.to_csv('output.txt', sep='\t', index=False)
-subprocess.call(["perl", "eval.pl", "subtaskA-testdata-gold.txt", "output.txt"])
+subprocess.call(["perl", "eval.pl", "data/test/subtaskA-testdata-gold.txt", "output.txt"])
