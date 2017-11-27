@@ -12,30 +12,52 @@ from bokeh.models import HoverTool, ColumnDataSource
 from lib.custFunctions import adjVector, HashtagVector, atVector
 import subprocess
 
+
+def outVect(lst,x,y,z):
+    ret = []
+    lbl = ['FAVOR', 'AGAINST', 'NONE']
+    for x in lst:
+        if x == -1:
+            ret.append(lbl[2])
+        if x == 0:
+            ret.append(lbl[x])
+        if x == 1:
+            ret.append(lbl[y])
+        if x == 2:
+            ret.append(lbl[z])
+    return ret
+
+def vectorGen(df):
+    print('generating adj vector')
+    adj = adjVector(df['Tweet'])
+    adj = adj.toarray()
+    print('generating hashtag vector')
+    hashTag = HashtagVector(df['Tweet'])
+    hashTag = hashTag.toarray()
+
+    print('generating at vector')
+    atvec = atVector(df['Tweet'])
+    atvec = atvec.toarray()
+    
+    print('adj shape: ', adj.shape)
+    print('hashtag shape: ', hashTag.shape)
+    print('atvec shape: ', atvec.shape)
+
+    print('combining vector')
+    X = np.concatenate((adj, hashTag), axis=1)
+    X = np.concatenate((X, atvec), axis=1)
+
+    print(X.shape)
+    return X
+
 # Load data
-df = pandas.read_csv('data/train/donaldTrumpTweets', sep='\t', encoding='latin1')
+df = pandas.read_csv('data/train/SemEval2016-Task6-subtaskB-testdata-gold.txt', sep='\t', encoding='latin1')
 
 #Parse out not available tweets 
-availableTweets = df.loc[df['Tweet'] != 'Not Available']
-train, test = train_test_split(availableTweets, test_size=0.60)
+tweetDF = df.loc[df['Tweet'] != 'Not Available']
+#train, test = train_test_split(availableTweets, test_size=0.60)
 
-print('adj vector')
-adj = adjVector(train['Tweet'])
-adj = adj.toarray()
-print('hashtag vector')
-hashTag = HashtagVector(train['Tweet'])
-hashTag = hashTag.toarray()
-
-print('at vector')
-atvec = atVector(train['Tweet'])
-atvec = atvec.toarray()
-print('combining vector')
-
-X = []
-for x1,x2 in zip(atvec,adj):
-    tmp = np.append(x1,x2)
-    X.append(tmp)
-X = np.array(X)
+X = vectorGen(tweetDF)
 
 print(X)
 print(X.shape)
@@ -44,31 +66,53 @@ print("Computing t-SNE embedding")
 tsne = TSNE(n_jobs=-1,verbose=1)
 X_tsne = tsne.fit_transform(X)
 
-db = DBSCAN(eps=3.5, min_samples = 2000, n_jobs = -1).fit(np.array(X_tsne))
-labels = db.labels_
-n_clusters_ = len(set(labels)) - (1 if -1 in labels else 0)
+test_lbl = dbscan.fit_predict(X_tsne)
 
-print('Estimated number of clusters: %d' % n_clusters_)
+test_clusters = len(set(test_lbl)) - (1 if -1 in test_lbl else 0)
+print('Estimated number of clusters from training: %d' % test_clusters)
 
-output_file("DBSCAN.html")
 
-colormap = {-1: 'black', 0: 'red', 1: 'green', 2: 'blue'}
-colors = [colormap[x] for x in labels]
+ID = list(map(lambda x: str(x), list(test['ID'])))
 
-source = ColumnDataSource(data=dict(
-    x=X_tsne[:,0],
-    y=X_tsne[:,1],
-    colors=colors,
-    desc=list(df),
-))
 
-hover = HoverTool(tooltips=[
-    ("index", "$index"),
-    ("desc", "@desc"),
-])
+lbl1 = outVect(test_lbl,0,1,2)
+lbl2 = outVect(test_lbl,1,2,0)
+lbl3 = outVect(test_lbl,2,0,1)
 
-p = figure(tools=[hover,'pan','reset','wheel_zoom'], title="Mouse over the dots",plot_width=1000,plot_height=800)
 
-p.circle('x', 'y', color='colors', fill_alpha=0.2, size=7, source=source)
+outdf = pandas.dataframe(columns=['id', 'target', 'tweet', 'stance'])
+outdf1 = pandas.dataframe(columns=['id', 'target', 'tweet', 'stance'])
+outdf2 = pandas.dataframe(columns=['id', 'target', 'tweet', 'stance'])
 
-show(p)
+s = zip(ID, list(test['Target']), test['Tweet'], list(lbl1))
+s1 = zip(ID, list(test['Target']), test['Tweet'], list(lbl2))
+s2 = zip(ID, list(test['Target']), test['Tweet'], list(lbl3))
+
+for x in s:
+    outdf.loc[len(outdf)] = list(x)
+
+outdf.set_index('ID')
+outdf.to_csv('data/output1.txt', sep='\t', index=False)
+
+subprocess.call(["perl", "eval.pl", "data/test/SemEval2016-Task6-subtaskB-testdata-gold.txt", \
+    "data/output1.txt"])
+
+
+for x in s1:
+    outdf1.loc[len(outdf1)] = list(x)
+
+outdf1.set_index('ID')
+outdf1.to_csv('data/output2.txt', sep='\t', index=False)
+
+subprocess.call(["perl", "eval.pl", "data/test/SemEval2016-Task6-subtaskB-testdata-gold.txt", \
+    "data/output2.txt"])
+
+
+for x in s2:
+    outdf2.loc[len(outdf2)] = list(x)
+
+outdf2.set_index('ID')
+outdf2.to_csv('data/output3.txt', sep='\t', index=False)
+
+subprocess.call(["perl", "eval.pl", "data/test/SemEval2016-Task6-subtaskB-testdata-gold.txt", \
+    "data/output3.txt"])
