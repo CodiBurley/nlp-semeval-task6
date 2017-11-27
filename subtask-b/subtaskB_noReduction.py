@@ -10,8 +10,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 from lib.custFunctions import adjVector, HashtagVector, atVector
 
-testsize = 0.99
-datasetprecent = 0.02
+trainingsize = 0.8
+datasetprecent = 0.01
+eps = 1
 
 def outVect(lst,x,y,z):
     ret = []
@@ -56,7 +57,7 @@ def vectorGen(df):
 trump = pandas.read_csv('data/train/donaldTrumpTweets', sep='\t', encoding='latin1')
 trump = trump.loc[trump['Tweet'] != 'Not Available']
 
-train, test = train_test_split(trump, test_size=testsize)
+train, test = train_test_split(trump, test_size=trainingsize)
 trump = train
 
 test = pandas.read_csv('data/test/SemEval2016-Task6-subtaskB-testdata-gold.txt', \
@@ -66,8 +67,8 @@ outdf = pandas.DataFrame(columns=['ID', 'Target', 'Tweet', 'Stance'])
 
 vec = vectorGen(trump)
 print('Dbscanning')
-dbscan = DBSCAN(eps=3.5, min_samples = \
-    np.floor(len(trump)*datasetprecent), n_jobs = -1).fit(vec)
+dbscan = DBSCAN(eps=eps, min_samples = \
+    int(np.floor(len(trump)*datasetprecent)), n_jobs = -1).fit(vec)
 labels = dbscan.labels_
 n_clusters = len(set(labels)) - (1 if -1 in labels else 0)
 
@@ -77,7 +78,7 @@ print('===================================================')
 test_lbl = dbscan.fit_predict(vectorGen(test))
 
 test_clusters = len(set(test_lbl)) - (1 if -1 in test_lbl else 0)
-print('Estimated number of clusters from training: %d' % test_clusters)
+print('Estimated number of clusters from test: %d' % test_clusters)
 
 
 ID = list(map(lambda x: str(x), list(test['ID'])))
