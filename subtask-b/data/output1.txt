@@ -14,7 +14,7 @@ ID	Target	Tweet	Stance
 20013	Donald Trump	Considering the fact that Bush was a president of this country, I don't see it a joke that Trump is running ! #Election2016 #SemST	FAVOR
 20014	Donald Trump	Honestly I am gonna watch #Univision so much more now, just to support the network against #SemST	FAVOR
 20015	Donald Trump	@CarmineZozzora Or a supreme court who now re-writes laws from the bench. They have done calisthenics to save o-care, TWICE! #SemST	FAVOR
-20016	Donald Trump	BretBaier ShannonBream remind Obama that the 2nd Amendment is here to stay as well! #TCOT #MOLONLABE #2A #SemST	FAVOR
+20016	Donald Trump	BretBaier ShannonBream remind Obama that the 2nd Amendment is here to stay as well! #TCOT #MOLONLABE #2A #SemST	AGAINST
 20017	Donald Trump	@realDonaldTrump  I like Mexicans who come to US legally.  #IStandWithTrump #SemST	FAVOR
 20018	Donald Trump	We need Obama out and @realDonaldTrump in the White House ASAP #SemST	FAVOR
 20019	Donald Trump	RT @Tone_Rowdy: How can this country move on from its racist past when it's leaders won't... #OurLivesMatter #SemST	FAVOR
@@ -35,7 +35,7 @@ ID	Target	Tweet	Stance
 20034	Donald Trump	@realDonaldTrump did not apply to immigrants one of the trade basis, WIN TO WIN. Ignorance can not be excuse #SemST	FAVOR
 20035	Donald Trump	Beheading attack at company in France is terrorism,but beheading and attack at company in OK is work place violence. #tcot #SemST	FAVOR
 20036	Donald Trump	Hosea 4:8  They eat up the sin of my people, and they set their heart on their iniquity.  #pastors #Christians  #repent #SemST	FAVOR
-20037	Donald Trump	Isis celebrates Islam with 3 terror attacks overseas. BO wants 2 disarm Americans so Isis can mow us down at will. #tcot #SemST	FAVOR
+20037	Donald Trump	Isis celebrates Islam with 3 terror attacks overseas. BO wants 2 disarm Americans so Isis can mow us down at will. #tcot #SemST	NONE
 20038	Donald Trump	@kilmeade @briankilmeade Obviously military industrial complex has an interest in sustained conflict War=sales #Libertarian #SemST	FAVOR
 20039	Donald Trump	@Scotus creates another right in the Constitution. WE ARE LIVING UNDER TYRANNY. THE WILL OF THE PEOPLE IS NO LONGER! #SemST	FAVOR
 20040	Donald Trump	#SCOTUS rules they can rule anything they damn well please, regardless of We The People. Welcome to #tyranny.   #USA #SemST	FAVOR
@@ -92,7 +92,7 @@ ID	Target	Tweet	Stance
 20091	Donald Trump	Under O & Kerry's deal, if the ayatollahs want to keep their nuclear toys  they can keep their nuclear toys! PERIOD! #SemST	FAVOR
 20092	Donald Trump	I really hate these stunts.  We already know how ignorant the post-Reagan generations are.   #SemST	FAVOR
 20093	Donald Trump	And ask for handouts @jjauthor: When your family is short of money, do you take Lib option to increase spending? #racism #SemST	FAVOR
-20094	Donald Trump	"Why does O refer to Iran, Hamas, Ebola, and ISIS in dramatically less critical terms than he does Republicans?"" #tcot #SemST"	FAVOR
+20094	Donald Trump	"Why does O refer to Iran, Hamas, Ebola, and ISIS in dramatically less critical terms than he does Republicans?"" #tcot #SemST"	AGAINST
 20095	Donald Trump	Right on @ericbolling Racial fatigue and real depression is running rampant in our country these days.  #SemST	FAVOR
 20096	Donald Trump	"@ericbolling ""I'm suffering from a severe case of racial fatigue. #SemST"	FAVOR
 20097	Donald Trump	@ericbolling Sorry you got shut down during the Factor last night by a useless news break. The portion you aired was potent. #SemST	FAVOR
@@ -106,7 +106,7 @@ ID	Target	Tweet	Stance
 20105	Donald Trump	@Colin_McManus7 2016 is the first election I can vote in and I am proudly voting for @realDonaldTrump #trumpforpresident #SemST	FAVOR
 20106	Donald Trump	Trump Tower is not on fire. It is The Avery building. The only Trump fire is the one that I hand out when #YoureFired #TrumpRules #SemST	FAVOR
 20107	Donald Trump	RT @_CFJ_: RT @bcwilliams92 Let's get this CLEAR! I DID NOT I REPEAT DID NOT vote on TPP  ~ Ted Cruz #CruzCrew... #SemST	FAVOR
-20108	Donald Trump	Imagine looking out at the world and the America Obama has created while thinking things are better?  My god...  #tcot #PJNET #SemST	FAVOR
+20108	Donald Trump	Imagine looking out at the world and the America Obama has created while thinking things are better?  My god...  #tcot #PJNET #SemST	AGAINST
 20109	Donald Trump	Unfounded data/support for such drastic claims to be made against Mexico & all its ppl sorry guys I guess I rape & sell drugs #SemST	FAVOR
 20110	Donald Trump	I love it when #conservatives say #government is #tyranny and out to get us, then in D next sentence say #SupportOurTroops : #SemST	FAVOR
 20111	Donald Trump	I like many entries in the 2016 Presidential race; but no one is more accomplished than Donald Trump. His cabinet will be full. #SemST	FAVOR
@@ -120,9 +120,9 @@ ID	Target	Tweet	Stance
 20119	Donald Trump	I really hope @realDonaldTrump doesn't combover and shoot me with the pistol he's constantly packing.. #SemST	FAVOR
 20120	Donald Trump	For the record, as a #Latino, (#Peruvian to be specific), let me state the obvious: #FuckTrump #SemST	FAVOR
 20121	Donald Trump	@MoneyForLies #LOLZ Apparently you're unaware of history. What are you? Six? Or merely ignorant?  @TheDemocrats  @mmfa  #SemST	FAVOR
-20122	Donald Trump	@realDonaldTrump you're the man for the job #MakeAmericaGreatAgain #SemST	FAVOR
+20122	Donald Trump	@realDonaldTrump you're the man for the job #MakeAmericaGreatAgain #SemST	NONE
 20123	Donald Trump	Obama is Liberalism's false idol. Reject that P.O.S. #VoteOutRino's #BoycottMSNBC #VoteCruz #MichelleObamaIsAMan #SemST	FAVOR
-20124	Donald Trump	all #war is on YOU! The evil machine WANTS to control U. #tcot #tlot #dems #teaparty #occupy  #cdnpoli #privacy #Love #art #SemST	FAVOR
+20124	Donald Trump	all #war is on YOU! The evil machine WANTS to control U. #tcot #tlot #dems #teaparty #occupy  #cdnpoli #privacy #Love #art #SemST	NONE
 20125	Donald Trump	@marypatriott @steph93065 @RealJamesWoods why not feed these disgusting s.o.b to the Muslims they would love em. #SemST	FAVOR
 20126	Donald Trump	@Rene_gadeCowboy @danoroadblade yes but if a cop bust a bunch of people having a riot it is a hate crime #SemST	FAVOR
 20127	Donald Trump	@realDonaldTrump we need someone like you who won't back down to ANYONE or ANYTHING #SemST	FAVOR
@@ -131,11 +131,11 @@ ID	Target	Tweet	Stance
 20130	Donald Trump	I Can't Believe How Many Followers I Gained Today  #SemST	FAVOR
 20131	Donald Trump	@wpaulsen31 If a candidate seems to dumb to debate my paper boy hes not getting my vote #SemST	FAVOR
 20132	Donald Trump	@haleyelenaa and his favourite beaches are probably in Acapulco and Cabo  #SemST	FAVOR
-20133	Donald Trump	@GeraldoRivera @realDonaldTrump Don't apologize for the truth. People are too sensitive. #MakeAmericaGreatAgain #SemST	FAVOR
+20133	Donald Trump	@GeraldoRivera @realDonaldTrump Don't apologize for the truth. People are too sensitive. #MakeAmericaGreatAgain #SemST	NONE
 20134	Donald Trump	Everybody get on the Trump Train!! It's a First Class One-Way ticket to the White House with @realDonaldTrump  #SemST	FAVOR
 20135	Donald Trump	Time for Texas & Oklahoma to think about a no fault divorce from the Divided States of America.   #TCOT #CCOT #tippingpoint #SemST	FAVOR
 20136	Donald Trump	@ForQ2 I guess @realDonaldTrump really doesnt like or respect any politicians. .I respect him even more for that. #SemST	FAVOR
-20137	Donald Trump	...And of course, God bless America!! #tcot  #teaparty  #SemST	FAVOR
+20137	Donald Trump	...And of course, God bless America!! #tcot  #teaparty  #SemST	AGAINST
 20138	Donald Trump	hey y'all giving a big old s/o to donald trump, we settled our differences and are butt tight now #SemST	FAVOR
 20139	Donald Trump	In todays America, does Honesty mean you are a Bigot?  I Hope not! @JonathanHoenig @JudgeJeanine #TheFive #Hannity #SemST	FAVOR
 20140	Donald Trump	Black lives only matter to politicians around election time. #SemST	FAVOR
@@ -143,7 +143,7 @@ ID	Target	Tweet	Stance
 20142	Donald Trump	Trump believes in traditional marriage so strongly that he's been traditionally married 3x. He should teach a class or something. #SemST	FAVOR
 20143	Donald Trump	@realDonaldTrump we need a president who cannot be bought. #SemST	FAVOR
 20144	Donald Trump	"@KidDynamiteBlog Between #Hillary2016 ""a sadistic psychiatric nurse let loose in a lunatic asylum"" & #bush16 ppl may vote #Shit! #SemST"	FAVOR
-20145	Donald Trump	We have become a nation where decisions are based on feelings and not on facts.  #tcot #ycot #SemST	FAVOR
+20145	Donald Trump	We have become a nation where decisions are based on feelings and not on facts.  #tcot #ycot #SemST	NONE
 20146	Donald Trump	I admire how real and unapologetic Donald Trump is on his Political standpoints #SemST	FAVOR
 20147	Donald Trump	@thereaIbanksy stop making racist peopld rich! #SemST	FAVOR
 20148	Donald Trump	Be prepared - if we continue the policies of the liberal left, we will be #Greece - #SemST	FAVOR
@@ -170,7 +170,7 @@ ID	Target	Tweet	Stance
 20169	Donald Trump	Props to @nbc, they are connected to Telemundo. Even more impressive they dumped Trump after Univision squabble. #DumpTrump #SemST	FAVOR
 20170	Donald Trump	I suddenly find myself liking @nbc a whole lot more than ever before.forPresidentoftheClubofIdiots #SemST	FAVOR
 20171	Donald Trump	Will FOX News pick up #MissUSA and #MissUniverse?  Stay tuned to find out.  #YoureFired #NBC #FoxNews #SemST	FAVOR
-20172	Donald Trump	@politico is there anybody more sue happy than this fool? #trump #lawsuitabuse #SemST	FAVOR
+20172	Donald Trump	@politico is there anybody more sue happy than this fool? #trump #lawsuitabuse #SemST	AGAINST
 20173	Donald Trump	Hey #UniteBlue look at #Greece - that's America's future thanks to you and Obama adding 8 Triion in U.S. debt. #SemST	FAVOR
 20174	Donald Trump	@realDonaldTrump he is a real leader and deserves to be President. #SemST	FAVOR
 20175	Donald Trump	Donald Trump:  proof positive that Gigantism is the last stage before extinction. #MissUSA #SemST	FAVOR
@@ -194,7 +194,7 @@ ID	Target	Tweet	Stance
 20193	Donald Trump	Holy shit ,the @realDonaldTrump is one looney mother fucker.  He'll never make it to the first debate #sideshow #SemST	FAVOR
 20194	Donald Trump	I write separately to call attention to this Court's threat to American democracy - #ObergefellvHodges #AmericaIsScrewed #SemST	FAVOR
 20195	Donald Trump	I believe this September's blood moon portends a cataclysmic event. #Christians  #SemST	FAVOR
-20196	Donald Trump	More people should pay attention to the Greek situation cuz it's the first dominoe to fall #Grexit #tcot #SemST	FAVOR
+20196	Donald Trump	More people should pay attention to the Greek situation cuz it's the first dominoe to fall #Grexit #tcot #SemST	NONE
 20197	Donald Trump	. @SenatorKitchen @nbc how deeply offensive such comments are not only to Mexican-Americans, but Latino Americans in general. #SemST	FAVOR
 20198	Donald Trump	Mr. @realDonaldTrump   I appreciate you standing your ground as you've done.  I can say I've never felt better about voting. #SemST	FAVOR
 20199	Donald Trump	The California draught is a myth created by the government. The point was to conserve water for use in the war against ISIS. #SemST	FAVOR
@@ -229,7 +229,7 @@ ID	Target	Tweet	Stance
 20228	Donald Trump	Notice @realDonaldTrump not saying anything on #CarlosSlim . Not so rich or tough now, huh? Yeah, forgot he's #Mexican huh  #SemST	FAVOR
 20229	Donald Trump	Hutch_USA Follow ===> sarah_brannick <===  if you want to #FreeAmir #FreeAmirNow  #PJNET #SemST	FAVOR
 20230	Donald Trump	Freedom of speech? Yeah right. You are only allowed to say what you want if it lines up with the liberal agenda. Wake up people #SemST	FAVOR
-20231	Donald Trump	@mdsbarry ILLEGAL ALIENS come to US collect welfare and social security, its time to #MakeAmericaGreatAgain SECURE OUR BORDERS  #SemST	FAVOR
+20231	Donald Trump	@mdsbarry ILLEGAL ALIENS come to US collect welfare and social security, its time to #MakeAmericaGreatAgain SECURE OUR BORDERS  #SemST	NONE
 20232	Donald Trump	If you think it's fine American car companies send jobs to Mexico while we pay for their welfare you must hate @realDonaldTrump   #SemST	FAVOR
 20233	Donald Trump	@Dahat8 @Stonewall_77 The HATE within America is stronger NOW than I remember since 1969? Can't go backwards to such division #SemST	FAVOR
 20234	Donald Trump	Think u can say anything without repercussion? Ask Mel Gibson how that's working out for him u racist elitist piece of shit! #SemST	FAVOR
@@ -259,7 +259,7 @@ ID	Target	Tweet	Stance
 20258	Donald Trump	I just cancelled my reservation at the Trump hotel in Las Vegas.  I hope like minded people intolerant of bigots do the same #SemST	FAVOR
 20259	Donald Trump	Why are free market conservatives behind a multiple bankruptcy candidate who wears makeup. Gives us real conservatives a bad name #SemST	FAVOR
 20260	Donald Trump	@mmfa water seeks its own level. In the case of @realDonaldTrump and @oreillyfactor, it's sewer water. #FoxNews #Trump #SemST	FAVOR
-20261	Donald Trump	@realDonaldTrump I know you are the best candidate. You are the only one who can #MakeAmericaGreatAgain #RestoreOurRepublic #SemST	FAVOR
+20261	Donald Trump	@realDonaldTrump I know you are the best candidate. You are the only one who can #MakeAmericaGreatAgain #RestoreOurRepublic #SemST	NONE
 20262	Donald Trump	"of the many @realDonaldTrump racist comments, this one takes the prize!  ""Laziness is a trait in blacks.""  #SemST"	FAVOR
 20263	Donald Trump	It's not a good week for #SemST	FAVOR
 20264	Donald Trump	"RT @BlissTabitha ""Never quite works out that way huh?  #GlobalWarming HOAX #MediaMalpractice #SemST"	FAVOR
@@ -293,12 +293,12 @@ ID	Target	Tweet	Stance
 20292	Donald Trump	Goodbye Macy's, nbc,univision. Illegals are raping&murdering thx to Obama. Trump is right. #SemST	FAVOR
 20293	Donald Trump	@WashTimes @billpostmus #CONGRESS approve this already! Let President veto, then overturn his veto. #SemST	FAVOR
 20294	Donald Trump	@hamltonb026 that's the last thing I'm doing. I'm suggesting that liberals are the reason it is the issue it is today #SemST	FAVOR
-20295	Donald Trump	#ProgressiveCommandment:Criminals need short sentences & cushy jails in order to rehabilitate them!#tcot @ericbolling #Greta #SemST	FAVOR
+20295	Donald Trump	#ProgressiveCommandment:Criminals need short sentences & cushy jails in order to rehabilitate them!#tcot @ericbolling #Greta #SemST	AGAINST
 20296	Donald Trump	Trump got the smarts to win the hearts #SemST	FAVOR
 20297	Donald Trump	It's truly amazing just how many people Donald Trump is making complete & utter fools of. Gotta love it :) #MurderersAndRapists #SemST	FAVOR
-20298	Donald Trump	"OBAMA LISTENING TO RAP ""MUSIC"" IN THE WHITE HOUSE IS A DISGRACE. YOU CAN'T SPELL CRAP WITHOUT RAP. #tcot #NoBama #SemST"	FAVOR
+20298	Donald Trump	"OBAMA LISTENING TO RAP ""MUSIC"" IN THE WHITE HOUSE IS A DISGRACE. YOU CAN'T SPELL CRAP WITHOUT RAP. #tcot #NoBama #SemST"	NONE
 20299	Donald Trump	crazy-speak & how often/many times it's repeated are NOT mutually exclusive; c'mon chris; don't YOU be lazy, too...  @chrislhayes #SemST	FAVOR
-20300	Donald Trump	@TPM Forget #AnnCoulter. Faux's #Hannity & #KellyFile have an endless supply of ignorant #GOP summer interns. #RWNJ #tcot #SemST	FAVOR
+20300	Donald Trump	@TPM Forget #AnnCoulter. Faux's #Hannity & #KellyFile have an endless supply of ignorant #GOP summer interns. #RWNJ #tcot #SemST	AGAINST
 20301	Donald Trump	@JoeHNewYork @maggiebeauchamp @DLoesch This country is upside down.. #SemST	FAVOR
 20302	Donald Trump	@PoliticalLaughs Meanwhile, derelicts, deviants, and bedlam thrive under Obama. #SemST	FAVOR
 20303	Donald Trump	#FELLOW TEXANS WHO SHOP FIRE @MACY'S AND SHOP #DILLARD'S! #SemST	FAVOR
@@ -306,7 +306,7 @@ ID	Target	Tweet	Stance
 20305	Donald Trump	Well, someone's doing the raping. I get combed and gooped up so much, Donald's the one doing the raping. He never understands. #SemST	FAVOR
 20306	Donald Trump	Just so its not lost, today ISIS executed 74 children. To make it worse, our President was tweeting about basketball. #SemST	FAVOR
 20307	Donald Trump	I wrote 'The Art of the Deal,' the number one best selling business book of all time, at least I think #SemST	FAVOR
-20308	Donald Trump	Finally a highly intelligent, economically competent contender for The President. TRUMP #Trump #realdonaldtrump #SemST	FAVOR
+20308	Donald Trump	Finally a highly intelligent, economically competent contender for The President. TRUMP #Trump #realdonaldtrump #SemST	AGAINST
 20309	Donald Trump	I'm voting for Donald Trump ! #SemST	FAVOR
 20310	Donald Trump	We need someine to bring this country back to life! @realDonaldTrump resuscitate America! #SemST	FAVOR
 20311	Donald Trump	@realDonaldTrump Is the only one that says the truth straight up. No spin, and he constantly stands up for what he believes! #SemST	FAVOR
@@ -350,9 +350,9 @@ ID	Target	Tweet	Stance
 20349	Donald Trump	@thehill @greta @realDonaldTrump Now You Know The Left Is Afraid Of A Executive Over Politicians < Hang In There Donald #SemST	FAVOR
 20350	Donald Trump	GOP candidate predictions? America decides to play the Trump card and go with the man with the plan. #SemST	FAVOR
 20351	Donald Trump	What does Ivana, NBC, Univision, Gemini's, and Macy's have in common?  Answer: They all dropped #SemST	FAVOR
-20352	Donald Trump	Corporate America showing there Asses, over #trump is just wrong! I am making note! #SemST	FAVOR
+20352	Donald Trump	Corporate America showing there Asses, over #trump is just wrong! I am making note! #SemST	NONE
 20353	Donald Trump	"If there was such a thing as the ""American"" Hitler. Donald Trump would probably be that guy. #nationalism #SemST"	FAVOR
-20354	Donald Trump	#PrezTrump had a great week, he's the BIG news story, mission accomplished. #tcot #TeaParty #SemST	FAVOR
+20354	Donald Trump	#PrezTrump had a great week, he's the BIG news story, mission accomplished. #tcot #TeaParty #SemST	AGAINST
 20355	Donald Trump	The way @realDonaldTrump is taking flak, he must be over the target. #SemST	FAVOR
 20356	Donald Trump	@DrakeKing15your gay agenda will be met with the wrath of god #SemST	FAVOR
 20357	Donald Trump	Fuck You Obama, I will continue to fly my confederate flag and I'm going to fly it proudly! Renaming American streets? WTF? #SemST	FAVOR
@@ -363,19 +363,19 @@ ID	Target	Tweet	Stance
 20362	Donald Trump	Looking at presidential candidates, there is only one candidate, who can stand tall, and is all heads and shoulders. #Trump  #SemST	FAVOR
 20363	Donald Trump	@realDonaldTrump had a point and one the liberal media won't dare come close to! We have a fragile and wide open border!  #SemST	FAVOR
 20364	Donald Trump	@realDonaldTrump first time voting and I'm definitely voting for Trump #SemST	FAVOR
-20365	Donald Trump	5. Obama could kill us all with these race wars and black lives matters stuff. Divide and Conquer. #tcot #SemST	FAVOR
+20365	Donald Trump	5. Obama could kill us all with these race wars and black lives matters stuff. Divide and Conquer. #tcot #SemST	AGAINST
 20366	Donald Trump	@realDonaldTrump people are scared to hear the truth and that's why they fear you. If you don't tell it like it is, no one will. #SemST	FAVOR
 20367	Donald Trump	@nytimes Does he go to the Dog groomer ? #SemST	FAVOR
-20368	Donald Trump	GRATE TWO SEE @realDonaldTrump GET TUFF ON BOARDER CONTROL!  HAS MY VOTE IN 2016!  #TCOT #ILLEGALSSTOLEJOBS #SemST	FAVOR
+20368	Donald Trump	GRATE TWO SEE @realDonaldTrump GET TUFF ON BOARDER CONTROL!  HAS MY VOTE IN 2016!  #TCOT #ILLEGALSSTOLEJOBS #SemST	NONE
 20369	Donald Trump	Mexico sucks. What other conclusion is there for ppl to come here illegally?   #Mexico #SemST	FAVOR
 20370	Donald Trump	Wondering who is going to make your suites now. @realDonaldTrump  Maybe the rapist and killers you speak about will. #SemST	FAVOR
 20371	Donald Trump	@realDonaldTrump Any more campaign stops in Chicago anytime soon? Good luck! #SemST	FAVOR
 20372	Donald Trump	@GreggJarrett @FoxNews @GeekGirl2u @realDonaldTrump will do fine with legal Latino voters. #MakeAmericaGreatAgain #SemST	FAVOR
 20373	Donald Trump	@MoveOn Go screw yourselves & take Killary with you! Bring your bully shit to Florida and see what happens! #boycottMoveOn  #SemST	FAVOR
-20374	Donald Trump	@usnavyjack @RNC When RNC calls, ask them to prove they're conservative. They can't and you'll enjoy it. #RNC #GOP #tcot #SemST	FAVOR
+20374	Donald Trump	@usnavyjack @RNC When RNC calls, ask them to prove they're conservative. They can't and you'll enjoy it. #RNC #GOP #tcot #SemST	AGAINST
 20375	Donald Trump	Political correctness should be an automatic disqualifier for all #GOP candidates in 2016. #tcot #DefeatCommunism #SemST	FAVOR
 20376	Donald Trump	Trump wasn't precise but he's no bigot. employs thousands. contributed millions to charity. And loves America.not corrupt.capable #SemST	FAVOR
-20377	Donald Trump	@GOP it's time you recognize @realDonaldTrump . This movement is real. #MakeAmericaGreatAgain #SemST	FAVOR
+20377	Donald Trump	@GOP it's time you recognize @realDonaldTrump . This movement is real. #MakeAmericaGreatAgain #SemST	NONE
 20378	Donald Trump	There is no scarcity. There is no lack. No need for poverty. We are only victims of robbery by our leaders. #LiberateYourself #SemST	FAVOR
 20379	Donald Trump	@exjon @SweetFreedom29 @irishspy @KATUNews say's it all!!!!!!!!  #SemST	FAVOR
 20380	Donald Trump	@PatDollard She is right on the money!!!!!  #SemST	FAVOR
@@ -395,7 +395,7 @@ ID	Target	Tweet	Stance
 20394	Donald Trump	"@realDonaldTrump comments about Mexicans where he said ""somebody's doing the raping""  Why do bigoted WM claim to be crime free? #SemST"	FAVOR
 20395	Donald Trump	Top 10 Questions at Declaration of Independence signing  8. Are all Mexicans rapists and murderers? #4thjuly #SemST	FAVOR
 20396	Donald Trump	@RWSurferGirl it's not a racial tragedy nor an Islamic one either. Only patriots care for all. #SemST	FAVOR
-20397	Donald Trump	@seanhannity @BobbyJindal He would be great Vp for Trump.. 2 of  kind,#MakeAmericaGreatAgain , #SemST	FAVOR
+20397	Donald Trump	@seanhannity @BobbyJindal He would be great Vp for Trump.. 2 of  kind,#MakeAmericaGreatAgain , #SemST	NONE
 20398	Donald Trump	Great interview with @BobbyJindal tonight! I can vote for this guy! #Hannity #lnyhbt #SemST	FAVOR
 20399	Donald Trump	Witnessing the destruction of the #middleclass If you are black, white Hispanic, or any other creed support #Trump #usa #4thjuly #SemST	FAVOR
 20400	Donald Trump	@marcorubio .  Adios for your comments about @realDonaldTrump .. You are a disappointment. #SemST	FAVOR
@@ -403,13 +403,13 @@ ID	Target	Tweet	Stance
 20402	Donald Trump	Ez21:15 I have set the point of the sword against all their gates, that their heart may faint, n their ruins be multiplied: #SemST	FAVOR
 20403	Donald Trump	Cashinin A Block) Terror&4th July, terrorists win? B) Trump v NBC, Univision, Macy's C) Cuba D) WhiteHouseLights FNC 1130aET #SemST	FAVOR
 20404	Donald Trump	The clothing #Macys (made in Mexico&China) #NBC (Traders! #Sodomites!) #Univision (will pay!) #RollOn!!! @realDonaldTrump #wiyh #SemST	FAVOR
-20405	Donald Trump	#DanaPerino is getting more snitful by the minute. Says Trump isn't believable, can't win. Hide&watch! #MakeAmericaGreatAgain #SemST	FAVOR
+20405	Donald Trump	#DanaPerino is getting more snitful by the minute. Says Trump isn't believable, can't win. Hide&watch! #MakeAmericaGreatAgain #SemST	AGAINST
 20406	Donald Trump	Trump and his comb over are gonna take over America #IndependenceDay #SemST	FAVOR
 20407	Donald Trump	@ProfessorF You have plenty of phones, internet access, cars, TVs, houses, etc. all courtesy of taxpayers.. er.. government! #SemST	FAVOR
 20408	Donald Trump	I love the Mexican people but they're smarter than us we MUST stop them! #SemST	FAVOR
 20409	Donald Trump	Terrorist takes selfie post on media,USA bombs target, USA tells world how they did it so they they never have 2 repeat it. #SemST	FAVOR
 20410	Donald Trump	@rodrickgibbons @ByronYork @geoffcaldwell Maybe if we make it a Toll Bridge, we may recoup some of the welfare payments! LOL #SemST	FAVOR
-20411	Donald Trump	If Donald Trump is elected president I'm moving to Nunavut to get away from these retards #Trump #SemST	FAVOR
+20411	Donald Trump	If Donald Trump is elected president I'm moving to Nunavut to get away from these retards #Trump #SemST	NONE
 20412	Donald Trump	@JonathanHoenig @ericbolling Errant Vanity says up 2 USA about fighting ISIS, ? is choosing when/where ISIS decided we will #SemST	FAVOR
 20413	Donald Trump	@realDonaldTrump let the haters run away. You can now see who  you're true supporters are. #SemST	FAVOR
 20414	Donald Trump	Liberalism is the politics of personal destruction! If Liberals can't win- they will lie & demonize! They are paid to attack! #SemST	FAVOR
@@ -424,7 +424,7 @@ ID	Target	Tweet	Stance
 20423	Donald Trump	@DaGodfather907 @dare6626  Hope the rotten SOB don't choke :( #SemST	FAVOR
 20424	Donald Trump	@HnstyNgov @FoxBusiness @realDonaldTrump Meanwhile no Democrat running has given anyone anywhere a job. Other Repubs just as bad. #SemST	FAVOR
 20425	Donald Trump	@UPROXX good,, trumps speaking of illrgal immigrants,,, its her loss #SemST	FAVOR
-20426	Donald Trump	NASCAR abandons Trump. Some good news to end my day with   #Trump #SemST	FAVOR
+20426	Donald Trump	NASCAR abandons Trump. Some good news to end my day with   #Trump #SemST	AGAINST
 20427	Donald Trump	@JonathanHoenig @realDonaldTrump @feldmaniac @Mediaite Support Americas future Boycott capitalist pig #SemST	FAVOR
 20428	Donald Trump	@CindyReynolds I have to turn the channel, all I can do is stare at that nest on his head. #SemST	FAVOR
 20429	Donald Trump	 your so vain you probably....learn my winning blackjack approach start tweet#1... /71 #LIFEGOALS  #RAP   #soccer  #July4   #SemST	FAVOR
@@ -433,7 +433,7 @@ ID	Target	Tweet	Stance
 20432	Donald Trump	@johnnydollar01 @kilmeade That there can be complete #ASSHOLES like #SemST	FAVOR
 20433	Donald Trump	Donald Trump stays roasting on Twitter  #SemST	FAVOR
 20434	Donald Trump	@FFRNNU Maybe #MSM should be talking more about this and less about flags and cakes. #SemST	FAVOR
-20435	Donald Trump	Donald Trump is only saying what ALL the other 2016 GOP Presidential candidates are thinking! Bad things!! #GOP #Trump #POTUS #SemST	FAVOR
+20435	Donald Trump	Donald Trump is only saying what ALL the other 2016 GOP Presidential candidates are thinking! Bad things!! #GOP #Trump #POTUS #SemST	NONE
 20436	Donald Trump	@TMZ trump a guy born with a silver spoon up his ass who has never done a hard days work in his life  #DumpTrump #YoureFired  #SemST	FAVOR
 20437	Donald Trump	We need a man that will do the tough negotiations, say what needs to be said and forget the words politically correct.  #thanks #SemST	FAVOR
 20438	Donald Trump	@realDonaldTrump @ReillyCarole So he can outsource all our manufacturing to Mexico and China like he does his line. #hypocrite #SemST	FAVOR
@@ -442,7 +442,7 @@ ID	Target	Tweet	Stance
 20441	Donald Trump	@DannoHollister @D2243 @BreitbartNews It might be time for WE THE PEOPLE to declare Independence From the Federal Government! #SemST	FAVOR
 20442	Donald Trump	@HuffingtonPost He probably DOES have facts! #SemST	FAVOR
 20443	Donald Trump	Today & everyday I am proud to be an American. I'm honored to be apart of the best the world has to offer! #4thofJuly #SemST	FAVOR
-20444	Donald Trump	@realDonaldTrump notice the @StopHillaryPAC didn't include you probly @KarlRove hiding behind a name again #Trump #trumpisright #SemST	FAVOR
+20444	Donald Trump	@realDonaldTrump notice the @StopHillaryPAC didn't include you probly @KarlRove hiding behind a name again #Trump #trumpisright #SemST	AGAINST
 20445	Donald Trump	"@TuckerCarlson #GayMarriage is the ""law of the land"" yet #immigration law is ignored. Absurd! #LobotomizedLiberals #LiberalLogic #SemST"	FAVOR
 20446	Donald Trump	@JVER1 @tgradous @LVNancy  I blame her death on the @potus he is directly responsible. He is pathetic. If i were her dad.... #SemST	FAVOR
 20447	Donald Trump	......and some, I assume, are good people. #SemST	FAVOR
@@ -460,7 +460,7 @@ ID	Target	Tweet	Stance
 20459	Donald Trump	Another Reagan the last thing we need! The #FatherofAmnesty rewarded 3m criminals, displaced 1.9m in workforce! @DaGodfather907 #SemST	FAVOR
 20460	Donald Trump	"RedScareBot: ""Filthy Lucre"" RT valera927 The one promise #socialism can keep is keeping us all equally impoverished. #SemST"	FAVOR
 20461	Donald Trump	It's time for @Senate_GOPs @HouseGOP to start doing their jobs for US CITIZENS and stop giving in to @barackobama #SemST	FAVOR
-20462	Donald Trump	@blackrepublican only if we stop allowing them 2 work & stop welfare they will self-deport #tcot #SemST	FAVOR
+20462	Donald Trump	@blackrepublican only if we stop allowing them 2 work & stop welfare they will self-deport #tcot #SemST	NONE
 20463	Donald Trump	If Greek Prime Minister Alexis Tsipras needs advice on emerging from bankruptcy, I'm available #greekreferendum #SemST	FAVOR
 20464	Donald Trump	"Obama strategy: Open our borders to change our culture  fundamental transformation into Tijuana!"" #tcot #SemST"	FAVOR
 20465	Donald Trump	After the debacle of having passed O-care without reading it, O wants to pass comprehensive immigration in the same way! #SemST	FAVOR
@@ -469,17 +469,17 @@ ID	Target	Tweet	Stance
 20468	Donald Trump	Lying to justify political correctness is still nothing but a lie.   #Teaparty #SemST	FAVOR
 20469	Donald Trump	@realDonaldTrump the thing I like about Mr Trump is that if he shoots himself in the foot, he can buy another.  #SemST	FAVOR
 20470	Donald Trump	@realDonaldTrump @Virginia4USA @ArtistdeeDd @HowardKurtz We all Mr. Trump. #usa  #SemST	FAVOR
-20471	Donald Trump	@realDonaldTrump You are absolutely right on the border! Bush and company are afraid to address it! #MakeAmericaGreatAgain #SemST	FAVOR
+20471	Donald Trump	@realDonaldTrump You are absolutely right on the border! Bush and company are afraid to address it! #MakeAmericaGreatAgain #SemST	AGAINST
 20472	Donald Trump	"@NBC to #Trump: ""HOW DARE YOU POINT OUT THAT OBAMA CAUSES 1000 GIRLS TO BE RAPED EVERY MONTH CROSSING INTO USA!""  #ccot #tcot #SemST"	FAVOR
 20473	Donald Trump	"Have you noticed how often the concept of ""living within your means"" is now described as ""ruthless austerity?""#tcot #SemST"	FAVOR
-20474	Donald Trump	You have to wonder if Hillary will attempt to replace #ObamaCare with #HillaryCare. #tcot @realDonaldTrump #SemST	FAVOR
+20474	Donald Trump	You have to wonder if Hillary will attempt to replace #ObamaCare with #HillaryCare. #tcot @realDonaldTrump #SemST	AGAINST
 20475	Donald Trump	Translation: I do not understand why the Republicans don't dismiss him. #Republicans #SemST	FAVOR
 20476	Donald Trump	Good morning. I wake up on 8 pm, but is 10 pm...  That's Only Holiday :) #holiday #summer #sunrise #wakacyjnefolllowspree #SemST	FAVOR
 20477	Donald Trump	If You Disagree With Montel, You Are A Racist. #SemST	FAVOR
 20478	Donald Trump	Please, understand that Donald Trump mouth is full of shit due to his Mexican maid having access to his toothbrush. #SemST	FAVOR
 20479	Donald Trump	With his immigration policies pwr drunk #Obama is setting himself up 2 b prez of Mex when he gets evicted from WH  #tcot #SemST	FAVOR
 20480	Donald Trump	You know Donald Trump is in deep when most Neo-Conservatives call him out on his bullsh*t speech. #SemST	FAVOR
-20481	Donald Trump	Americans of all pol parties are trusting you @realDonaldTrump - we KNOW you will put #AmericaFirst and #MakeAmericaGreatAgain #SemST	FAVOR
+20481	Donald Trump	Americans of all pol parties are trusting you @realDonaldTrump - we KNOW you will put #AmericaFirst and #MakeAmericaGreatAgain #SemST	AGAINST
 20482	Donald Trump	White, male, hetero, homeschooler, Christian, gun-owner, conservative, pro-life, citizen. Things that make a man un-american #SemST	FAVOR
 20483	Donald Trump	Really @CNN? You're asking aloud whether a Mexican who lives down to a stereotype, validates the stereotype? #immigration #SemST	FAVOR
 20484	Donald Trump	Who doesn't love @SheriffClarke! A man who doesn't mince words!He's not going to sugarcoat it for you folks! #alllifematters #SemST	FAVOR
@@ -489,14 +489,14 @@ ID	Target	Tweet	Stance
 20488	Donald Trump	".@Ashlandgirl101 @Braveheart_USA Don't just say ""no"" to Killary - work tirelessly to put her in prison - where she belongs. #SemST"	FAVOR
 20489	Donald Trump	If you condone the #SupremeCourt's decision on the marriage issue! You might be a liberal!!  #SemST	FAVOR
 20490	Donald Trump	I feel like the 2016 Presidential race is @realDonaldTrump vs. Matropolis ie The Machine.    Lets defeat the machine #SemST	FAVOR
-20491	Donald Trump	OMG - #Obama really believes #ISIS is made up of Christians, Jews, & Muslims. WHAT A MORON! #clueless #ProudAmerican #tcot #SemST	FAVOR
+20491	Donald Trump	OMG - #Obama really believes #ISIS is made up of Christians, Jews, & Muslims. WHAT A MORON! #clueless #ProudAmerican #tcot #SemST	AGAINST
 20492	Donald Trump	@toddstarnes the plan is on paper & in pencil. Degrade = erase 1 letter at time destroy = throwing the paper away! #SemST	FAVOR
 20493	Donald Trump	@StandWithCJ @ali She a cockroach. #holdtheline CJ. There will be others to replace her. #SemST	FAVOR
 20494	Donald Trump	@lemurdue77 Hey friend. That's not nice  #SemST	FAVOR
 20495	Donald Trump	@realDonaldTrump it's crazy how cowardly these big corporations are. I swear I'm campaigning for you !!!!! #SemST	FAVOR
-20496	Donald Trump	THE DONALD & CARLEY - Perfect Together! - #Trump #SemST	FAVOR
+20496	Donald Trump	THE DONALD & CARLEY - Perfect Together! - #Trump #SemST	AGAINST
 20497	Donald Trump	The number of crimes committed by illegal aliens in the United States each year should be ZERO! #SemST	FAVOR
-20498	Donald Trump	25% of Mexico has INVADED AMERICA - & CONTINUES to OCCUPY us  yet POS #RINO phony #Jeb BLAMES #TRUMP for telling the TRUTH! - #SemST	FAVOR
+20498	Donald Trump	25% of Mexico has INVADED AMERICA - & CONTINUES to OCCUPY us  yet POS #RINO phony #Jeb BLAMES #TRUMP for telling the TRUTH! - #SemST	NONE
 20499	Donald Trump	I've come to the horrid conclusion that Conservatives just don't care what the Democrats do. #SemST	FAVOR
 20500	Donald Trump	@marcorubio @GovernorPerry @GrahamBlog @McConnellPress Your silence is deafening. #TrumpIsRight #SecureTheBorder #illegalaliens #SemST	FAVOR
 20501	Donald Trump	@BillGates Can you reset my Windows 98 password?? #SemST	FAVOR
@@ -510,26 +510,26 @@ ID	Target	Tweet	Stance
 20509	Donald Trump	@1Viperbabe where do these ppl get the idea theycan controlthe ppl,organization,individual,whomever,ppl can't stomp down ppl. #SemST	FAVOR
 20510	Donald Trump	Greece is our future.  Pay attention.  #GreekCrisis #SemST	FAVOR
 20511	Donald Trump	Dick Bove joins @ericbolling now to discuss the Greece financial crisis. #Hannity #SemST	FAVOR
-20512	Donald Trump	@realDonaldTrump  Just registered to Vote Today so I can contribute to help #MakeAmericaGreatAgain #Honesty #SemST	FAVOR
+20512	Donald Trump	@realDonaldTrump  Just registered to Vote Today so I can contribute to help #MakeAmericaGreatAgain #Honesty #SemST	NONE
 20513	Donald Trump	@realDonaldTrump You are the trump card of my heart. #SemST	FAVOR
 20514	Donald Trump	@realDonaldTrump I'm RTing every tweet you post! Go get em Mr. Trump- you're reigniting the fire of the American Spirit- FIGHT! #SemST	FAVOR
 20515	Donald Trump	"@JimGaffigan No truth to the rumor that Trump said today ""Did I say Mexicans? I meant Bill Cosby."" #Cosby #SemST"	FAVOR
 20516	Donald Trump	Is it to early to start wearing shirts and sporting a bumper sticker? #SemST	FAVOR
-20517	Donald Trump	Silence is golden, yes, but when silence is all there is...it is way too loud! ~john tarter #tcot #SemST	FAVOR
+20517	Donald Trump	Silence is golden, yes, but when silence is all there is...it is way too loud! ~john tarter #tcot #SemST	NONE
 20518	Donald Trump	@realDonaldTrump: We have got to take our country back. It's time! Win it Mr. Trump #SemST	FAVOR
 20519	Donald Trump	Who among us has never defamed an entire country on nat'l television while declaring candidacy for president? #perspective #SemST	FAVOR
 20520	Donald Trump	Maybe #KathrynSteinle should have been wearing a rainbow T-Shirt.... The public would be more outraged. #SemST	FAVOR
 20521	Donald Trump	@OutFrontCNN @CNN u cant lift sanctions & then slap then back on right away. Who's that foolish? Or deceitful? #IranTalks #SemST	FAVOR
 20522	Donald Trump	@RealDonaldTrump I feel the truth when Mr. Trump speaking, people need to understand who really cares about America #SemST	FAVOR
-20523	Donald Trump	Liberals do not like that @realDonaldTrump is moving up in the polls. #MakeAmericaGreatAgain #TheGreatWallofMexico #SemST	FAVOR
+20523	Donald Trump	Liberals do not like that @realDonaldTrump is moving up in the polls. #MakeAmericaGreatAgain #TheGreatWallofMexico #SemST	AGAINST
 20524	Donald Trump	@liberaltreason @msnbc maybe all the politically correct pansies out there will move to a different country if Trump gets in!!!:) #SemST	FAVOR
 20525	Donald Trump	@LindaSuhler The smear campaign from RINO Headquarters --> @GOP  has begun. #SemST	FAVOR
-20526	Donald Trump	Liberal view of #Christianity: Interpret the Bible like the Constitution & keep religion at Church. #CCOT #TCOT #PJNET #NRA #SemST	FAVOR
+20526	Donald Trump	Liberal view of #Christianity: Interpret the Bible like the Constitution & keep religion at Church. #CCOT #TCOT #PJNET #NRA #SemST	AGAINST
 20527	Donald Trump	#Obama intervenes on behalf of #Greece = Hello #drachma  Socialism = equality of misery  #tcot #pjnet #SemST	FAVOR
 20528	Donald Trump	@JebBush and @marcorubio cannot speak their minds b/c they are paid 2 keep things pc. @realDonaldTrump ANSWERS TO NO ONE! #SemST	FAVOR
 20529	Donald Trump	@realDonaldTrump is the only candidate who has in no way, shape or form been brainwashed by the pc police. #SemST	FAVOR
 20530	Donald Trump	"Donald J. Trump, I am voting for you to be our next ""El Presidente""! #trumpforpresident #SemST"	FAVOR
-20531	Donald Trump	"If a liberal brings up Immigration, hit em with the ""TRUMP"" card! #trumpforpresident #Trump #tcot #SemST"	FAVOR
+20531	Donald Trump	"If a liberal brings up Immigration, hit em with the ""TRUMP"" card! #trumpforpresident #Trump #tcot #SemST"	AGAINST
 20532	Donald Trump	@dramamiine well you have the right to your opinion and I have the right to not listen to it. Have a great day! #SemST	FAVOR
 20533	Donald Trump	No wonder they don't listen to us.  It must get awfully loud inside the echo chamber.  @ESPN @NBC @Macys @NASCAR #SemST	FAVOR
 20534	Donald Trump	@realDonaldTrump u talk a big bigoted talk & yet use illegals @ your new DC prop.Thank GD u being POTUS isn't viable! #trumpsucks #SemST	FAVOR
@@ -546,7 +546,7 @@ ID	Target	Tweet	Stance
 20545	Donald Trump	@realDonaldTrump gonna be on @greta show right now! #greta #TrumpIsRight #SemST	FAVOR
 20546	Donald Trump	Liberals are winning the battle of the mind by indoctrinating low IQ & youth of #America through #MSM & social media #SemST	FAVOR
 20547	Donald Trump	@realDonaldTrump Let's face it, we've become a passive, inert nation controlled by thugs, and redistributionists. #SemST	FAVOR
-20548	Donald Trump	@realDonaldTrump keep it up Trump we love you #MakeAmericaGreatAgain #BoycottMacys #boycottnbc #SemST	FAVOR
+20548	Donald Trump	@realDonaldTrump keep it up Trump we love you #MakeAmericaGreatAgain #BoycottMacys #boycottnbc #SemST	NONE
 20549	Donald Trump	#greta Trump is absolutely on fire right now! He is a good man with a great family. He is the medicine this country needs! #SemST	FAVOR
 20550	Donald Trump	AngryNIdaho: ScottGrafRadio THAT'S WHAT THEY WANT YOU TO BELIEVE! #lamestream #chemtrails #TYRANNY #staywoke #JadeHelm #SemST	FAVOR
 20551	Donald Trump	Greece.... Bernie Sanders school of economics #greta #SemST	FAVOR
@@ -559,11 +559,11 @@ ID	Target	Tweet	Stance
 20558	Donald Trump	#Boycott @TravelOregon Support @sweetcakesbakes If you don't want to bake the cake, you shouldn't be forced to. #freedom #SemST	FAVOR
 20559	Donald Trump	@_George_Lopez__ says there may be enough AMERICAN Racists to Elect Trump as President. I think he's right. Take back America #SemST	FAVOR
 20560	Donald Trump	@realDonaldTrump I hope and pray you get the nomination. America needs a man with a backbone! And one that can't be bought! #SemST	FAVOR
-20561	Donald Trump	@Radiocop @DrLefever Low Info Voters are still clueless to the fundamental transformation Obama said he would inflict. #tcot #SemST	FAVOR
+20561	Donald Trump	@Radiocop @DrLefever Low Info Voters are still clueless to the fundamental transformation Obama said he would inflict. #tcot #SemST	AGAINST
 20562	Donald Trump	@realDonaldTrump I don't care what @NASCAR says! I dont care what the liberals at @espn say.. Keep Speaking The TRUTH!! #SemST	FAVOR
 20563	Donald Trump	@mailandguardian There goes the Latino vote, Donald Dumb!! #SemST	FAVOR
 20564	Donald Trump	Now Coke believes in unicorns along with the libs #WakeUpCocaCola #TedCruz2016 #TheRightBrigade #SemST	FAVOR
-20565	Donald Trump	THE @realDonaldTrump **MAKING TWO FEES INSTEAD OF ONE**  WE NEED A WINNER IN THE WHITE HOUSE AGAIN  #MakeAmericaGreatAgain !!  #SemST	FAVOR
+20565	Donald Trump	THE @realDonaldTrump **MAKING TWO FEES INSTEAD OF ONE**  WE NEED A WINNER IN THE WHITE HOUSE AGAIN  #MakeAmericaGreatAgain !!  #SemST	AGAINST
 20566	Donald Trump	@conservacuck unfortunately the melting pot concept has been replaced by balkanization, now it's division not diversity #tcot #SemST	FAVOR
 20567	Donald Trump	LOOKS LIKE LIBREALS OUR AFTER @Paula_Deen AGAIN,,  THANK GOD FOR @realDonaldTrump #SemST	FAVOR
 20568	Donald Trump	The line between innovation and effrontery becomes evident through consequence. #CultureShift #awaken #rise #AriseChurch #SemST	FAVOR
@@ -571,7 +571,7 @@ ID	Target	Tweet	Stance
 20570	Donald Trump	We are now witnessing possibly the most disastrous attempt to run for presidency ever, courtesy of @realDonaldTrump #Fail #SemST	FAVOR
 20571	Donald Trump	@realDonaldTrump is the most repulsive narcissist on the planet. #SemST	FAVOR
 20572	Donald Trump	@realDonaldTrump Stay the course! You can win! The USA needs your leadership and competence! #SemST	FAVOR
-20573	Donald Trump	@RNRLouisiana @willie_mays24 @RNROklahoma  THIS kind of open defiance is what is needed but on a massive scale #tcot #LNYHBT #SemST	FAVOR
+20573	Donald Trump	@RNRLouisiana @willie_mays24 @RNROklahoma  THIS kind of open defiance is what is needed but on a massive scale #tcot #LNYHBT #SemST	NONE
 20574	Donald Trump	Donald Trump is the man of all men #SemST	FAVOR
 20575	Donald Trump	@lybr3 @MarcATL76 #Programmed ppl are so damn STUCK ON BS! Clinton is free walking behind a rope! BARS ARE NEEDED! PLZ! #SemST	FAVOR
 20576	Donald Trump	@GovernorPerry @realDonaldTrump not true Perry! Don't count on me or anyone in my family for a vote. You need to stop being PC. #SemST	FAVOR
@@ -580,7 +580,7 @@ ID	Target	Tweet	Stance
 20579	Donald Trump	The gift that keeps on giving. #makeitstop #SemST	FAVOR
 20580	Donald Trump	@realDonaldTrump You have the heart of a lion! Let's make America great again! #SemST	FAVOR
 20581	Donald Trump	"Yo DEMOCRATS, #NYSE Halted-Down. Just another ""CRISIS"". What ya gonna do to NOT LET IT GO TO WASTE???????????????  #SemST"	FAVOR
-20582	Donald Trump	@realDonaldTrump  WE WANT TRUMP! WE WANT TRUMP! WE WANT TRUMP!!! #MakeAmericaGreatAgain #SemST	FAVOR
+20582	Donald Trump	@realDonaldTrump  WE WANT TRUMP! WE WANT TRUMP! WE WANT TRUMP!!! #MakeAmericaGreatAgain #SemST	NONE
 20583	Donald Trump	@GloriaAllred is a media whore, but I'm rooting for her and her clients against 'alleged' drug-rapist #BillCosby #tcot #SemST	FAVOR
 20584	Donald Trump	People who judge Trump based on his looks and hair style yet call him a racist bigot might be #hypocrites #SemST	FAVOR
 20585	Donald Trump	@FoxBusiness I would have to say that #NYSE would never admit a hack. #SemST	FAVOR
@@ -602,9 +602,9 @@ ID	Target	Tweet	Stance
 20601	Donald Trump	Republicans. The party that rewards racial hatred and bigotry with a front-runner status for the Presidential nomination. #SemST	FAVOR
 20602	Donald Trump	@realDonaldTrump Illegal Immigration is FINALLY on the agenda because of you! Thank you for speaking TRUTH! #SemST	FAVOR
 20603	Donald Trump	@ErinBurnett #cnn WHY WOULD IT HURT @realDonaldTrump TO SAY SOME ILLEGAL IMMS RAPE? @JOHN_WALSH JUST SAID IT'S TRUE @OutFrontCNN #SemST	FAVOR
-20604	Donald Trump	he was getting divorced & filing bankruptcies @robin182zz #Trump #bankrupt #Election2016 #SemST	FAVOR
+20604	Donald Trump	he was getting divorced & filing bankruptcies @robin182zz #Trump #bankrupt #Election2016 #SemST	NONE
 20605	Donald Trump	Get over to #CNN #AC360 @realDonaldTrump going live in minutes.  #SemST	FAVOR
-20606	Donald Trump	@businessinsider @billpostmus most libtard states are f'd up here #mepolitics #tcot #SemST	FAVOR
+20606	Donald Trump	@businessinsider @billpostmus most libtard states are f'd up here #mepolitics #tcot #SemST	AGAINST
 20607	Donald Trump	"@weknowwhatsbest White parents warn their kids about cops too: ""If you're stopped by cops, be respectful & do what they say. #SemST"	FAVOR
 20608	Donald Trump	Blessed is the nation whose God is Lord. Psalm 33:12 #SemST	FAVOR
 20609	Donald Trump	@ac360 @ananavarro @andersoncooper #AC360 HECK YEAH BOMB THE CRAP OUT OF #IRAQ & SEND IN PROS TO RUN OIL FIELDS! @realDonaldTrump #SemST	FAVOR
@@ -616,7 +616,7 @@ ID	Target	Tweet	Stance
 20615	Donald Trump	If you live in a Trump building, congratulations on that decision #SemST	FAVOR
 20616	Donald Trump	"Donald Trump has me ""L-ing my A O.""  This dude is nuts I highly recommend watching the #CNN interview.  He is entertaining.  #SemST"	FAVOR
 20617	Donald Trump	I'm Fonald Frump and EVERYBODY THINKS YOU'RE AN IDIOT.forPresident #SemST	FAVOR
-20618	Donald Trump	Will be watching @AC360 again tomorrow to watch @realDonaldTrump interview continuation. #MakeAmericaGreatAgain #SemST	FAVOR
+20618	Donald Trump	Will be watching @AC360 again tomorrow to watch @realDonaldTrump interview continuation. #MakeAmericaGreatAgain #SemST	NONE
 20619	Donald Trump	Making matters worse, NBC canceling Apprentice replacing with Mind of Mencia reruns #comedycentral #NBC #SemST	FAVOR
 20620	Donald Trump	.@realDonaldTrump is the real deal folks. He tells the truth. Get used to it! #SemST	FAVOR
 20621	Donald Trump	After every @realDonaldTrump interview I watch I get more pumped up for November 2016 when this country can be made great again. #SemST	FAVOR
@@ -628,14 +628,14 @@ ID	Target	Tweet	Stance
 20627	Donald Trump	Why is the media giving the Donald so much airtime?The guy evades questions just like any other politician.Disaster. GOP trouble #SemST	FAVOR
 20628	Donald Trump	@meetthepress @ron_fournier @realDonaldTrump Typical Liberal Media. Trump has now evolved. He is now non Mexican Pro Life. #SemST	FAVOR
 20629	Donald Trump	@EWDolan #DoubleBlindJepordy What is you keep my wife out of the GOP Primary and I'll keep your wives out of it too!  #Bam! #SemST	FAVOR
-20630	Donald Trump	No you see Donald Trump was saying Mexican immigrants are all *rappists* like with the hip hop y'all  #Trump #SemST	FAVOR
+20630	Donald Trump	No you see Donald Trump was saying Mexican immigrants are all *rappists* like with the hip hop y'all  #Trump #SemST	NONE
 20631	Donald Trump	People: Donald Trump is a man who can lead this country into the future. #SemST	FAVOR
-20632	Donald Trump	What are your favorite conservative blog sites and why?  #tcot #RedNationRising #CulturalRot #SemST	FAVOR
+20632	Donald Trump	What are your favorite conservative blog sites and why?  #tcot #RedNationRising #CulturalRot #SemST	NONE
 20633	Donald Trump	@realDonaldTrump they may be dumping you now, but when you're president they'll be begging for your business. #SemST	FAVOR
-20634	Donald Trump	@realDonaldTrump Don't let the @GOP tell you how to run!  #America doesn't need another politician.  #MakeAmericaGreatAgain only #SemST	FAVOR
+20634	Donald Trump	@realDonaldTrump Don't let the @GOP tell you how to run!  #America doesn't need another politician.  #MakeAmericaGreatAgain only #SemST	NONE
 20635	Donald Trump	@realDonaldTrump You have our backs, and we have yours. You have my vote. Boycotting anyone who opposes your patriotism. We need #SemST	FAVOR
 20636	Donald Trump	Would seem to me, if we can ban the Confederate flag we can ban the burning or stomping on Old glory! But that is OK!    #SemST	FAVOR
-20637	Donald Trump	@realDonaldTrump keep it up Mr Trump-when the Dems and Repubs are attacking-you know your doing it right! #MakeAmericaGreatAgain #SemST	FAVOR
+20637	Donald Trump	@realDonaldTrump keep it up Mr Trump-when the Dems and Repubs are attacking-you know your doing it right! #MakeAmericaGreatAgain #SemST	AGAINST
 20638	Donald Trump	RNC Chairman pleads with Trump to tone it down. I say, Ramp-it-up #SemST	FAVOR
 20639	Donald Trump	@realDonaldTrump Now that you're the leader of the GOP, will you show them what Leadership is? #MakeAmericaGreatAgain #SemST	FAVOR
 20640	Donald Trump	@Reince & GOP You built that  -----> #SemST	FAVOR
@@ -650,7 +650,7 @@ ID	Target	Tweet	Stance
 20649	Donald Trump	Mainstream media should not be giving Donald Trump airtime. Focus on real issues. #SemST	FAVOR
 20650	Donald Trump	I wonder if Trump is at the Mexico soccer game in Chicago? I hear he has a lot of supporters there #SemST	FAVOR
 20651	Donald Trump	@realDonaldTrump Just watched you on @FoxNews. You are awesome! You have my vote! #MakeAmericaGreatAgain #SemST	FAVOR
-20652	Donald Trump	Trump is a Non-Establishment candidate.  I like it!  #MakeAmericaGreatAgain #SemST	FAVOR
+20652	Donald Trump	Trump is a Non-Establishment candidate.  I like it!  #MakeAmericaGreatAgain #SemST	AGAINST
 20653	Donald Trump	@Reince @SharonDay @realDonaldTrump @tedcruz @JebBush Wshgton Cartel, incompetent GOP leaders support losers like Romney, McCain! #SemST	FAVOR
 20654	Donald Trump	Politicians are destroying America. We need more people like @realDonaldTrump  to run for office #SemST	FAVOR
 20655	Donald Trump	Oh my if Hillary Clinton wins the U.S is going to fall apart #SemST	FAVOR
@@ -664,18 +664,18 @@ ID	Target	Tweet	Stance
 20663	Donald Trump	Congrats to the @GOP for having @realDonaldTrump in first place amongst its 2016 candidates. #GOP2016 #Jeb2016 #walker2016 #SemST	FAVOR
 20664	Donald Trump	@realDonaldTrump Sir, i just want you to know that you'll be the greatest President of this Generation!  #SemST	FAVOR
 20665	Donald Trump	Confederate flag removed.  Now what will the racists complain about? #tcot #SemST	FAVOR
-20666	Donald Trump	@realDonaldTrump we need you in office.. Keep doing what your doing. #VoteTrump #MakeAmericaGreatAgain #SemST	FAVOR
+20666	Donald Trump	@realDonaldTrump we need you in office.. Keep doing what your doing. #VoteTrump #MakeAmericaGreatAgain #SemST	NONE
 20667	Donald Trump	@ZekeJMiller @Reince @SharonDay GOP plan to stop Trump? LOL Maybe they can put up loser candidates like Romney, McCain and Jeb! #SemST	FAVOR
 20668	Donald Trump	@thehill it's called an ad hominem attack & it's used by people who know they can't win on the merits we r onto u congressman #SemST	FAVOR
 20669	Donald Trump	just want to give a big #shoutout to my #1 man these days, @realDonaldTrump  Get 'er done, big guy!!  #SemST	FAVOR
 20670	Donald Trump	@realDonaldTrump is the only candidate who has the backbone to get our #country back on the #rightpath #SemST	FAVOR
 20671	Donald Trump	And America wants to protest a silly flag but lets pro athletes get away with shit like that #SemST	FAVOR
 20672	Donald Trump	@EmmittSmith22 Who cares about you judging? You run wiith an inflated animal skin for entertainment. More time for brain surgury? #SemST	FAVOR
-20673	Donald Trump	Hey guise. Any recommendation for a good taco place in midtown? #Trump #SemST	FAVOR
+20673	Donald Trump	Hey guise. Any recommendation for a good taco place in midtown? #Trump #SemST	AGAINST
 20674	Donald Trump	@VLActionFund @Reince The same #RNC LOSERS that thought Romney & Palin were good choices needs to be THANKFUL Trump came along  #SemST	FAVOR
 20675	Donald Trump	I'll believe it when I see it. #BringBackOurUranium #SemST	FAVOR
-20676	Donald Trump	Hillary: -Assad is a reformer -Putin is re-settable -Libya Jihadist are allies -Iran not building Nukes -Strom is right #tcot #SemST	FAVOR
-20677	Donald Trump	Federal funds are cutoff if states dont bend to blood alcohol laws.Why should #sanctuarycities be different? #WhiteGenocide #tcot #SemST	FAVOR
+20676	Donald Trump	Hillary: -Assad is a reformer -Putin is re-settable -Libya Jihadist are allies -Iran not building Nukes -Strom is right #tcot #SemST	NONE
+20677	Donald Trump	Federal funds are cutoff if states dont bend to blood alcohol laws.Why should #sanctuarycities be different? #WhiteGenocide #tcot #SemST	NONE
 20678	Donald Trump	In addition to sanctuary cities, I'm done with Walmart too. #SemST	FAVOR
 20679	Donald Trump	. @realDonaldTrump American was great until you embarrassed us all to death #SemST	FAVOR
 20680	Donald Trump	@ericbolling @FoxNews I'll be there!! Who's on the panel? #SemST	FAVOR
@@ -702,7 +702,7 @@ ID	Target	Tweet	Stance
 20701	Donald Trump	Watching what Donald Trump said about Mexicans was shocking! Let's not give this appalling man a platform. #SemST	FAVOR
 20702	Donald Trump	They blew up the trade centers to cover their destructive trails, and paved the way for more death, war, and mind control. #SemST	FAVOR
 20703	Donald Trump	@realDonaldTrump we all want you as the next president !! You tell it has it is and not as a spineless politician! #SemST	FAVOR
-20704	Donald Trump	@RSherman_25 Join Twitter Trump brigade #onethousandtweets to support message #MakeAmericaGreatAgain @realDonaldTrump #SemST	FAVOR
-20705	Donald Trump	@JoeyBats19 Join Twitter Trump brigade #onethousandtweets to support message #MakeAmericaGreatAgain @realDonaldTrump #SemST	FAVOR
+20704	Donald Trump	@RSherman_25 Join Twitter Trump brigade #onethousandtweets to support message #MakeAmericaGreatAgain @realDonaldTrump #SemST	NONE
+20705	Donald Trump	@JoeyBats19 Join Twitter Trump brigade #onethousandtweets to support message #MakeAmericaGreatAgain @realDonaldTrump #SemST	AGAINST
 20706	Donald Trump	Trump's outlandish statements is political strategy. No one can be that stupid. #GOP #Strategy #SemST	FAVOR
 20707	Donald Trump	@RMConservative @DagnyRed ,P.C. is out of control,stop being offended ,we are a country of free thinkers,#1A #SemST	FAVOR

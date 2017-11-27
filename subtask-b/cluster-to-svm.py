@@ -1,6 +1,8 @@
 from nltk.tokenize import TweetTokenizer
 from sklearn.model_selection import train_test_split
 from sklearn.cluster import DBSCAN
+from MulticoreTSNE import MulticoreTSNE as TSNE
+
 
 import pickle
 import pandas
@@ -10,9 +12,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 from lib.custFunctions import adjVector, HashtagVector, atVector
 
-trainingsize = 0.8
-datasetprecent = 0.01
-eps = 1
+trainingsize = 0.99
+datasetprecent = 0.1
+eps = 3.5
 
 def outVect(lst,x,y,z):
     ret = []
@@ -60,40 +62,16 @@ trump = trump.loc[trump['Tweet'] != 'Not Available']
 train, test = train_test_split(trump, test_size=trainingsize)
 trump = train
 
-test = pandas.read_csv('data/test/SemEval2016-Task6-subtaskB-testdata-gold.txt', \
-    sep='\t', encoding='latin1')
-
-outdf = pandas.DataFrame(columns=['ID', 'Target', 'Tweet', 'Stance'])
-
 vec = vectorGen(trump)
+
+print("Computing t-SNE embedding")
+tsne = TSNE(n_jobs=-1,verbose=1)
+X_tsne = tsne.fit_transform(vec)
+
 print('Dbscanning')
 dbscan = DBSCAN(eps=eps, min_samples = \
-    int(np.floor(len(trump)*datasetprecent)), n_jobs = -1).fit(vec)
+    int(np.floor(len(trump)*datasetprecent)), n_jobs = -1).fit(X_tsne)
 labels = dbscan.labels_
 n_clusters = len(set(labels)) - (1 if -1 in labels else 0)
-
 print('Estimated number of clusters from training: %d' % n_clusters)
 
-print('===================================================')
-test_lbl = dbscan.fit_predict(vectorGen(test))
-
-test_clusters = len(set(test_lbl)) - (1 if -1 in test_lbl else 0)
-print('Estimated number of clusters from test: %d' % test_clusters)
-
-
-ID = list(map(lambda x: str(x), list(test['ID'])))
-
-lbl1 = outVect(test_lbl,0,1,2)
-lbl2 = outVect(test_lbl,1,2,0)
-lbl3 = outVect(test_lbl,2,0,1)
-
-s = zip(ID, list(test['Target']), test['Tweet'], list(lbl1))
-
-for x in s:
-    outdf.loc[len(outdf)] = list(x)
-
-outdf.set_index('ID')
-outdf.to_csv('data/output1.txt', sep='\t', index=False)
-
-subprocess.call(["perl", "eval.pl", "data/test/SemEval2016-Task6-subtaskB-testdata-gold.txt", \
-    "data/output1.txt"])
