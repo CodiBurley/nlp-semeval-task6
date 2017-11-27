@@ -1,6 +1,8 @@
 from nltk.tokenize import TweetTokenizer
 from sklearn.model_selection import train_test_split
 from sklearn.cluster import DBSCAN
+from MulticoreTSNE import MulticoreTSNE as TSNE
+
 
 import pickle
 import pandas
@@ -10,9 +12,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 from lib.custFunctions import adjVector, HashtagVector, atVector
 
-trainingsize = 0.8
-datasetprecent = 0.01
-eps = 1
+trainingsize = 0.99
+datasetprecent = 0.1
+eps = 3.5
 
 def outVect(lst,x,y,z):
     ret = []
@@ -57,10 +59,18 @@ def vectorGen(df):
 trump = pandas.read_csv('data/train/donaldTrumpTweets', sep='\t', encoding='latin1')
 trump = trump.loc[trump['Tweet'] != 'Not Available']
 
+train, test = train_test_split(trump, test_size=trainingsize)
+trump = train
+
 vec = vectorGen(trump)
+
+print("Computing t-SNE embedding")
+tsne = TSNE(n_jobs=-1,verbose=1)
+X_tsne = tsne.fit_transform(vec)
+
 print('Dbscanning')
 dbscan = DBSCAN(eps=eps, min_samples = \
-    int(np.floor(len(trump)*datasetprecent)), n_jobs = -1).fit(vec)
+    int(np.floor(len(trump)*datasetprecent)), n_jobs = -1).fit(X_tsne)
 labels = dbscan.labels_
 n_clusters = len(set(labels)) - (1 if -1 in labels else 0)
 print('Estimated number of clusters from training: %d' % n_clusters)

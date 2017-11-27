@@ -83,7 +83,6 @@ print('Estimated number of clusters from test: %d' % test_clusters)
 
 ID = list(map(lambda x: str(x), list(test['ID'])))
 
-
 lbl1 = outVect(test_lbl,0,1,2)
 lbl2 = outVect(test_lbl,1,2,0)
 lbl3 = outVect(test_lbl,2,0,1)
