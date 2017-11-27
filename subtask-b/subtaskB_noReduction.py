@@ -16,7 +16,7 @@ datasetprecent = 0.02
 def outVect(lst,x,y,z):
     ret = []
     lbl = ['FAVOR', 'AGAINST', 'NONE']
-    for x in test:
+    for x in lst:
         if x == -1:
             ret.append(random.choice(lbl))
         if x == 0:
@@ -87,14 +87,13 @@ lbl1 = outVect(test_lbl,0,1,2)
 lbl2 = outVect(test_lbl,1,2,0)
 lbl3 = outVect(test_lbl,2,0,1)
 
-
-
 s = zip(ID, list(test['Target']), test['Tweet'], list(lbl1))
 
 for x in s:
     outdf.loc[len(outdf)] = list(x)
+
 outdf.set_index('ID')
 outdf.to_csv('data/output1.txt', sep='\t', index=False)
 
-# subprocess.call(["perl", "eval.pl", "data/test/subtaskB-testdata-gold.txt", \
-#     "data/output.txt"])
+subprocess.call(["perl", "eval.pl", "data/test/SemEval2016-Task6-subtaskB-testdata-gold.txt", \
+    "data/output1.txt"])
