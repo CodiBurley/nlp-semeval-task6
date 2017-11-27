@@ -10,7 +10,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from lib.custFunctions import adjVector, HashtagVector, atVector
 
-testsize = 0.99
+testsize = 0.8
 datasetprecent = 0.02
 
 def outVect(lst,x,y,z):
