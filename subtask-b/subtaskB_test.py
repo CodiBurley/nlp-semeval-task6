@@ -7,15 +7,17 @@ import pickle
 import pandas
 import numpy as np
 import matplotlib.pyplot as plt
+from bokeh.plotting import figure, show, output_file
+from bokeh.models import HoverTool, ColumnDataSource
 from lib.custFunctions import adjVector, HashtagVector, atVector
 import subprocess
 
 # Load data
-df = pandas.read_csv('Subtask B/donaldTrumpTweets', sep='\t', encoding='latin1')
+df = pandas.read_csv('data/train/donaldTrumpTweets', sep='\t', encoding='latin1')
 
 #Parse out not available tweets 
 availableTweets = df.loc[df['Tweet'] != 'Not Available']
-train, test = train_test_split(availableTweets, test_size=0.99)
+train, test = train_test_split(availableTweets, test_size=0.60)
 
 print('adj vector')
 adj = adjVector(train['Tweet'])
@@ -42,5 +44,31 @@ print("Computing t-SNE embedding")
 tsne = TSNE(n_jobs=-1,verbose=1)
 X_tsne = tsne.fit_transform(X)
 
-with open('tsne.pickle', 'wb') as handle:
-        pickle.dump(X_tsne, handle, protocol=pickle.HIGHEST_PROTOCOL)
+db = DBSCAN(eps=3.5, min_samples = 2000, n_jobs = -1).fit(np.array(X_tsne))
+labels = db.labels_
+n_clusters_ = len(set(labels)) - (1 if -1 in labels else 0)
+
+print('Estimated number of clusters: %d' % n_clusters_)
+
+output_file("DBSCAN.html")
+
+colormap = {-1: 'black', 0: 'red', 1: 'green', 2: 'blue'}
+colors = [colormap[x] for x in labels]
+
+source = ColumnDataSource(data=dict(
+    x=X_tsne[:,0],
+    y=X_tsne[:,1],
+    colors=colors,
+    desc=list(df),
+))
+
+hover = HoverTool(tooltips=[
+    ("index", "$index"),
+    ("desc", "@desc"),
+])
+
+p = figure(tools=[hover,'pan','reset','wheel_zoom'], title="Mouse over the dots",plot_width=1000,plot_height=800)
+
+p.circle('x', 'y', color='colors', fill_alpha=0.2, size=7, source=source)
+
+show(p)
