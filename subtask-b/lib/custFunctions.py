@@ -1,11 +1,22 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.tokenize import TweetTokenizer
 from sklearn.feature_extraction.text import CountVectorizer
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from nltk.corpus import stopwords
 
 import numpy as np
 import nltk
 import pandas
+
+analyzer = SentimentIntensityAnalyzer()
+
+
+def sentiment(tweet):
+    return list(analyzer.polarity_scores(tweet).values())
+
+
+def sentiment_vector(tweets):
+    return list(map(sentiment, tweets))
 
 
 def HashtagToken(sent):
@@ -13,22 +24,27 @@ def HashtagToken(sent):
     returnTweet = [w for w in tweet if '#' in w]
     return returnTweet
 
+
 def atToken(sent):
     tweet = TweetTokenizer().tokenize(sent)
     returnTweet = [w for w in tweet if '@' in w]
     return returnTweet
 
+
 def tfidfVector(tweets):
     vectorizer = TfidfVectorizer(stop_words='english')
     return vectorizer.fit_transform(tweets)
+
 
 def HashtagVector(tweets):
     hashtag_vectorier = TfidfVectorizer(ngram_range=(1, 1), analyzer='word', lowercase=True,stop_words='english', min_df=10, tokenizer=lambda x: HashtagToken(x))
     return hashtag_vectorier.fit_transform(tweets)
 
+
 def atVector(tweets):
     hashtag_vectorier = TfidfVectorizer(ngram_range=(1, 1), analyzer='word', lowercase=True,stop_words='english', min_df=10, tokenizer=lambda x: atToken(x))
     return hashtag_vectorier.fit_transform(tweets)
+
 
 def posToken(sent):
     token = nltk.pos_tag(TweetTokenizer().tokenize(sent))
@@ -38,6 +54,7 @@ def posToken(sent):
             adj.append(w[0])
     return(adj)
      
+
 def adjVector(tweets):
     stops = set(stopwords.words("english"))
     tweets = tweets.apply(lambda x: x.lower())
